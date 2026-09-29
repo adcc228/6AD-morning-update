@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Morning Update</title>
+    <link>https://adcc228.github.io/6AD-morning-update/</link>
+    <atom:link href="https://adcc228.github.io/6AD-morning-update/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-gb</language>
+    <description>A 20-minute weekday digest of markets, macro, regulation and fund industry news for the operating side of an investment firm. AI-generated from public sources; for information only, not investment advice.</description>
+    <itunes:summary>A 20-minute weekday digest of markets, macro, regulation and fund industry news for the operating side of an investment firm. AI-generated from public sources; for information only, not investment advice.</itunes:summary>
+    <itunes:author>Morning Update</itunes:author>
+    
+    <itunes:image href="https://adcc228.github.io/6AD-morning-update/cover.jpg"/>
+    <image><url>https://adcc228.github.io/6AD-morning-update/cover.jpg</url><title>The Morning Update</title><link>https://adcc228.github.io/6AD-morning-update/</link></image>
+    <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Tue, 29 Sep 2026 15:51:46 +0000</lastBuildDate>
+    <item>
+      <title>Tue 29 Sep 2026: Yields hit cycle highs, Hormuz oil shock, FCA CFD crackdown, Apollo gates again</title>
+      <description>US 10-year above 5.25% and gilts near two-decade highs; Brent at $107 after the US rejects Iran&#x27;s Hormuz plan; BoE&#x27;s 6-3 hold and November hike pricing; Lagarde on measured hikes before Friday&#x27;s flash HICP. Regulation: FCA CFD crackdown, FOS changes from 1 October, Form PF delayed to July 2027, SEC pay-to-play rescission, frontier AI and operational resilience. Funds: Apollo Debt Solutions caps redemptions, AllianceBernstein names Onur Erzan CEO, active ETF hires and launches. Plus three COO action points.</description>
+      <itunes:summary>US 10-year above 5.25% and gilts near two-decade highs; Brent at $107 after the US rejects Iran&#x27;s Hormuz plan; BoE&#x27;s 6-3 hold and November hike pricing; Lagarde on measured hikes before Friday&#x27;s flash HICP. Regulation: FCA CFD crackdown, FOS changes from 1 October, Form PF delayed to July 2027, SEC pay-to-play rescission, frontier AI and operational resilience. Funds: Apollo Debt Solutions caps redemptions, AllianceBernstein names Onur Erzan CEO, active ETF hires and launches. Plus three COO action points.</itunes:summary>
+      <enclosure url="https://adcc228.github.io/6AD-morning-update/episodes/2026-09-29/episode.mp3" length="15197805" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-update-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:21:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
