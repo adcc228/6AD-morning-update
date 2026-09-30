@@ -8,7 +8,42 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ASSETS = os.environ.get("TTS_ASSETS", os.path.join(HERE, "assets"))
 PIPER = os.path.join(ASSETS, "piper")
 SR = 24000
-VOICES = {"A": ("bf_emma", 1.05), "B": ("bm_george", 1.05)}
+VOICES = {"A": ("bf_emma", 1.1), "B": ("bm_george", 1.1)}   # (voice, speed): 1.1 = brisk, upbeat pace
+GAP_LINE, GAP_CHUNK, GAP_PAUSE = 0.22, 0.08, 0.7                # seconds of silence between lines / chunks / sections
+
+# ---- Pronunciation -------------------------------------------------------
+# 1) Words said a particular way (checked case-sensitively, whole words). Add to this as needed.
+SAY_AS = {
+    "FTSE": "Footsie", "S&P": "S and P", "S & P": "S and P", "UCITS": "you sits", "Ucits": "you sits",
+    "ESMA": "Ezma", "NASDAQ": "Nasdaq", "OPEC": "Oh peck", "MiFID": "Miffid", "MiFIR": "Miffeer",
+    "SONIA": "Sonia", "SOFR": "sofer", "LIBOR": "lie bor", "ISA": "eye sa", "ISAs": "eye sas",
+    "SIPP": "sip", "SIPPs": "sips", "CAC": "Cack", "DAX": "Dax", "STOXX": "Stocks", "Stoxx": "Stocks",
+    "BoE": "B O E", "BoJ": "B O J", "HANetf": "Han E T F", "AllianceBernstein": "Alliance Bernstein",
+    "BlackRock": "Black Rock", "vs": "versus", "e.g.": "for example", "i.e.": "that is", "Q&A": "Q and A",
+}
+# 2) All-caps words read as words rather than letters (anything else in capitals is spelled out).
+AS_WORD = {"NATO", "DORA", "FINRA", "FRAME", "CREST", "SWIFT", "COVID", "NASA", "UNESCO", "PAUSE"}
+# 3) Letter names in IPA, so acronyms are spelled cleanly (FCA -> "eff see ay", COO -> "see oh oh").
+LETTERS = {"A": "eɪ", "B": "biː", "C": "siː", "D": "diː", "E": "iː", "F": "ɛf", "G": "ʤiː", "H": "eɪʧ",
+           "I": "aɪ", "J": "ʤeɪ", "K": "keɪ", "L": "ɛl", "M": "ɛm", "N": "ɛn", "O": "əʊ", "P": "piː",
+           "Q": "kjuː", "R": "ɑː", "S": "ɛs", "T": "tiː", "U": "juː", "V": "viː", "W": "dʌbəljuː",
+           "X": "ɛks", "Y": "waɪ", "Z": "zɛd"}
+
+def spell(letters, plural=False):
+    ipa = [("ˈ" if i == len(letters) - 1 else "ˌ") + LETTERS[c] for i, c in enumerate(letters)]
+    if plural:
+        ipa[-1] += "ɪz" if letters[-1] in "SXZ" else ("s" if letters[-1] in "FKPT" else "z")
+    return "«" + " ".join(ipa) + "»"   # «...» = raw IPA, passed straight to the voice model
+
+def pronounce(t):
+    for k, v in SAY_AS.items():
+        t = re.sub(r"(?<![\w&])" + re.escape(k) + r"(?![\w&])", v, t)
+    def acro(m):
+        word, plural = m.group(1), bool(m.group(2))
+        if word in AS_WORD or (word + m.group(2)) in AS_WORD:
+            return m.group(0)
+        return spell(word, plural)
+    return re.sub(r"\b([A-Z]{2,6})(s?)\b", acro, t)
 
 VOCAB = {';':1,':':2,',':3,'.':4,'!':5,'?':6,'—':9,'…':10,'"':11,'(':12,')':13,'“':14,'”':15,' ':16,
 '̃':17,'ʣ':18,'ʥ':19,'ʦ':20,'ʨ':21,'ᵝ':22,'ꭧ':23,'A':24,'I':25,'O':31,'Q':33,'S':35,'T':36,'W':39,'Y':41,'ᵊ':42,
@@ -30,6 +65,7 @@ def espeak(texts):
     return out
 
 def normalise(t):
+    t = pronounce(t)
     t = re.sub(r"(?<=\d),(?=\d{3})", "", t)            # 7,684 -> 7684 (commas would split clauses)
     t = re.sub(r"\$(\d+)\.(\d{2})\b", r"\1 dollars \2", t)  # $107.35 -> 107 dollars 35
     t = re.sub(r"(?<=\d)\.(?=\d)", " point ", t)        # 5.25 -> 5 point 25
@@ -38,17 +74,32 @@ def normalise(t):
     t = t.replace("–", ", ").replace("-", " ")
     return re.sub(r"\s+", " ", t).strip()
 
+LIGHT = {"the", "and", "a", "an", "of", "to", "at", "in", "on", "for", "from", "by", "with", "or", "per", "as", "is"}
+
+def fix(ph):
+    ph = ph.replace("tʃ", "ʧ").replace("dʒ", "ʤ").replace("ʲ", "j").replace("r", "ɹ").replace("x", "k").replace("ɬ", "l")
+    return ph.replace("\u0361", "").replace("‿", " ")
+
 def to_phonemes(text):
     parts = re.split(r"([,;:.!?—]+)", normalise(text))
     clauses, puncts = parts[0::2], parts[1::2] + [""]
-    phs = espeak([c for c in clauses])
     s = ""
-    for ph, p, c in zip(phs, puncts, clauses):
+    for p, c in zip(puncts, clauses):
         if not c.strip():
             s += p[:1]; continue
-        ph = ph.replace("tʃ", "ʧ").replace("dʒ", "ʤ").replace("ʲ", "j").replace("r", "ɹ").replace("x", "k").replace("ɬ", "l")
-        ph = ph.replace("͡", "").replace("‿", " ")
-        s += ph + (p[:1] if p else "") + " "
+        bits = re.split(r"«([^»]*)»", c)          # odd items are raw IPA from spell()
+        spoken = espeak([b for b in bits[0::2]])
+        out = []
+        for i, b in enumerate(bits):
+            if i % 2:
+                out.append(b)
+            else:
+                ph = fix(spoken[i // 2])
+                words = b.split()
+                if words and all(w.lower() in LIGHT for w in words):   # "the", "and" next to an acronym: keep unstressed
+                    ph = ph.replace("ˈ", "").replace("ˌ", "")
+                out.append(ph)
+        s += " ".join(x for x in out if x.strip()) + (p[:1] if p else "") + " "
     return s.strip()
 
 class TTS:
@@ -71,7 +122,7 @@ class TTS:
             style = self.voices[voice][len(ids)]
             wav = self.sess.run(None, {"tokens": np.array([[0, *ids, 0]], dtype=np.int64),
                                        "style": style.astype(np.float32), "speed": np.array([speed], dtype=np.float32)})[0]
-            audio.append(wav.squeeze()); audio.append(np.zeros(int(SR * 0.12), np.float32))
+            audio.append(wav.squeeze()); audio.append(np.zeros(int(SR * GAP_CHUNK), np.float32))
         return np.concatenate(audio)
 
 def render(script_path, out_mp3):
@@ -81,12 +132,12 @@ def render(script_path, out_mp3):
         line = line.strip()
         if not line: continue
         if line == "[PAUSE]":
-            segs.append(np.zeros(int(SR * 0.9), np.float32)); continue
+            segs.append(np.zeros(int(SR * GAP_PAUSE), np.float32)); continue
         m = re.match(r"^([AB]):\s*(.+)$", line)
         if not m: continue
         v, sp = VOICES[m.group(1)]
         segs.append(tts.say(m.group(2), v, sp))
-        segs.append(np.zeros(int(SR * 0.35), np.float32))
+        segs.append(np.zeros(int(SR * GAP_LINE), np.float32))
     audio = np.concatenate(segs)
     audio = audio / max(1e-6, np.abs(audio).max()) * 0.9
     wav_path = out_mp3.rsplit(".", 1)[0] + ".wav"
