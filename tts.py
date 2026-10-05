@@ -19,7 +19,7 @@ SAY_AS = {
     "SONIA": "Sonia", "SOFR": "sofer", "LIBOR": "lie bor", "ISA": "eye sa", "ISAs": "eye sas",
     "SIPP": "sip", "SIPPs": "sips", "CAC": "Cack", "DAX": "Dax", "STOXX": "Stocks", "Stoxx": "Stocks",
     "BoE": "B O E", "BoJ": "B O J", "HANetf": "Han E T F", "AllianceBernstein": "Alliance Bernstein",
-    "BlackRock": "Black Rock", "vs": "versus", "e.g.": "for example", "i.e.": "that is", "Q&A": "Q and A",
+    "BlackRock": "Black Rock", "vs": "versus", "NEOS": "Neos", "LTAF": "L T A F", "e.g.": "for example", "i.e.": "that is", "Q&A": "Q and A",
 }
 # 2) All-caps words read as words rather than letters (anything else in capitals is spelled out).
 AS_WORD = {"NATO", "DORA", "FINRA", "FRAME", "CREST", "SWIFT", "COVID", "NASA", "UNESCO", "PAUSE"}
