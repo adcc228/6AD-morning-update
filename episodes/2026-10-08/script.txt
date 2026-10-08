@@ -1,0 +1,97 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Thursday, the eighth of October, twenty twenty six. I'm Emma.
+B: And I'm George! Emma, the bond market is not letting go this morning, is it? Wall Street's record run stopped on Wednesday, and the ten year Treasury yield touched its highest level since two thousand and two!
+A: Big one, George. And the Federal Reserve's minutes were the trigger. Officials said another rate rise would likely be appropriate by the end of the year. Over here, the thirty year gilt yield climbed above six percent, to its highest since nineteen ninety eight!
+B: Brent crude is back around one hundred dollars after fresh attacks around the Strait of Hormuz. On the regulation side, the Financial Conduct Authority has a new consultation on transaction reporting, and a final policy statement on cryptoasset perimeter guidance.
+A: We'll also run through the fund industry, then the three things a COO should do something about today, and your diary for the week. So it's markets first, then macro and central banks, then regulation.
+B: Right, Emma, let's get into it!
+[PAUSE]
+B: Markets, and we start in New York, where the party paused on Wednesday after two straight record closes.
+A: It did, George. The S&P five hundred slipped about a quarter of a percent to close at around seven thousand, eight hundred. Sources differ by a few points on the exact figure, so treat that as approximate. The Dow Jones lost about two thirds of a percent, to just under fifty one thousand, two hundred. And the Nasdaq Composite fell about zero point two percent, to twenty seven thousand, five hundred and thirty nine.
+B: And that ended a winning streak, so not a disaster, Emma. But what's behind it?
+A: Bonds, George. The ten year Treasury yield rose to about five point three five percent. That is its highest level since two thousand and two! And the thirty year touched around five point seven two percent, a twenty four year high.
+B: Let's explain for newer listeners. When a bond's yield rises, its price falls. And a higher yield on safe government debt makes shares look relatively less attractive, because investors can earn more without taking equity risk.
+A: Exactly. Chip makers and big technology names led the retreat, and Nvidia slipped back from its all time high. The question for the market is whether the tech earnings story can keep outrunning the bond market. So far, it has!
+B: Now to Europe and the UK. We could not get clean closing levels for the FTSE one hundred or the pan European Stoxx six hundred, so we'll leave those out rather than guess. What we can say is that the bond selloff was global, and it was felt strongly in London.
+A: The headline, George, is the gilt market. The thirty year gilt yield jumped about thirteen basis points on Wednesday and peaked at just over six percent. That's its highest since January nineteen ninety eight, and above the previous high set last week. A basis point is one hundredth of a percentage point.
+B: And the ten year gilt, which is the real benchmark for the government's cost of new borrowing, was around five point four eight percent. That is only just short of its highest since two thousand and seven.
+A: Which matters, because the budget is on the twenty eighth of October. Three weeks. Every notch higher in gilt yields makes the Chancellor's sums tougher!
+B: Currencies. Sterling was a little above one dollar thirty two cents, weighed down by a stronger dollar as the bond selloff went on. We couldn't verify clean levels against the euro or the yen, so we'll skip those.
+A: Gold fell more than one percent to around four thousand, one hundred and ten dollars an ounce. Interesting, George, because higher real yields tend to hurt gold.
+B: And oil, Emma. Brent futures settled just above one hundred dollars a barrel, around one hundred dollars and twenty cents, with the move driven by attacks linked to Houthi forces on Saudi airports and shipping around the Strait of Hormuz.
+A: A reminder that different sources give slightly different Brent levels, so think of it as roughly one hundred dollars. We also could not verify Asia's overnight moves or credit spreads this morning, so we have left them out.
+B: So what does this mean for operations, Emma?
+A: Three things, George. First, when government bond yields hit multi decade highs, the value of collateral can move quickly. Check your margin and collateral processes, and how fast you can see exposures within the day, not just at the close.
+B: Second, for any fund holding long dated gilts or Treasuries, daily pricing and liquidity questions get sharper. Valuation teams should be ready for volatility, and for questions from clients about performance.
+B: And the third, Emma, is communication. If your clients see a headline about gilts at their highest since nineteen ninety eight, they will ring their relationship managers first, and operations second. Have a short, factual holding line ready.
+A: Good point. And fourth, if you run any liability driven or pension related mandates, those are exactly where long gilt moves bite hardest, so check your collateral buffers there first.
+B: Agreed. Now, one more.
+A: Make sure you know who is on call when a headline arrives. Right, George, macro and central banks!
+[PAUSE]
+A: Macro now, and the story is the same as it has been for weeks, George. Energy, inflation, and central banks deciding how hard to lean against them.
+B: Let's start with the Fed, Emma, because the minutes of its September meeting landed on Wednesday evening, UK time. Remember, that was the meeting where it raised rates for the first time since twenty twenty three.
+A: And the tone was hawkish! The minutes said that most participants thought another increase in the target range would likely be appropriate by the end of the year. The reason, George, is inflation that has run above target for more than five years.
+B: That's striking, isn't it, Emma? Because since that meeting, the data has been softer. Jobs growth slowed sharply, and market pricing for a rise at the October meeting has fallen to somewhere around seventeen to twenty percent.
+A: So we have a gap between what the committee said in September and what the market now expects. The minutes narrowed that gap a little, and that's part of why Treasury yields jumped. The next decision comes later this month, and we'll watch for the Fed's own words.
+B: Over to the Bank of England. Bank Rate is three point seven five percent. At the September meeting, three members voted for a rise. The next decision is on the fifth of November.
+A: And the gilt market is, in effect, voting too, George. Yields at these levels mean the market thinks inflation risks are tilted up, or that the government needs to borrow a lot, or both. For a COO, the practical point is this.
+B: Go on.
+A: Ask your treasury and finance teams what a rate rise on the fifth of November would do. Floating rate borrowing, fund level credit lines, and any fee or distribution assumptions built on a particular rate path. Run the numbers on a rise, not just a hold.
+B: Now, the budget. The Autumn Budget is on the twenty eighth of October. Bond investors are watching for anything that looks unfunded, and the thirty year gilt at six percent shows how nervous they are!
+A: And for investment managers, budgets can land with very short timetables. Anything on pensions, savings, stamp duty, or funds and investment products can mean system changes and client communications within weeks. So have a named person assigned to watch budget day announcements and brief you within the hour.
+B: In the euro area, the European Central Bank is due to publish the accounts of its latest meeting today, according to our diary. We couldn't see the content before recording, so we won't guess. They normally show how divided policymakers were, and how much weight they put on energy driven inflation. The next ECB decision is on the twenty ninth of October.
+A: Now to geopolitics, which ties it all together. The Strait of Hormuz remains the biggest swing factor for oil, inflation, bond yields and central bank decisions. The latest flare up involves attacks linked to Houthi forces on Saudi airports and shipping.
+B: And we should be careful here. Headlines move fast, and both sides' claims are often contradicted within hours. But the market effect is clear. Oil back at about one hundred dollars, yields up, and rate rise expectations stay alive.
+A: So even if you never trade a barrel of oil, this shapes your funding costs, client flows and valuations!
+B: A practical point, Emma. A lot of investment firms have a market stress plan on paper. Do you test it? If oil jumped another ten dollars on a Monday morning, would your teams know who calls whom?
+B: And it's worth writing down who has authority to act, Emma. Who can approve emergency funding, who can suspend dealing, who talks to the regulator.
+A: Right, and with the Fed, the budget and the ECB all within a couple of days of each other at the end of the month, now is the time to rehearse. Good, let's turn to regulation.
+[PAUSE]
+A: Regulation, George, and there's quite a lot to get through this morning.
+B: Start with the new consultation, Emma. On the second of October, the Financial Conduct Authority published consultation paper twenty six thirty four, on preparing for the new transaction reporting regime. Feedback is requested by the sixth of November.
+A: Let's explain. Transaction reporting is the obligation to tell the regulator about your trades, who traded, what, when and at what price, so that they can detect market abuse. The FCA is reshaping the regime, and this paper is about getting firms and systems ready for it.
+B: Why does a COO care? Because this is a data and technology project at heart. Which trades are in scope, what fields you must populate, who reports, you or your broker or an approved reporting mechanism, and how you fix errors. Every change means system changes, testing, and a conversation with vendors.
+A: So the practical to do is this. Ask your head of trading operations to read the paper this week, and to list which of your reporting flows would change. Then decide whether you respond to the consultation directly or through a trade body, before the sixth of November.
+B: Next, crypto. The FCA has published policy statement twenty six eighteen, finalising its perimeter guidance for the new regulated cryptoasset activities regime. Perimeter guidance, for those who haven't met the term, is the regulator telling you which activities fall inside the rules and which sit outside.
+A: And the regime itself starts on the twenty fifth of October twenty twenty seven, George. A year is not long, if your firm is considering crypto exchange traded products, tokenised funds, or any client facing crypto activity.
+B: So for COOs, if there is any chance your firm touches crypto, even through a fund or a client request, get legal and compliance to map it against the guidance now, so you know whether authorisation would be required.
+A: A few more items from the week. On Monday, the FCA published remarks from Jon Relleen, its director of infrastructure and exchanges, about reforming UK public and private markets. The message, as we said yesterday, is that major pieces of a multi year reform programme are done.
+B: And a reminder, Emma, of the consultations we flagged yesterday. The alternative fund managers paper, which is CP twenty six twenty eight, closes on the fourteenth of October, a week today. And FRAME, the fund reporting consultation, now closes on the twenty second of October.
+A: Those two together are part of the package the FCA says could save asset managers around one hundred and twenty eight million pounds a year. But the savings only arrive if the final rules actually fit your operating model, so tell the regulator where they would help, and where they would not.
+B: Also on the calendar, the fund liquidity rules in policy statement twenty six seventeen start on the first of February twenty twenty seven. That's about four months away, and the rules are practical. They are about how funds manage liquidity, which tools they have, and how quickly they can use them.
+A: Given gilt yields and credit conditions, this isn't theoretical. If redemptions rise, can you show who decides to use a liquidity tool, what information they need, and how quickly investors and distributors would be told?
+B: Longer dated deadlines, Emma. UK settlement moves to a one day cycle, T plus one, on the eleventh of October twenty twenty seven. And Form PF in the United States is delayed to the first of July twenty twenty seven.
+A: For T plus one, the work is operational. Matching, allocations, funding, stock lending, foreign exchange for overseas investors, and cut off times with your custodians and administrators. It is much harder to fix a settlement process under a compressed timetable. Start dry runs early.
+B: We didn't find significant new publications overnight from the Prudential Regulation Authority, His Majesty's Treasury, the European Securities and Markets Authority, the Securities and Exchange Commission or the Commodity Futures Trading Commission, so we'll move on rather than stretch.
+A: One reminder from yesterday, though. The European Commission said it won't adopt non essential detailed rules, known as Level Two acts, before the first of October twenty twenty seven. If you have an EU fund range or management company, re-plan those projects rather than cancel them.
+B: So the regulatory shopping list, Emma?
+A: One, transaction reporting, response due the sixth of November. Two, the alternative fund managers paper, due in a week. Three, FRAME, due the twenty second. Four, a quick crypto check. And five, an eye on the liquidity rules.
+B: Brilliant. That's a busy calendar, and a COO should have it on one page! Right, funds and industry.
+[PAUSE]
+B: Funds and industry now, Emma. It's a quieter morning for headline deals, so let's be honest about what we found.
+A: We are, George. Let's start with Impax Asset Management, which is planning a systematic equities fund launch. The reported detail is that its assets under management reached twenty three point three billion pounds in the second quarter, up four point four percent on the previous quarter, though it also saw about one point seven billion pounds of outflows.
+B: That combination, growth in assets but net outflows, is a pattern we see across the industry. Market gains lift the asset base, but clients are still moving money around. Which means fee income and operating costs both need watching.
+A: And a new fund launch is an operational project from day one, George. Product governance, fund documents, pricing, dealing arrangements, distribution agreements, and the data feeds to platforms. A systematic strategy also brings model risk and data questions.
+B: Next, platforms and wrappers. At the end of September, AJ Bell teamed up with Standard Life to launch an offshore bond, which has a headline feature of tax deferred withdrawals of five percent. That's a reminder that wrappers matter to distribution as much as the investment product itself.
+A: And an Investment Week report from the end of September said retail investors are becoming more sceptical of artificial intelligence and IPOs, and more selective in what they buy. Notable, isn't it, George, given that the stock market is being driven by AI?
+B: It is, Emma. If your clients are cautious, expect more questions about concentration, about what exactly sits in your funds, and about fees. Make sure your client communications teams have clear, factual answers ready.
+A: We couldn't verify any fresh fund closures, gating events, senior hires or enforcement actions this morning, so we've left them out.
+B: Let me add one theme to finish, Emma. With yields at these levels, bond funds will see price swings, and funds with illiquid assets, such as property or private credit, tend to see higher redemption requests. A gate limits how much can be withdrawn at once, to protect the remaining investors.
+A: So test it. Who decides to gate? What data do they need? How fast can you tell investors and distributors? And is it all written down? Those answers matter more than any policy document.
+B: And it ties back to the Financial Conduct Authority's liquidity rules. Rehearse now, not in February twenty twenty seven!
+B: One more thought on that, Emma. Three weeks is not long. Budget day, the Fed and the ECB all fall in the same few days, so a plan agreed this week will serve you well!
+A: And that plan should name a deputy for every owner, George, because key people go on holiday, fall ill, or get stuck on a train. Resilience is mostly about having a second person who knows what to do.
+B: Well said. Also worth asking, Emma, whether your third party providers have their own plans. Your custodian, administrator and data vendors will all be feeling the same market strain, and you want to hear about problems from them early.
+A: Exactly, George. A short call with your key providers this week costs nothing, and could save a very bad afternoon!
+A: Which takes us to the part where we pull it together.
+B: Three things a COO should do something about today!
+[PAUSE]
+A: Number one, George. Check how you would see and fund a big move this week. The ten year Treasury is at its highest since two thousand and two, the thirty year gilt is above six percent, and oil is moving on every Hormuz headline. Check margin, cash buffers, collateral and redemption scenarios, and confirm who is on call.
+B: Number two, Emma. Put the regulatory dates on one page. The alternative fund managers paper on the fourteenth of October. FRAME on the twenty second. Transaction reporting on the sixth of November. And decide who responds to each, you or a trade body.
+A: Number three, get ready for rate and budget season. The Fed later this month, the Budget on the twenty eighth of October, the European Central Bank on the twenty ninth, and the Bank of England on the fifth of November. Named decision makers for each, and a plan for a rate rise in London.
+B: Now the diary for the week, Emma. Today, Thursday the eighth of October, the European Central Bank is due to publish the accounts of its latest meeting.
+A: Friday the ninth, Chinese inflation data, Canadian jobs figures, and American consumer sentiment. World Investor Week runs until the eleventh.
+B: Looking further out, the fourteenth of October for American consumer prices, and for the alternative fund managers consultation to close. Then the twenty second for FRAME, the twenty eighth for the Budget, the twenty ninth for the ECB, the fifth of November for the Bank of England, and the sixth of November for the transaction reporting consultation.
+A: Big weeks ahead, George!
+B: They are, Emma. And a note for listeners: the Fed rate path and the Hormuz headlines are the two things that could change this picture overnight, so keep an eye out.
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice. Please check the primary sources before acting on anything you've heard.
+B: Thanks for listening, and have a brilliant Thursday! We'll be back tomorrow morning.
