@@ -15,7 +15,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 08 Oct 2026 06:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:06:00 +0000</lastBuildDate>
+    <item>
+      <title>Fri 09 Oct 2026: Nasdaq slides on OpenAI revenue report, Brent above 104 dollars, BoE November hike odds, FCA Connect for fund filings</title>
+      <description>Tech leads Wall Street lower after a report that OpenAI revenue is short of signals, while Brent jumps above 104 dollars and Treasury yields stay near 24-year highs. Markets price about an 83 percent chance of a Bank of England hike on 5 November, and the FCA moves fund authorisation filings onto Connect from 2 November. Plus active ETF launches, three COO action points and the week&#x27;s diary.</description>
+      <itunes:summary>Tech leads Wall Street lower after a report that OpenAI revenue is short of signals, while Brent jumps above 104 dollars and Treasury yields stay near 24-year highs. Markets price about an 83 percent chance of a Bank of England hike on 5 November, and the FCA moves fund authorisation filings onto Connect from 2 November. Plus active ETF launches, three COO action points and the week&#x27;s diary.</itunes:summary>
+      <enclosure url="https://adcc228.github.io/6AD-morning-update/episodes/2026-10-09/episode.mp3" length="13582125" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-update-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:18:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thu 08 Oct 2026: Fed minutes hawkish, 30-year gilt tops 6%, FCA transaction reporting consultation, crypto perimeter guidance final</title>
       <description>Wall Street&#x27;s record run pauses as the ten-year Treasury yield hits its highest since 2002 after hawkish Fed minutes, and the 30-year gilt yield tops six percent for the first time since 1998, with Brent back near one hundred dollars. The FCA consults on transaction reporting (CP26/34) and finalises crypto perimeter guidance (PS26/18). Plus fund industry notes, three COO action points and the week&#x27;s diary.</description>
