@@ -1,0 +1,104 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Monday, the twelfth of October, twenty twenty six. I'm Emma.
+B: And I'm George! Emma, Monday morning, and it's a busy one. Because this covers the whole weekend, we've gone back seventy two hours.
+A: We have, George! Wall Street finished last week with a rally. The Dow jumped more than four hundred points on Friday, and the S&P five hundred finished within a whisker of its record high!
+B: The reason was oil. President Trump said America would not attack Iran before the midterm elections, and Brent fell, though it stayed above one hundred dollars a barrel. Ten year Treasury yields eased back from a twenty four year high. The FTSE one hundred rose more than one percent!
+A: In macro, a huge week for data and central bank speakers, with American inflation on Wednesday and British growth on Thursday. In regulation, we have a clutch of consultation deadlines, plus a new one on transaction reporting. Then funds and industry, with some firsts in the European ETF market.
+B: After that, three things a COO should do something about today, and your diary for the weeks ahead. Right, Emma, let's get into markets!
+[PAUSE]
+B: Markets, and we start in New York, where Friday was a good day to finish a bumpy week, Emma.
+A: It was, George! The Dow Jones Industrial Average gained four hundred and twenty three points, or point eight three percent, to close at fifty one thousand, six hundred and fifty five. The S&P five hundred rose point five nine percent to seven thousand, eight hundred and twelve. And the Nasdaq Composite added point six four percent, to twenty seven thousand, three hundred and sixty six.
+B: And for the week?
+A: All three finished higher. The S&P was up about one point two percent, the Dow nearly one percent, and the Nasdaq about point six percent. That's the Nasdaq's fourth weekly gain in a row, which is quite a run!
+B: Now, that follows two wobbly days at the end of the previous week, so it's a reminder of how quickly sentiment swings. The S&P came close to topping the record it set on Tuesday.
+A: What lifted it? Oil, mainly. Brent was down more than one percent on Friday, at around one hundred and three dollars a barrel, after the President's comment on Iran. It's still above one hundred, mind you.
+B: Let's explain why that matters. Oil feeds into almost everything, from transport costs to inflation, and when inflation is high, central banks keep rates higher for longer. So a fall in oil is good news for bonds and shares alike.
+A: And the bond market did calm. The American ten year yield was about five point two four percent on Friday. On Wednesday it touched nearly five point three seven percent, its highest in twenty four years. A strong thirty year auction helped cool things down.
+B: A quick note for today, Emma. It's Columbus Day in the United States. Stock markets are open, but the bond market is shut, so Treasury trading will be thin and prices can jump around on very little.
+A: Good point. Now, Europe. The FTSE one hundred closed at ten thousand, five hundred and fifty two, up one point one percent, helped by miners as metal prices rose. Over the week it gained nearly nine tenths of a percent, while the German DAX slipped about half a percent and the French CAC forty lost about one point two percent.
+B: On Friday itself, the DAX was up one point one percent, to twenty five thousand, and eighty seven, and the CAC was up nearly one percent, at seven thousand, eight hundred and three.
+A: Asia now. Japan's Nikkei two twenty five ended Friday almost unchanged, at around sixty nine thousand, which is about one percent higher on the week. Shanghai was flat at around three thousand, eight hundred and twelve. We couldn't verify this morning's Asian closes, so we'll leave those out.
+B: Gold is interesting. Spot gold rose nearly two percent on Friday, to around four thousand, one hundred and eighty dollars an ounce, as those yields eased. When yields fall, gold becomes more attractive, because it pays no interest of its own.
+A: And gilts, George. The thirty year gilt yield touched six percent on Wednesday, and the ten year hit multi decade highs at the same time. By Friday, both were easing back, but we couldn't verify the closing levels, so treat them as a direction, not a number.
+B: Sterling fell to about one dollar thirty two and twenty cents on Wednesday's sell-off, and later reports had it a touch higher, near one dollar thirty two and a half.
+A: We also couldn't verify the euro, the yen, or credit spreads, so we've left those out rather than guess. You'll hear that a lot from us when the data isn't solid, and we think that's the right approach!
+B: So what does this mean for a COO, Emma?
+A: Three quick things, George. First, thin markets today. With the Treasury market shut, if you have collateral or margin calls referenced to American government bond prices, expect odd numbers and delayed valuations.
+B: Second, rate sensitivity. Yields have swung by well over a tenth of a percentage point in a week. If your funds hold long dated bonds, check that your daily pricing and your liquidity tools can cope with that swing.
+A: And third, oil headlines. A single sentence from a politician moved Brent by more than a percent. Make sure your teams know who decides what happens if a market-moving headline lands outside normal hours.
+B: Right. That's markets. Emma, over to you for macro and central banks.
+[PAUSE]
+A: Macro, George, and the story is about two things at once: stubborn inflation and a wobbling economy.
+B: Start in London.
+A: The Bank of England's rate is three point seven five percent. At its September meeting, six members voted to hold, and three voted to raise by a quarter of a point to four percent. Those three were Megan Greene, Catherine Mann and Huw Pill.
+B: And the next decision is on the fifth of November. Estimates of the chance of a hike differ, Emma. Some sources say about eighty percent, others say about ninety, so I'd say the market thinks a hike is very likely, but not certain!
+A: Right. And the reading of Governor Bailey differs too. Some outlets say he warned that stubbornly high energy prices could force a hike. Others say he gave markets few clues. So the accurate summary is that he hasn't ruled it out, and he's said that he wants an unwavering commitment to the inflation target.
+B: The key piece of context is that it all hangs on energy. One analysis argues the hike depends entirely on whether oil and gas come lower, with a hold the base case if they cool. Another, from Berenberg, expects just one hike in November, followed by cuts from late next year.
+A: Which is why Brent matters so much. Every dollar off the oil price eases the pressure on the Bank, so it's worth watching this week's Iran headlines as closely as the data.
+B: On that note, Iran. The foreign minister, Abbas Araqchi, said on Friday that Tehran is reviewing America's response to its plan to reopen the Strait of Hormuz within seven days. One report this morning says Iran has called that American response insufficient. So reports conflict, and we're keeping a close eye.
+A: Meanwhile, the data. British inflation was three point one percent in August, up from two point nine percent in July. September's figure is due on the twenty first of October, which is a very important day indeed.
+B: And the labour market is softening, Emma. Unemployment was four point nine percent for the three months to July. Updated figures are due on the twentieth of October.
+A: Then on Thursday, the fifteenth, the monthly GDP figure for August. One preview says forecasters expect a decline of about a tenth of a percent, after growth of four tenths in July. Another earlier summary called it growth, so sources differ. Either way, the message is a sharp slowdown!
+B: Which is the Bank's dilemma. Inflation is too high, and growth is weak. Raising rates into a slowdown is uncomfortable.
+A: And of course, the Chancellor has that dilemma too. The Budget is on the twenty eighth of October, and with gilt yields at multi decade highs, there's far less room to borrow.
+B: Think about that. A thirty year gilt at six percent is the highest since nineteen ninety eight. We'll cover the Budget when it lands.
+A: Now to the rest of the world. In America, consumer price inflation for September is due on Wednesday at one thirty in the afternoon UK time, alongside the Fed's Beige Book, the regional snapshot of the economy. Bank earnings season also kicks off this week.
+B: And in the euro area, the European Central Bank has its next decision on the twenty ninth of October. Its deposit rate is currently two point five percent after the September rise, and inflation in August was three point three percent.
+B: And the Bank of England has a run of speeches this week, so expect the hike odds to shift!
+A: So, George, how does all this reach a COO's desk?
+B: Through three pipes, Emma. Funding costs, because a hike makes borrowing dearer. Valuations, because bond prices are very sensitive to the rates path. And client behaviour, because rising rates change where investors want to hold their money.
+A: A pragmatic step is to make sure your finance and treasury teams have run the November hike scenario on everything from fund expenses to your own cash buffers. Not because it's certain, but because it's likely enough to deserve a plan!
+B: Right. Let's get into regulation!
+[PAUSE]
+A: Regulation, and a theme of consultations closing, George, with a few new ones opening.
+B: Yes. And we begin with something brand new, Emma. On the second of October, the FCA published a consultation, CP twenty six thirty four, on preparing for a new transaction reporting regime. Feedback is due by the sixth of November.
+A: Let's explain. Transaction reporting is when you tell the regulator about the trades you make, so it can spot market abuse. The FCA is rewriting the rules, and that means changes to your data, your reporting systems, and your vendors.
+B: And a COO should ask who owns that in the firm. Is it your operations team, your technology team or your compliance team? It's a classic example of a project that falls between three desks.
+A: Exactly. Read the paper, work out what data fields might change, and ask your reporting provider what they're planning. And if you want to influence the outcome, you have about three and a half weeks.
+B: Next, the asset management reform package. In July, the FCA published three consultations alongside the Treasury, and the FCA says it could save asset managers about one hundred and twenty eight million pounds a year!
+A: Where are we? The big one, CP twenty six twenty eight, the UK alternative investment fund manager regime, has a general closing date of this Wednesday, the fourteenth of October, according to several law firm summaries. But the FCA's own page says the deadline for the prudential chapter has been extended to the twenty second of October.
+B: So, two dates, Emma. The sensible reading is that most chapters are due on the fourteenth, with the prudential chapter later. If you're not sure, check the FCA's page today.
+A: And the FRAME consultation, on fund reporting, has also been extended, to the twenty second of October. FRAME stands for Fund Reporting for Asset Management Entities, and it's a proposed new framework for the data you send the regulator on your funds.
+B: The FCA says it plans to issue more prototype forms before the end of the year, publish final rules in the first half of next year, and bring in the full regime in twenty twenty eight.
+A: For a COO, that last bit matters. A new reporting regime in twenty twenty eight means data work starting in twenty twenty seven. If the rules change how you gather fund data, you'll need your administrators, your data vendors and your systems team involved early!
+B: The remuneration consultation closed in September, with a policy statement expected in the first quarter of next year.
+A: Now to tokenisation. A law firm update in January said the FCA expects to publish proposals on fund tokenisation in October. We couldn't confirm that it's out yet, so watch this space this month.
+B: Tokenisation means representing fund units as digital tokens on a ledger. It sounds futuristic, but it affects your transfer agency, your registers and your settlement. So it's worth getting your operations team to follow it.
+A: And across the Channel, a few items. ESMA is consulting on whether tokenised collateral can be used safely in central clearing, with the deadline on the fifteenth of January twenty twenty seven. ESMA has also issued a statement on third country access to central securities depositories, and published its priorities for twenty twenty seven, centred on the Savings and Investments Union and on simplifying the rules.
+B: Over in America, the Securities and Exchange Commission has a consultation on proposals for crypto asset custody. We didn't find fresh overnight publications from the Treasury or the Commodity Futures Trading Commission.
+A: And we didn't find a new enforcement notice or Dear CEO letter for fund managers this morning, so there's nothing to report there.
+B: Right, let's give listeners the long dated deadlines, because they matter for project planning.
+A: The new fund liquidity rules, under policy statement twenty six seventeen, start on the first of February twenty twenty seven. UK T plus one settlement goes live on the eleventh of October twenty twenty seven. And the American Form PF deadline has been pushed back to the first of July twenty twenty seven.
+B: So, three fixed dates, Emma. Work backwards from each one, and put them in a single plan, with a named owner for each.
+A: Absolutely. And a reminder: from the second of November, certain fund applications go through the FCA's Connect system. Check your access now!
+B: Good. That's regulation. Over to funds and industry.
+[PAUSE]
+A: Funds and industry, George, and it's a story of firsts in the European ETF market.
+B: It is. HANetf has launched what it says is Europe's first covered call ETF with daily options expiries, which is a fund that sells options on a stock index to generate income. And earlier, in September, it launched what it says is Europe's first ETF paying income weekly.
+A: Weekly income! That's a nice feature for clients, though it's a challenge for operations. More frequent distributions mean more cash movements, more reconciliation and more tax reporting.
+B: And Morgan Stanley Investment Management is said to be preparing its first suite of European ETFs. We couldn't confirm that they've launched, so treat that as a preview.
+A: The bigger picture comes from J.P. Morgan's mid-year review of UCITS ETFs. It says active products are growing quickly, that active UCITS ETFs were more than forty percent of all active ETF launches last year, and it expects more active managers to enter Europe.
+B: Which echoes what we covered on Friday, Emma, with Capital Group, Invesco and others launching active UCITS ETFs.
+A: Why does that matter for a COO? Because an active ETF changes your operating model. You need authorised participants, market makers, daily portfolio disclosure, and a share class that trades on an exchange all day.
+B: And if you're thinking of launching one, the first question should be about the plumbing. Who is your administrator? Does your custodian support in kind creations? And can your compliance team monitor trading in your own shares?
+A: Now to consolidation. One industry report says Europe has been the busiest region for asset manager deals this year, with sixty one managers bought or merged, in deals worth about nineteen billion dollars. The same report says Nuveen bought Schroders in February.
+B: We couldn't verify the figures independently, so treat them as one source. But the direction is clear, and it's consolidation.
+A: Another example. Guinness Global Investors agreed in June to buy Foresight Group's public markets division, covering seven strategies.
+B: Deals are a masterclass in operations, Emma. Systems migration, client communications, fund mergers, contracts, and regulatory notifications, all on a tight timetable.
+A: In the US, T. Rowe Price's active emerging markets bond ETF began trading on the first of October.
+B: And as for gating, closures and senior hires, we found nothing verifiable in the last seventy two hours, so we'll leave those out.
+A: Which brings us to the part where we pull it together.
+B: Three things a COO should do something about today!
+[PAUSE]
+A: Number one, George. Plan for a volatile week. We have American inflation on Wednesday, British growth on Thursday, a run of Bank of England speeches, and Iran headlines that can move oil by more than one percent. Check your margin and collateral buffers, and who is on call.
+B: Number two, Emma. Decide your consultation responses. The alternative investment fund managers paper closes on Wednesday for most chapters, the prudential chapter and FRAME on the twenty second, and transaction reporting on the sixth of November. If you want to be heard, either respond directly or through a trade body.
+A: Number three, George. Map your fixed regulatory dates. Fund liquidity on the first of February, Form PF on the first of July, and UK T plus one on the eleventh of October next year. Put them on one plan, with an owner and a budget for each.
+B: Now your diary, Emma. Today, Monday the twelfth, Columbus Day in America, so the bond market is shut.
+A: Tuesday the thirteenth and Wednesday the fourteenth, a run of Bank of England speeches. On Wednesday, American consumer prices and the Beige Book, and the general deadline for the alternative investment fund manager consultation.
+B: Thursday the fifteenth, British GDP for August. Tuesday the twentieth, the British labour market. Wednesday the twenty first, British inflation for September.
+A: Thursday the twenty second, the deadlines for FRAME and the prudential chapter. Then Wednesday the twenty eighth, the Budget, and one calendar says the Fed decides that day too, though please check that on the Fed's own website.
+B: Thursday the twenty ninth, the European Central Bank. Monday the second of November, Connect for fund applications. Thursday the fifth, the Bank of England. And Friday the sixth, the transaction reporting deadline.
+A: A big few weeks, George!
+B: They are, Emma! And a note for listeners: some figures this morning come from a single source, and we've said so when that's the case. Please check the primary data before you act.
+A: Have a brilliant week, everybody!
+B: See you tomorrow!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
