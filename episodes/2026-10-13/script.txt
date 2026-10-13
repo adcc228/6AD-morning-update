@@ -1,0 +1,102 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Tuesday, the thirteenth of October, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, big night in Asia, and not in a good way. Chipmakers took a hammering.
+A: They did, George! South Korea's Kospi was down by anything from three to seven percent, depending on which source and which moment you pick. We'll explain why the numbers differ in a moment.
+B: On Wall Street, the Dow edged higher, while the S&P five hundred and the Nasdaq slipped. Oil stayed above one hundred dollars a barrel after weekend strikes in Saudi Arabia, and the euro is sitting at fresh lows for the year.
+A: In macro, all eyes are on American inflation tomorrow, British growth on Thursday, and the Bank of England's November meeting, where a rate rise is now heavily priced. In regulation, a new FCA proposal on redemption terms for funds holding illiquid assets, and a big operational date on the second of November.
+B: In funds and industry, a batch of exchange traded fund closures in the United States, and a fee-cutting fund merger that lands on the first of November. Then your three things a COO should do something about today, plus the diary. Right, Emma, let's get into markets!
+[PAUSE]
+A: Markets, George, and let's start in New York, where Monday was a quiet, slightly lopsided day.
+B: Lopsided is the word, Emma. The Dow Jones Industrial Average gained one hundred and ninety five points, or point three eight percent, to close at fifty one thousand, eight hundred and fifty. The S&P five hundred slipped point oh six percent to seven thousand, eight hundred and seven. And the Nasdaq fell point four four percent to twenty seven thousand, two hundred and forty six.
+A: So what was behind the split?
+B: Technology. The tech sector fell about one and a quarter percent, and the main culprit was memory chips. Micron fell after investors digested news that a Chinese rival, CXMT, has reported progress on a new chip design. In plain English, the market worried that cheap Chinese competition could squeeze the profits of memory makers.
+A: And energy led the way up, because oil stayed expensive. Verizon, meanwhile, dropped nearly nine percent after a spectrum deal, according to Saxo.
+B: Now, that chip worry travelled east overnight, and this is where the Asian numbers get messy, Emma.
+A: Right! Reports of the South Korean market vary. One source had the Kospi down about seven percent to below six thousand, its lowest since the end of July. Another, written earlier in the session, had it down just over three percent. That's a big gap, so the honest summary is: a very sharp fall, led by chipmakers, with the final close still to be confirmed.
+B: Japan's Nikkei, the Chinese ChiNext and the CSI three hundred also fell, and Australia's ASX two hundred was down a tenth of a percent at eight thousand, seven hundred and seventy. In Hong Kong, the Hang Seng is under pressure after Man Wah Holdings warned that first-half profit could fall by seventy to ninety percent.
+B: One interesting number from Japan. Wholesale prices rose six point eight percent in September from a year earlier. That was below the seven point six percent forecast, but still very high, so a Bank of Japan rate rise stays in view.
+A: And the yen is stronger, near one hundred and fifty eight and a half against the dollar.
+B: Now to the bond market, which is where it gets a little tricky, Emma. Yesterday was Columbus Day in the United States, so the cash bond market was closed.
+A: Which means any Treasury yield you saw was either a futures-implied level or a stale one. Saxo described Treasury futures as flat, with trading volume at just twenty percent of the normal average. So the ten year yield is roughly where it was on Friday, around five point two percent, and eased slightly in Asian trading. Please treat that as a guide, not a closing price.
+B: And that's still near a twenty four year high, remember. Last week the ten year touched around five point three seven percent.
+A: Oil, George?
+B: Brent is trading around one hundred and three dollars sixty cents, after poking above one hundred and five earlier. The weekend brought strikes on Riyadh airport in Saudi Arabia, and Iran said America's reply to its plan to reopen the Strait of Hormuz was insufficient. There's also a report that President Trump is considering joining Saudi Arabia in retaliation against the Houthis.
+A: And a striking detail from Saxo, the gap between Brent and the American benchmark, West Texas, is about thirteen dollars, roughly double the norm. That's because shipping costs are at record levels.
+B: Meanwhile Saudi Arabia is said to be looking at lifting its pipeline crude export capacity to ten million barrels a day, which nudged oil slightly lower. That's a plan, not a fact, so let's not get carried away!
+A: Gold is trading near four thousand, one hundred and eighty six dollars an ounce. Sterling is about one dollar, thirty two and a half cents, little changed. And the euro hit new lows for the year against the dollar, as the dollar strengthened on oil and Fed worries. We couldn't verify the exact level this morning, so we'll leave the number out.
+B: London next. The FTSE one hundred closed Friday at ten thousand, five hundred and fifty two, up one point one percent. On Monday it opened around ten thousand, five hundred and eighty nine and traded near ten thousand, six hundred and ten mid-morning, helped by banks and the British Airways owner IAG. But we couldn't verify the closing level, so treat that as a direction.
+B: And gilts, Emma. Last week the thirty year yield reached six percent, the highest since nineteen ninety eight. We didn't find a verified closing level for Monday, so we won't quote one. Credit spreads and the Euro Stoxx figures we also couldn't verify, so we've left them out.
+A: So, what does this mean for a COO?
+B: Three quick things. First, thin markets. After a US bond holiday, valuations and margin calls can look odd today, so check collateral figures against two sources.
+A: Second, concentration. A single chip story moved the Nasdaq and the Kospi in a day. If your funds are heavy in technology, ask your risk team whether liquidity and concentration limits would have coped with a seven percent fall in one market.
+B: And third, weekend risk. A strike on an airport in Saudi Arabia over a weekend moved oil on Monday morning. Does your out-of-hours escalation process work when the news breaks on a Saturday?
+A: Good questions. Right, George, over to you for macro and central banks.
+[PAUSE]
+B: Macro now, Emma, and the theme this week is inflation versus growth, with oil in the middle.
+A: Let's start with the Bank of England. Bank Rate is three point seven five percent. The Bank held in September, but the Monetary Policy Committee signalled it could soon join the Federal Reserve and the European Central Bank in raising rates.
+B: Then came Governor Andrew Bailey on the eighth of October. Reports say he warned that it's getting harder to avoid rate rises, and that he has less patience for energy-driven inflation. Money markets now price more than an eighty percent chance of a hike on the fifth of November, with two quarter-point rises fully priced by February.
+A: That's a big shift in a month, George! To be fair, Bailey also said the pass-through from energy prices has been, in his words, quite subdued so far. So it's not a done deal.
+B: And you'll remember we mentioned last time that sources disagreed on how hard he pushed. Since then, the weight of reporting says he moved in a more hawkish direction.
+A: What does hawkish mean, for anyone new? It simply means leaning towards higher rates to fight inflation, as opposed to dovish, which leans towards lower rates to support growth.
+B: Now for the data. The first big print is American consumer prices for September, due tomorrow, Wednesday the fourteenth. Brent trading above one hundred dollars makes this one very sensitive. A hot number would push yields up and could knock shares again.
+A: Then on Thursday, the fifteenth, British monthly GDP for August. We said last time that one preview expected a small fall of around a tenth of a percent, after growth of four tenths in July. We still haven't seen anything to change that, so expect a soft number.
+B: Next Tuesday, the twentieth, it's the British labour market. Unemployment was four point nine percent in the three months to July. Wednesday the twenty first brings September inflation, and August was three point one percent.
+A: And between those, don't forget the Budget on the twenty eighth of October, with the gilt market already nervous. A thirty year yield at six percent leaves the Chancellor far less room to manoeuvre.
+B: Exactly. When the cost of long-term borrowing is that high, every pound of extra spending looks more expensive, and markets watch for any sign of fiscal slippage.
+A: Over to Europe. The European Central Bank raised its deposit rate to two point five percent in September, and its next decision is on the twenty ninth of October. The German ZEW investor survey for September fell to twenty five point eight, well below the thirty nine point nine economists expected, with analysts blaming energy prices tied to the war.
+A: And the Fed?
+B: Hawkish minutes last week pushed American yields to twenty four year highs. Some reports say the Fed raised rates in September, but we can't confirm the exact level this morning, so please check the Federal Reserve's website for the current range.
+A: So how does that reach a COO? Let's bring it home.
+B: Three channels. One, funding costs. If you borrow for working capital or to support seed capital in your funds, a November hike feeds through quickly.
+A: Two, valuations. When yields rise, bond fund prices fall, and if clients redeem from those funds, your operations team has to find the cash quickly.
+B: And three, clients. Higher rates mean more investors move to cash and money market products. If you run a business with fee-earning equity funds, that matters for revenue forecasts and cost plans.
+A: So have your finance team run the November hike scenario and a second case, where oil jumps again. Not because it's certain, but because it's likely enough to deserve a plan.
+B: Spot on. Right, let's get into regulation!
+[PAUSE]
+A: Regulation, George, and there's a new proposal that deserves attention from anyone who runs, or wants to run, funds that hold harder-to-sell assets.
+B: Yes. The FCA has been consulting on fair redemption terms for authorised funds that invest in illiquid assets. Illiquid just means assets that can't be sold quickly at a fair price, like property or unlisted shares.
+A: Here's the proposal. For non-UCITS retail schemes, known as NURS, with at least half their value in illiquid assets, there would be a minimum notice period for redemptions. Existing funds would have two years to comply, and investors would get at least a year's notice of any change.
+B: Comments are due by the eleventh of December. We should be careful here: we couldn't confirm the exact publication date this morning, so please check the FCA's website for the paper.
+A: Why does it matter operationally, George? Because notice periods change how you value the fund, how you run your dealing cycle, and how you talk to investors. They also affect what you tell distributors and platforms.
+B: And it fits with the fund liquidity rules in policy statement twenty six seventeen, which start on the first of February twenty twenty seven. So your liquidity framework is being rewritten from two angles at once.
+A: Now, a date that is very close. From the second of November, the FCA will start asking firms to use its Connect system for certain fund applications and notifications. After that date, it will no longer accept those items by any other route.
+B: Let's be clear about what that means. If you're a COO, the fund authorisation team that used to email a form needs a Connect login and training, now. The permission setup can take time, and you don't want to find out on the second of November that nobody has access.
+A: Next, the asset management reform package from July, with its estimated savings of one hundred and twenty eight million pounds a year. The big consultation, CP twenty six twenty eight, on the alternative investment fund manager regime, has a general deadline tomorrow, the fourteenth of October.
+B: And as we said last time, the prudential chapter and the FRAME consultation run to the twenty second of October, though one law firm source gives a different date for FRAME. So check the FCA's page today before you assume.
+A: To recap for anyone who missed it, FRAME means Fund Reporting for Asset Management Entities, a proposed new way of reporting fund data to the regulator.
+B: And the transaction reporting consultation we covered yesterday closes on the sixth of November.
+A: Now, the overseas picture. We didn't find fresh publications from the Prudential Regulation Authority or the Treasury overnight, and no new Dear CEO letter or enforcement notice aimed at fund managers. Nothing from the European Securities and Markets Authority or the American regulators that we could verify in the last day.
+B: It's a quiet patch before a busy autumn, so get your regulatory calendar in order. We have fund liquidity on the first of February twenty twenty seven, the American Form PF date pushed back to the first of July twenty twenty seven, and UK T plus one settlement on the eleventh of October twenty twenty seven.
+A: T plus one means trades settle one business day after they're made, instead of two. It sounds minor, but it squeezes everything, from trade matching to foreign exchange funding and stock lending.
+A: So put each of those dates against a named owner, a budget and a first milestone. And if you can only do one thing this month, do the Connect access.
+B: Good advice. And now to funds and industry.
+[PAUSE]
+A: Funds and industry, George, and today it's about the sharp end of the ETF business.
+B: Yes! In the United States, the board of the Themes ETF Trust has decided to liquidate and close thirteen exchange traded funds because they couldn't attract enough assets. One news site headlines it as Leverage Shares closing the funds, so the sponsor naming differs between sources.
+A: The dates are specific. Creation orders stop after the sixteenth of October, trading stops at the close on the nineteenth, and the funds liquidate by the twenty second.
+B: It's a useful reminder of a basic truth. Launching an ETF is the easy bit. Keeping one alive means attracting enough assets to cover costs, and shutting one down is a process in its own right.
+A: What does an orderly closure involve?
+B: Notice to investors and the exchange, ending creations, closing the portfolio, paying out cash, and then tidying up the accounts, tax reports and the legal entity. If you're running ETFs in Europe, make sure you have a closure playbook before you need one.
+A: Another date to put in your diary. Dimensional announced in June that it will fold eight of its American equity ETFs into ETF share classes of its mutual funds. The change takes effect on the first of November, and Dimensional says it targets fee reductions of about nine percent on an asset-weighted basis.
+B: Why should a London COO care? Because it shows a different way of structuring ETFs. Rather than a stand-alone fund, the ETF becomes a share class within a larger fund. It's an American structure, so it isn't available in the same form in the UK, but it shows where product design is going: fewer funds, more share classes, lower costs.
+B: Now, consolidation. We covered a one-source report yesterday saying Europe has been the busiest region for asset manager deals. We have nothing new to add on that today.
+A: We also looked for gating, redemption suspensions, senior hires and enforcement action in the last day. We didn't find anything we could verify, so we'll leave those out rather than guess.
+B: And there is a wider thread from today's markets, Emma. If the chip sell-off deepens, funds that are heavy in technology could face redemptions. Even funds with daily dealing can see outflows build quickly.
+A: Right, so check your liquidity tools. Swing pricing, anti-dilution levies and notice periods should all be tested, not just written down.
+B: That brings us to the part where we pull it together.
+A: Three things a COO should do something about today!
+[PAUSE]
+B: Number one, Emma. Connect. The second of November is less than three weeks away. Find out who in your firm submits fund applications and notifications to the FCA, check they have access, and make sure someone has practised a submission.
+A: Number two, George. Responses. The alternative investment fund manager consultation closes tomorrow for most chapters, the prudential chapter and FRAME on the twenty second, transaction reporting on the sixth of November, and the new illiquid funds proposal on the eleventh of December. Decide which ones affect you and who's responding, directly or through a trade body.
+B: Number three, Emma. Stress test for a week of volatility. We have American inflation tomorrow, British growth on Thursday, a hawkish Bank of England, and oil above one hundred dollars. Check your margin and collateral buffers, your escalation plan, and who's on call out of hours.
+A: Now the diary, George. Today, Tuesday the thirteenth, Asia's chip sell-off feeds through to Europe, and there's a run of central bank speakers.
+B: Wednesday the fourteenth, American consumer prices for September, and the deadline for most chapters of the alternative investment fund manager consultation.
+A: Thursday the fifteenth, British GDP for August. Friday the sixteenth, creation orders stop for the thirteen American ETFs being closed.
+B: Monday the nineteenth, those funds stop trading. Tuesday the twentieth, the British labour market. Wednesday the twenty first, British inflation for September.
+A: Thursday the twenty second, the deadlines for FRAME and the prudential chapter, and the liquidation date for those ETFs.
+B: Wednesday the twenty eighth, the Budget. Thursday the twenty ninth, the European Central Bank.
+A: Sunday the first of November, the Dimensional fund changes take effect. Monday the second, Connect becomes the route for those FCA fund applications. Thursday the fifth, the Bank of England decides. And Friday the sixth, the transaction reporting deadline.
+B: A packed few weeks, Emma!
+A: It is, George! And a note for listeners: several figures this morning come from early-session reports or a single source, and we've said so each time. Please check the primary data before acting on any of it.
+B: Have a brilliant Tuesday, everybody!
+A: See you tomorrow!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.

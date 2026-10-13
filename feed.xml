@@ -15,7 +15,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 12 Oct 2026 06:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:08:07 +0000</lastBuildDate>
+    <item>
+      <title>Tue 13 Oct 2026: Asian chip sell-off, BoE November hike priced, FCA illiquid fund redemption proposal, FCA Connect deadline</title>
+      <description>Chipmakers drag Asian markets lower as Wall Street splits, with oil above one hundred dollars after weekend strikes in Saudi Arabia. A Bank of England hike on 5 November is heavily priced ahead of US inflation and UK GDP, while the FCA proposes notice periods for funds holding illiquid assets and fund applications move to Connect on 2 November. Plus ETF closures, three COO action points and the diary.</description>
+      <itunes:summary>Chipmakers drag Asian markets lower as Wall Street splits, with oil above one hundred dollars after weekend strikes in Saudi Arabia. A Bank of England hike on 5 November is heavily priced ahead of US inflation and UK GDP, while the FCA proposes notice periods for funds holding illiquid assets and fund applications move to Connect on 2 November. Plus ETF closures, three COO action points and the diary.</itunes:summary>
+      <enclosure url="https://adcc228.github.io/6AD-morning-update/episodes/2026-10-13/episode.mp3" length="14220621" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-update-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:19:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mon 12 Oct 2026: Wall Street rallies as oil eases, BoE November hike debate, FCA transaction reporting consultation, European ETF firsts</title>
       <description>Stocks rally on Friday after President Trump says the US will not attack Iran before the midterms, easing oil and Treasury yields, while sources differ on the odds of a Bank of England hike on 5 November. In regulation, a new FCA transaction reporting consultation and a cluster of asset management deadlines. Plus European ETF firsts, three COO action points and the diary for the coming weeks.</description>
