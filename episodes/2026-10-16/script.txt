@@ -1,0 +1,114 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Friday, the sixteenth of October, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, what a turnaround. Yesterday morning we were talking about carnage in Asian chip stocks, and by the close Wall Street had shrugged it off, at least in the Dow.
+A: It really did, George! Let's run through the headlines. On markets, the Dow jumped more than one percent while the Nasdaq barely moved, the FTSE one hundred hit its best close since late August, and Asia is bouncing back this morning.
+B: In macro, a surprise from the British economy, which grew when everyone expected it to shrink, plus a big week ahead for the Fed, the Budget and the European Central Bank, all landing within a couple of days of each other.
+A: In regulation, a look at where the American and European rule-makers are heading, and a reminder of the dates that matter for a UK manager. And in funds, a few lessons from a fund that capped redemptions.
+B: Then your three things a COO should do something about today, and the diary. Right, Emma, let's get into markets!
+[PAUSE]
+A: Markets, George, and let's start in New York, because the picture was very different from Wednesday.
+B: Completely different, Emma! After Wednesday's inflation shock, stocks recovered. The Dow Jones Industrial Average rose one point one percent, adding more than five hundred and fifty points to close at about fifty two thousand, one hundred and seventy eight.
+A: The S&P five hundred rose a third of one percent to around seven thousand, seven hundred and forty four. And the Nasdaq Composite was up just eight hundredths of one percent, at about twenty six thousand, seven hundred and thirteen.
+B: So the index headline looks calm, but under the surface there was a big rotation. Investors sold technology and bought defensive shares. Most of the stocks in the S&P actually rose, even though the index itself only edged up.
+A: And what changed, George?
+B: Treasury yields fell, and worries about debt funding for artificial intelligence companies eased a little after Wednesday's panic. The ten year Treasury yield dropped to roughly five point one percent, from above five point one eight the night before. Sources differ by a few hundredths on the exact level, so treat that as approximate.
+A: And that's despite some punchy data, isn't it?
+B: Very much so. Retail sales for September were reported up point eight percent, against a forecast of around point three. Initial jobless claims came in at about one hundred and ninety nine thousand, which is a very low number. And producer prices, the wholesale inflation measure, jumped sharply, with one report putting the monthly rise at one point three percent. I'd double check that last one, because we only saw it in a single source.
+A: Strong consumers, hot wholesale prices, and yields still fell. Odd!
+A: Now, Asia. Yesterday we gave you early numbers on the chip rout. The final closes were a Kospi fall of about seven point six percent, and a Nikkei fall of about four point nine percent.
+B: Huge numbers! But this morning, there's a rebound. According to Reuters, the Nikkei is up about one point eight percent, the Kospi is up two point eight percent, Taiwan is up point seven percent, and Hong Kong's Hang Seng is up one point one percent.
+A: It's early in the session, so those numbers will move. Now, Europe, George, where we had our own good news.
+B: We did! The FTSE one hundred closed at about ten thousand, eight hundred and forty, up around one point one percent. That's its best close since late August. Banks like NatWest and Standard Chartered gained as gilt yields fell, and so did pharmaceutical and consumer staples shares.
+A: And gilts are the heart of this story. The ten year gilt yield fell to roughly five point three four percent during the session, with one report having it at five point three eight at the European close. Either way, it's about nine hundredths of a percent lower on the day.
+B: Remember that on the first of October the thirty year gilt yield broke through six percent, its highest since nineteen ninety eight. So these are still very elevated levels, even after a good day.
+A: And sterling?
+B: Stronger, up around half of one percent against the dollar, to roughly one dollar, thirty three cents, after the growth data. We'll come back to that in a moment.
+A: Now the rest of the board. The dollar index is around one hundred and two, after pulling back from a one and a half year high near one hundred and three on Wednesday. The dollar is at roughly one hundred and fifty eight yen.
+B: Brent crude is around one hundred and five dollars and fifty cents a barrel in early trading, down slightly, with traders weighing Middle East supply risks against reports that America might ease some restrictions on so called shadow fleet tankers.
+A: And gold climbed one and a half percent on Thursday, then slipped a little this morning to about four thousand, one hundred and fifty four dollars an ounce.
+B: Two gaps this morning. We couldn't verify a euro level, the thirty year Treasury yield, or any credit spread, so we won't quote them.
+A: Better to say so than guess. So, what does a COO do with a volatile fortnight like this?
+B: Three big swings in three days, Emma, from inflation, chip stocks and bond yields. That's exactly when operational weak spots show.
+A: First, valuation. After the Kospi's plunge, your administrator may have had price disputes or stale prices for Korean and Japanese holdings. Check whether any prices were overridden, who approved that, and whether it's documented.
+B: Second, dealing. Redemptions often arrive a day or two after the market move, not on the day. So look at your dealing queues for Monday.
+A: And third, the weekend. Markets are calm on a Friday, but the news doesn't stop. Make sure someone senior is reachable on call. Right, George, over to macro and central banks!
+[PAUSE]
+B: Macro, Emma, and let's start with that British growth number, because it surprised nearly everyone.
+A: It did! The Office for National Statistics said the economy grew point one percent in August. Economists polled by Reuters had expected a fall of point one percent. And July has been confirmed at plus point four percent.
+B: What drove it?
+A: Production, George. Output from factories, energy and utilities rose point eight percent. Services were flat and construction fell point two percent. Over the year, the economy was up two point one percent, above the one point seven percent that had been forecast. That's the strongest annual reading since August twenty twenty two.
+B: So a good headline, but is it a good story? Services are the biggest part of the British economy, and they didn't grow.
+A: Exactly, and Deutsche Bank's economist said it looks like the engine is slowing from the very fast pace in the first half of the year. Growth was up point four percent in both June and July, so point one percent is a clear step down.
+B: And the markets liked it?
+A: Sterling rose, gilt yields fell across the curve, and the FTSE liked it. But, George, it's an odd mix for the Bank of England, isn't it?
+B: It is. Stronger growth makes it easier for the Bank to raise interest rates. But weaker momentum under the surface makes it less comfortable. The Bank Rate is three point seven five percent, and markets still see a rise on the fifth of November as very likely.
+A: Next week gives us the evidence it needs. On Tuesday the twentieth, labour market figures. On Wednesday the twenty first, September inflation. The Bank will study both closely before its meeting.
+B: Now, across the Atlantic. The Federal Reserve raised rates on the sixteenth of September to a range of three point seven five to four percent, its first rise since twenty twenty three.
+A: Its next decision is on Wednesday the twenty eighth of October, after a two day meeting. After Wednesday's inflation data, traders briefly saw a better than fifty percent chance of another quarter point hike, but that has settled back to about forty percent.
+B: And there's a speech today, Emma. The Fed chair, Kevin Warsh, is due to speak at the International Monetary Fund meetings this Friday, and markets are waiting to hear whether he pushes back against hike expectations.
+A: That's one to watch. Also on the twenty eighth, in London, the Budget.
+B: Which means a very busy afternoon for anyone who looks after both sterling assets and dollar exposure.
+A: Then on Thursday the twenty ninth, the European Central Bank. It raised its deposit rate by a quarter point to two point five percent in September, and it says it will take decisions meeting by meeting.
+B: The latest confirmed euro area inflation figure we have is three point two percent for August. We weren't able to confirm the September number this morning, so check Eurostat. Money markets, as of late September, saw about a sixty percent chance of another rise this month, but that's an old snapshot.
+A: So, three central banks inside eight days. What does this mean for a COO, George?
+B: It means treat the next three weeks like a single event. Three practical points.
+A: One, funding. If you borrow at floating rates, or lend seed capital to your own funds, rate decisions on consecutive days will move your costs. Check your reset dates and who signs off on hedging.
+B: Two, currency and collateral. Big moves in the dollar, the yen and sterling mean big margin calls on hedges. Check that your treasury team has cash set aside, and that your cut-off times for moving it are realistic.
+A: And three, people and process on Budget day. The Budget lands the same day as the Fed. Decide now who reads the documents, who briefs the board, and who talks to clients.
+B: Spot on. Right, Emma, over to you for regulation!
+[PAUSE]
+A: Regulation, George, and I'll say upfront that it was a quiet twenty four hours for brand new publications, so we'll use the time to look at the bigger picture and the dates that matter.
+B: Good idea, Emma. Let's start with the deadlines, because they don't move even when the news is quiet.
+A: The first is the new fund liquidity rules, from the Financial Conduct Authority's policy statement twenty six seventeen. They start on the first of February twenty twenty seven. That's about three and a half months away.
+B: These rules are about how a fund manages liquidity risk: the tools, the stress testing and the governance around them. For a COO, the question is simple. Have you got a written plan, with an owner, for what changes before February?
+A: The second is American Form PF, the confidential reporting form for private fund advisers. It has been pushed back to the first of July twenty twenty seven. If you file it, don't relax yet. The data and systems work takes months.
+B: And the third is UK T plus one, on the eleventh of October twenty twenty seven. That's one year from now, almost to the day.
+A: And that one is worth a thought, because it's exactly twelve months away. T plus one means trades settle one business day after the trade, rather than two. That cuts the time for matching, allocation, foreign exchange funding and stock lending.
+B: And Europe is moving too. In the latest monthly update from Sidley, they note the European regulator, ESMA, has been calling on firms to finish their preparations for T plus one. So if you have European funds, you'll face this on both sides of the Channel.
+A: Now, some live items. On the fourteenth of October, ESMA published a note on greenwashing risks, aimed at firms making claims about impact and climate transition in funds and bonds.
+B: What does that mean for operations, Emma?
+A: It means marketing, compliance and risk need to agree on what words like impact or transition actually mean, with evidence behind them. If a fund name or factsheet makes a claim, someone should be able to prove it. And that matters in the UK too, because the FCA has its own anti-greenwashing rule.
+B: Also from ESMA, an opinion on the eighth of October telling crypto firms authorised under the European MiCA rules to stop services involving non-compliant stablecoins for EU clients, although supervised wind-down is allowed.
+A: It's a reminder, George, that if any of your funds or clients touch stablecoins, you need to know which ones are compliant.
+B: And what about the UK, Emma?
+A: A reminder on the AIFM consultation, CP twenty six twenty eight, which closes next Thursday, the twenty second of October. If your firm hasn't decided whether to respond, that's the decision for this week. We covered the detail yesterday, and the main point is that the proposed tiers will define your reporting, your governance and your depositary arrangements.
+B: Then on enforcement. The FCA's list of fines for twenty twenty six shows a final notice against Crispin Odey, dated the thirtieth of September. A fine of one point five million pounds and a ban from regulated activity, for failing to act with integrity.
+A: That one connects to a theme for COOs, George. Integrity and candour with the regulator. The case turned on how a senior person dealt with the firm's own disciplinary process and with the regulator. So check your processes for how concerns about senior staff are escalated, recorded and handled, and whether the people running them are independent.
+B: Good point. Now America. Two proposals from the Securities and Exchange Commission, late in September and at the start of October.
+A: The first, on the thirtieth of September, proposed to widen the situations where registered advisers can charge performance based fees, including to some accredited investors and regulated funds. The second, on the first of October, proposed a framework for crypto custody that would let advisers and funds self-custody crypto assets in some circumstances.
+B: Both are proposals rather than final rules, so nothing changes yet. But if you have American clients or a registered adviser in your group, someone needs to be watching the comment periods.
+B: Is there anything from the Prudential Regulation Authority or the Treasury?
+A: Not that we could confirm in the past day, George. And we haven't seen a new Dear CEO letter aimed at fund managers.
+B: Which leaves us with the simple message. Regulation this morning is about the dates. The first of November, ESMA gets a new chair. The second of November, Connect becomes the route for certain FCA fund applications, so make sure somebody has practised a submission. And the eleventh of December is the deadline for the FCA's illiquid fund consultation, CP twenty six thirty five.
+A: Right, funds and industry next!
+[PAUSE]
+B: Funds and industry, Emma, and let's start with a story about what happens when a fund promises more than it can deliver.
+A: Go on, George.
+B: Bloomberg reported on the second of October that Partners Group is reorganising one of its main evergreen funds, the Global Value SICAV, which is worth about six point six billion euros. It had capped redemptions after a wave of withdrawal requests, and it plans to turn it into an umbrella fund with two separate portfolios.
+A: An evergreen fund is one with no fixed end date that lets investors in and out at regular intervals, and a SICAV is a Luxembourg style open ended investment company.
+B: It's a very live example of the issue behind the FCA's illiquid fund proposals. The liquidity you promise has to match what you hold. When requests exceed what you can pay, you cap, and then you have to explain.
+A: What does it mean for operations?
+B: If your funds can gate, make sure the process is rehearsed. Who decides, how do you tell investors, how does your transfer agent process partial redemptions, and what happens to the queue?
+A: Now, mergers. Fidelity's fund updates page lists a set of UK fund mergers taking effect today, Friday the sixteenth of October, including funds linked to Premier Miton and Canaccord.
+B: Mergers hide a lot of work: investor notices, tax clearances, a final valuation, transferring holdings and closing share classes. If you have one planned, check the timetable.
+A: On the deal front, the Australian manager Equity Trustees has agreed to buy Platinum Investment Management from L1 Group, according to a corporate news roundup out this morning. We'd treat that as a single source report.
+A: On launches in the UK, Fidelity International launched an absolute return global equity fund on the fifth of October, and Baillie Gifford extended its tokenisation work into fixed income on the second.
+B: Tokenisation means representing fund units as digital tokens on a blockchain. The catch is that your transfer agent, custodian and administrator all need to cope with a new type of record.
+A: And a quick follow-up on those thirteen American exchange traded funds that are closing. Creation orders stop today, trading ends at the close on Monday the nineteenth, and the funds liquidate around Thursday the twenty second.
+B: If you hold any of them, today's the day to check your trades and your tax lots.
+A: We also looked for gating, senior hires and new enforcement against managers, and beyond what we've mentioned, found nothing we could verify.
+B: Which brings us to the bit where we pull it all together, Emma.
+A: Three things a COO should do something about today!
+[PAUSE]
+B: Number one, Emma. Rate week readiness. The Fed on the twenty eighth, the Budget the same day, the European Central Bank on the twenty ninth, the Bank of England on the fifth of November. Write down who owns funding, collateral and communications for each, and check they know it.
+A: Number two, George. Liquidity tools. After a Kospi plunge, a gilt market near multi year highs and a high profile fund capping withdrawals, look at your own dealing arrangements. Do you know exactly how swing pricing, notice periods or gates would work, and who would sign them off on a Monday morning?
+B: Number three, Emma. The consultation and the calendar. The AIFM consultation closes next Thursday. Decide today whether you're responding, and who writes it. Then put the first of February, the eleventh of October next year and the first of July next year in your project plan with a name against each.
+A: Right. The diary, George. Today, Friday the sixteenth, Fed chair Kevin Warsh speaks at the IMF meetings, creation orders stop for those thirteen American ETFs, and the Fidelity fund mergers take effect.
+B: Monday the nineteenth, trading in those ETFs ends. Tuesday the twentieth, British labour market figures. Wednesday the twenty first, British inflation for September.
+A: Thursday the twenty second, the AIFM consultation closes, and the ETFs liquidate.
+B: Tuesday the twenty seventh and Wednesday the twenty eighth, the Fed meets, with the decision on the Wednesday, the same day as the Budget. Thursday the twenty ninth, the European Central Bank decides.
+A: Sunday the first of November, Carlo Comporti takes over as ESMA chair. Monday the second, Connect starts for certain FCA fund applications. Thursday the fifth, the Bank of England decides. And Friday the sixth, the transaction reporting consultation closes.
+B: A packed few weeks, Emma!
+A: It is, George! And a note for our listeners. Several figures this morning come from early reports, and where sources differed we've said so. Please check primary data before acting on any of it.
+B: Have a brilliant weekend, everybody!
+A: Take care!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
