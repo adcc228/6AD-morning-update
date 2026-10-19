@@ -1,0 +1,124 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Monday, the nineteenth of October, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, what a Friday on Wall Street. The artificial intelligence trade really cracked, and we're starting the week with a big decision calendar ahead of us.
+A: We are, George! Let's run through the headlines. In markets, the Nasdaq fell more than two percent on Friday, its worst week since June, while the FTSE one hundred bucked the trend and had its strongest week in six months.
+B: In macro, oil is back above one hundred and ten dollars at the highs, and this week brings British jobs data and September inflation, before a very crowded week after that, with the Fed, the Budget and the European Central Bank.
+A: In regulation, a brand new Financial Conduct Authority consultation on how quickly investors can get their money out of funds that hold illiquid assets. That one could change your dealing terms.
+B: And in funds, new launches from M and G, Franklin Templeton and Legal and General. Then your three things a COO should do something about today, and the diary for the week.
+A: Right, George, let's get into markets!
+[PAUSE]
+A: Markets, and since it's Monday we're covering the whole weekend, George, but the story is really Friday in New York.
+B: It really is, Emma! The S&P five hundred fell one point one percent to about seven thousand, six hundred and fifty nine. The Nasdaq Composite dropped two point one percent to roughly twenty six thousand, one hundred and forty.
+A: And the Dow?
+B: Held up much better. It slipped just point three percent, to about fifty two thousand, and it actually rose over the week, as money moved into defensive areas like consumer staples and health care.
+A: So a very lopsided market, with technology doing all the damage.
+B: Exactly. For the week, the S&P was down nearly two percent, and the Nasdaq lost about four and a half percent. Both were their worst weeks since June. And the chip stocks, Emma, were down more than eleven percent over the week!
+A: That's a huge move! I read that the Philadelphia semiconductor index fell for eight sessions in a row, its longest losing streak since two thousand and eight.
+B: Yes, wiping out something like one trillion dollars of market value. The worry is about how much money is being borrowed to build artificial intelligence capacity, and whether the returns will arrive in time.
+A: Now, bonds. The ten year Treasury yield is around five point one percent, though sources differ on the exact close, and it touched a higher level during the session. The thirty year is about five point four three percent.
+B: And long bonds were under pressure this week partly because of oil, and partly because of talk of Treasury buybacks ahead of the November refunding. That's when the government announces how much debt it will sell.
+A: Over to Asia, George, where this morning is mixed.
+B: Mixed and a bit nervous. Early readings show the Nikkei down by about one percent, near sixty four and a half thousand. The Kospi, hit hard last week, is moving around either side of unchanged, and sources differ, so I wouldn't trust any single number there.
+A: Fair enough. And Europe on Friday?
+B: Rather good, Emma! The FTSE one hundred closed at about ten thousand, eight hundred and eighty two, up nearly four tenths of one percent, and up three point one percent over the week.
+A: That's the strongest week in six months, which is quite a statement given everything else going on.
+B: It is. Defence shares helped. Banks were softer, on reports that the bank surcharge could go up in the Budget, though I'd treat that as press speculation, not policy.
+A: Gilts?
+B: The ten year gilt yield was around five point three eight percent, roughly unchanged on the day. The thirty year gilt is a little under six percent, after breaking through six percent on the first of the month.
+A: And sterling is firmer, at about one dollar, thirty three cents, and the dollar had its first weekly fall in five weeks.
+B: Now the rest of the board. Brent crude briefly topped one hundred and ten dollars on Friday, the first time since May, and closed the week near one hundred and nine dollars and ninety cents. Attacks on ships near the Strait of Hormuz are the driver.
+A: Gold is about four thousand, one hundred and sixty five dollars an ounce, down about half of one percent on the week. The dollar is around one hundred and fifty eight yen. The euro is roughly one dollar, twelve cents, though that one is a low confidence figure.
+B: And just to be upfront, we couldn't confirm the two year Treasury yield or any credit spread levels this morning, so we won't guess.
+A: Good call. So what does a COO do with a week like this?
+B: Think about what changes between the market and your operations, Emma. When one sector falls hard, the first problem is usually valuation.
+A: Yes. After a rout in Korean and Japanese chip stocks, check that your administrator has had no price disputes, and that any manual overrides are approved and written down.
+B: Second, concentration. If your funds hold a lot of the same big technology names, your risk team should be able to tell you today what a further ten percent fall would do to each fund, and whether any limits would be breached.
+A: And third, redemptions. They often arrive a few days after the market move, not on the day, so look at your dealing queues for this week.
+B: Right, Emma, over to macro and central banks!
+[PAUSE]
+B: Macro, and what a week to start with, Emma. We have British jobs data tomorrow, and British inflation on Wednesday.
+A: Let's take them in turn, George. Tomorrow at seven in the morning, the Office for National Statistics publishes labour market figures covering June to August. The last reading for May to July had unemployment at four point nine percent.
+B: And there's been a steady drip of weakness in payroll numbers, hasn't there?
+A: There has. Payrolled employees were down about one hundred thousand over the year to July, according to the official estimates, though those figures get revised. We couldn't find a settled forecast for tomorrow's numbers, so the key is the direction of unemployment and pay growth.
+B: Then Wednesday is the big one. September inflation.
+A: Yes! August inflation was three point one percent. Economists, in Bloomberg's preview, expect September to rise to around three point four percent, which would be a nine month high. But sources differ on the forecast, so treat that as a guide.
+B: And the Bank of England's own view is for inflation to reach around three and three quarter percent by the end of the year.
+A: That's right. The Bank Rate is three point seven five percent. In September, the Monetary Policy Committee voted six to three to hold, with three members wanting a rise of a quarter point.
+B: And markets lean towards a rise at the next meeting on the fifth of November.
+A: Yes. And on Friday the Governor, Andrew Bailey, speaking in Bangkok, said the evidence of so called second-round effects, meaning higher prices feeding into wages and then into more price rises, has been quite subdued so far.
+B: Which is mildly calming, but he also said it's too early to judge.
+A: Exactly. In September the committee also voted unanimously, nine to nothing, to change its approach to quantitative tightening, the programme of letting government bonds run off or selling them. That matters for gilt supply, and it's one more reason the gilt market is so sensitive.
+B: Turning to America. The Federal Reserve raised rates in September, to a range of three point seven five to four percent. Its next decision is on Wednesday the twenty eighth.
+A: And the chair, Kevin Warsh, spoke on Friday and, according to reports, said the economy had broadly followed the Fed's expectations since September, but wouldn't prejudge the October meeting.
+B: Markets took that as a sign that the Fed will probably hold. One report put the chance of an October hike at around fifteen percent, down from forty percent last week.
+A: That's a big change in a few days, George!
+B: It is, Emma. The same day as the Fed, the Chancellor delivers the Budget on the twenty eighth. Then on the twenty ninth, the European Central Bank decides.
+A: Where the deposit rate sits at two point five percent, after the September rise. The last confirmed euro area inflation figure we have is three point two percent for August. We couldn't verify the September figure this morning, so please check Eurostat.
+B: Markets were pricing a good chance of another quarter point in October, but that was a late September snapshot, so I'd treat it as stale.
+A: So there's the picture. Three things on the macro side for a COO, George?
+B: First, friction on funding. If you borrow at floating rates, or if seed capital in your funds is financed that way, rate decisions this fortnight will move your costs.
+A: Second, currency and collateral. With oil moving and the dollar turning, hedge margin calls can arrive quickly. Make sure treasury has cash ready and cut-off times that work.
+B: And third, Budget day. It lands on the same day as the Fed. Decide now who reads the document, who briefs the board, and who answers client calls.
+A: There's a lot of detail already in the market on tax. A little preparation now saves a scramble on the twenty eighth.
+B: Right, Emma, over to you for regulation!
+[PAUSE]
+A: Regulation, George, and we have genuinely new material this morning. The Financial Conduct Authority has published consultation paper CP twenty six thirty five, on redemption terms for authorised funds that invest in illiquid assets.
+B: This sounds like it matters, Emma. What's in it?
+A: It does matter! The target is funds where at least half of the assets are inherently illiquid, such as property, and which still offer regular dealing. The headline idea is a minimum notice period of ninety days before an investor can redeem.
+B: Ninety days! That's a very different product from the one many retail investors think they own.
+A: It is, George. The paper also proposes that dealing happens no more than once a month, and that the combined notice and settlement period is capped at around one hundred and eighty five days, according to one report.
+B: Is there any flexibility for the investor?
+A: A little. For long term asset funds, investors could withdraw a redemption request during the notice period, if the manager judges it fair to other investors. And managers of all non-UCITS retail schemes could introduce limited redemption arrangements.
+B: So not only property funds are in the frame.
+A: Right. Responses are due by the eleventh of December twenty twenty six. The FCA expects to make final rules in the first half of twenty twenty seven, with a two year implementation period for existing funds, as far as we could confirm.
+B: And there's been a reaction already?
+A: Yes. A commentator at a retail platform said the reform is sensible, but that a long notice period isn't going to appeal to a lot of investors. That's a fair point, because distribution will feel it.
+B: Now, Emma, what does that mean for a COO?
+A: Four things. First, check whether any fund you run, or administer, falls in scope, so you know whether this is your problem at all. Second, operations. A ninety day notice period changes your dealing calendar, your investor communications, your transfer agent set up and your cash forecasting.
+B: Third, technology. Your registrar systems and your platforms will need to handle notice periods, revocation of requests and gated dealing, and that's a build, not a spreadsheet change.
+A: And fourth, distribution. If platforms and advisers have to explain a notice period, they'll ask you for help, and you'll need ready, plain English material.
+B: Good. And that links to the rules which are already final. Policy statement PS twenty six seventeen, on fund liquidity risk management, was published on the thirteenth of August.
+A: Those start on the first of February twenty twenty seven, with some transitional requirements running to the first of August twenty twenty seven. That's about three and a half months from now.
+B: A couple of points that law firms have flagged. The FCA dropped what it called the listed asset presumption, so managers must independently assess the liquidity of each security, even where it's listed.
+A: And the package covers anti-dilution tools, liquidity assessments and stress testing, for UK UCITS and non-UCITS retail scheme managers. Money market funds are left out for now.
+B: What should a COO do, Emma?
+A: Ask whether you have a gap analysis, a named owner and a budget. If the answer is not yet, then now is the time, because the data and systems work is the slow part.
+B: The other dates haven't moved. UK T plus one settlement starts on the eleventh of October twenty twenty seven, which is almost exactly a year away, and the American Form PF deadline has been pushed back to the first of July twenty twenty seven.
+A: And one date this week. The consultation on the alternative investment fund manager regime, CP twenty six twenty eight, closes on Thursday, the twenty second of October. If you haven't responded, it's this week.
+B: Also this week, the FCA Board meets on Thursday the twenty second, which can often be followed by new publications. Those are the reported dates, so do check the FCA site.
+A: Now, did we see anything from the Prudential Regulation Authority, the Treasury or the European authorities that we could confirm in the last few days?
+B: Not in a way we could verify, Emma, and we also haven't seen a new Dear CEO letter aimed at fund managers. We'd rather tell you that than fill the time.
+A: Agreed. There's the regulatory picture then. One consultation to read, one set of rules to prepare for, and several dates in the diary.
+B: And with that, over to funds and the industry!
+[PAUSE]
+B: Funds and industry, Emma. And launches have kept coming even in a wobbly market.
+A: They have, George! Starting with private markets and pensions. M and G has launched a seventy four million pound private credit long term asset fund, or LTAF, aimed at defined contribution pension schemes and other professional investors.
+B: What's the structure?
+A: It will invest at least ninety percent of its assets in M and G's diversified private credit fund, a sub-fund of a Luxembourg vehicle. So it's a feeder, with a UK wrapper on top. The launch is reported as the fifteenth of October.
+B: And that's relevant to today's regulation story, Emma, because LTAFs are exactly the kind of long term asset funds the FCA is discussing in its new consultation.
+A: Yes. Which is why the timing is interesting. The pension schemes who are the target investors will want to see clear redemption terms.
+B: Now to exchange traded funds. Franklin Templeton started trading its Franklin Putnam Focused US Research UCITS ETF on the London Stock Exchange on the fifteenth of October. It holds a concentrated portfolio of American shares.
+A: And the fee?
+B: Zero point three one percent, with a temporary fee waiver, running until September twenty twenty eight. It's the first UK active ETF from the Putnam brand.
+A: And Legal and General announced on Friday the launch of a new sub-fund, its Global Equity UCITS ETF, also listed in London.
+B: So, active ETFs and index trackers alike. The fee war goes on, Emma.
+A: It does! Which brings us to the question of what falling technology shares do to flows. When the biggest names fall in a week, passive funds that track global indices fall too.
+B: And that matters for operations. Bigger market moves mean bigger creations and redemptions in ETFs, so authorised participants and market makers will be busy, and settlement teams will notice.
+A: Do we have any M and A, gating, hires or enforcement this morning, George?
+B: Honestly, Emma, no new items that we could verify in the last seventy two hours, so we'll leave it there rather than pad it. If you have something you've seen, tell us.
+A: But there is a lesson in the week's events for fund groups. Consider how your funds would behave if redemptions picked up. If you have funds with daily dealing but illiquid holdings, that's the category the FCA is now looking at.
+B: Test your liquidity tools in a stress scenario now, rather than finding gaps when investors want their money.
+A: Good advice. Right, over to the three things.
+[PAUSE]
+A: And now, George, the part of the show where we help the COO decide what to do with all this. Three things a COO should do something about today.
+B: Number one, Emma. Check your exposure to the technology and chip rout. Ask your risk team for a one page summary of how each fund would fare in a further fall, and ask your administrator to confirm valuations are clean, especially anything priced in Asia.
+A: Number two. Read the FCA's consultation, CP twenty six thirty five, and decide whether you are in scope. If you are, pick an owner, and put the eleventh of December in the diary for a response. If you aren't, tell your board that, and why.
+B: And number three. Treat the next two weeks as a single event. We have jobs data tomorrow, inflation on Wednesday, then the Fed, the Budget and the European Central Bank within two days of each other.
+A: Check your treasury and your hedging, check who is on call, and agree in advance who speaks to clients if markets move sharply.
+B: Quick reminder of the diary for the week. Tuesday the twentieth, UK labour market figures at seven in the morning.
+A: Wednesday the twenty first, UK inflation for September. Thursday the twenty second, the AIFM consultation closes, and the FCA Board meets.
+B: Friday the twenty third, UK retail sales and the flash purchasing managers' surveys. Then, looking ahead, Wednesday the twenty eighth, the Fed and the Budget, Thursday the twenty ninth, the European Central Bank, and the fifth of November, the Bank of England.
+A: And before we go, an honest note on what we couldn't verify this morning: the two year Treasury yield, credit spreads, the exact ten year Treasury close, the euro level, and the latest euro area inflation figure.
+B: We'd rather say so than guess, Emma.
+A: Exactly. That's a lot for a Monday morning, George. Thank you for the company!
+B: My pleasure, Emma! Have a good week, everyone.
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
