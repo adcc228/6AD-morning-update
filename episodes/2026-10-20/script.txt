@@ -1,0 +1,125 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Tuesday, the twentieth of October, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, it's a busy one. The tech rebound in New York couldn't stop Europe and Asia sliding, and we're now in the countdown to a very crowded week.
+A: We are, George! Let's run the headlines. In markets, the Nasdaq bounced one point one percent on Monday, but the FTSE one hundred fell more than one percent, and South Korean shares were sharply lower overnight.
+B: In macro, British labour market figures landed at seven this morning, September inflation is tomorrow, and then it's Budget day, the Fed and the European Central Bank, all in the same two days.
+A: In regulation, we have a look at where the Financial Conduct Authority's fund and reporting agenda stands, including a fresh consultation on transaction reporting, and a reminder of the deadlines already in your diary.
+B: And in funds, a wave of active exchange traded fund launches and a very big conversion in America. Then, your three things a COO should do something about today, and the diary for the week.
+A: Right, George, let's get into markets!
+[PAUSE]
+A: Markets, and Wall Street first. It was a rebound day, wasn't it, George?
+B: It was, Emma! The S&P five hundred rose about point four percent to roughly seven thousand, six hundred and ninety one. The Nasdaq gained about one point one percent, to around twenty six thousand, four hundred and thirty.
+A: So the artificial intelligence and chip names that were battered last week bounced back.
+B: Yes, but not everything joined in. The Dow Jones actually slipped a tiny bit, down about point one percent, to just under fifty two thousand.
+A: A narrow rally, then. What about bonds?
+B: The ten year Treasury yield rose to about five point one four percent, up from five point zero nine on Friday. That's a high level, Emma, and it keeps pressure on anything that depends on cheap borrowing.
+A: One report linked the move to heavy corporate bond issuance, plus the oil price. We couldn't confirm the two year or the thirty year yields this morning, so we won't guess.
+B: Fair. Now Asia, where it was a rough night!
+A: Rough is right! Even though Wall Street rebounded, Asian shares fell as investors waited nervously for results from the big artificial intelligence companies later this week.
+B: The Nikkei in Tokyo was down by roughly one percent, trading near sixty four and a half thousand. Reports differ on the exact close, so treat that as a guide.
+A: And South Korea's Kospi took the worst of it. One report had it down more than three and a half percent!
+B: That's a big move! Hong Kong was closed for a public holiday. And in China, the central bank left its benchmark lending rates unchanged, while setting the yuan at its strongest level since early twenty twenty three.
+A: Interesting. So what happened in Europe yesterday?
+B: A poor day, Emma. The FTSE one hundred closed at about ten thousand, seven hundred and sixty five, down roughly one point one percent. That's a drop of more than a hundred points.
+A: And the French CAC forty fell about the same, one point one percent, to around seven thousand, eight hundred and sixty eight.
+B: Yes. Reports described the falls as broad, with all the major European markets down more than one percent, and one report mentioned civil unrest in France and Italy weighing on sentiment. I'd treat the reasons as indicative rather than settled.
+A: The German ten year yield was around three point four six percent, up a few hundredths.
+B: Now oil. Brent crude is hovering around one hundred and nine dollars a barrel, and sources differ by a small amount, depending on timing. There were reports of Houthi attacks on Saudi infrastructure, adding to the worry about the Strait of Hormuz.
+A: And I should be upfront, George. We could not confirm this morning's levels for gilt yields, sterling, gold, the euro or the yen, nor any credit spreads, so we're leaving them out rather than risk giving you a wrong number.
+B: Sensible. The last confirmed gilt reading I have is from earlier last week, with the ten year at about five point three four percent after a decent UK growth number.
+A: Right, so what should a COO take from this?
+B: First, a day like yesterday, with tech up and everything else down, is exactly when pricing quirks creep in. Ask your administrator whether there were any price challenges on thinly traded Asian holdings.
+A: Second, Korea. If any of your funds hold Korean chip stocks, a three percent plus fall in one session is worth a look at liquidity and any fair value pricing triggers.
+B: And third, margin. Rising yields and a strong oil price can mean collateral calls on hedges and derivatives, so have your treasury team confirm cash is ready, and that cut off times are well understood.
+A: Good. Right, George, over to macro and central banks!
+[PAUSE]
+B: Macro, Emma, and the first thing to say is that the British labour market statistics came out at seven this morning.
+A: They did, George, but they were published after our research window, so I can't give you the numbers. The previous reading had unemployment at four point nine percent, and pay growth slowing, so check the Office for National Statistics release for the headline.
+B: Worth knowing though that on growth, the economy did better than expected. Gross domestic product rose point one percent in August, beating forecasts, which came out on the fifteenth.
+A: And that helped the pound and gilts a little last week. But tomorrow is the big one: September inflation, at seven in the morning.
+B: Remind us where we are, Emma?
+A: August inflation was three point one percent. One preview we saw expected September to rise to around three point four percent, but we couldn't find a settled consensus, so please treat that as a rough guide.
+B: What matters is the Bank of England's reaction. Bank Rate is three point seven five percent. In September, the Monetary Policy Committee held, by six votes to three, with three members wanting to raise.
+A: And a Reuters poll on the fifteenth of October found that fifty four of sixty three economists expect the Bank to raise Bank Rate to four percent at its next decision, on the fifth of November.
+B: That's a clear majority, Emma! So a hot inflation number tomorrow would make that almost a done deal.
+A: It would. Now to America, where the inflation news has been unwelcome. September consumer prices rose three point seven percent over the year, slightly above forecasts of three point six.
+B: And the core measure, which strips out food and energy, rose point three percent on the month, against point two expected. Producer prices were also hot.
+A: So the Federal Reserve, chaired by Kevin Warsh, meets on the twenty seventh and twenty eighth of October. The policy range is three point seven five to four percent, after the September rise.
+B: The central expectation is a hold, but a hot number reopened the debate. One market estimate on the fifteenth put the chance of an October hike at about twenty nine percent, though that is a few days old, and economists still lean towards waiting.
+A: Pricing for December is firmer, with a hike then seen as likely by many. It really is a case of when, not if, for some in the market.
+B: Then on the twenty ninth, the European Central Bank decides. The deposit rate is two point five percent, after a rise on the tenth of September.
+A: Euro area inflation was three point two percent in August. A late September snapshot put the chance of an October hike at around sixty percent, but that's stale, so look for fresh pricing before you rely on it.
+B: And sitting in the middle of all this, Emma, is Budget day, on the twenty eighth of October. Same day as the Fed.
+A: Yes. With the ten year gilt yield above five percent and the long end close to six, the Chancellor has little room for manoeuvre, and the market will be watching the borrowing numbers and any change to taxes.
+B: Now, geopolitics. The oil price is the thread running through everything, isn't it?
+A: It is. Attacks on shipping around Hormuz, and now reports of strikes on Saudi infrastructure, keep Brent above one hundred dollars, and that feeds directly into inflation forecasts and central bank hawkishness.
+B: And in China, a quiet but notable signal. The central bank held its lending rates and let the yuan strengthen. That helps to take some pressure off the dollar.
+A: Right, so what does this mean for a COO, George?
+B: First, rate sensitivity in your own business. If you have floating rate borrowing, or seed capital financed that way, the next two weeks could change your costs.
+A: Second, Budget day planning. It lands on the same day as the Fed, so decide who reads the document, who briefs the board, and who handles client calls. Don't leave it to the last hour.
+B: And third, fund pricing. If rate hikes bring gilt volatility, your daily valuations and your swing pricing and dilution levy settings are what protect long term investors. Make sure those are reviewed and documented.
+A: Good. Right, George, let's get into regulation.
+[PAUSE]
+A: Regulation. Now we covered the big redemption consultation yesterday, so today I want to bring you the surrounding picture, because several pieces are moving at once.
+B: Where do we start, Emma?
+A: Transaction reporting. On the second of October the Financial Conduct Authority published consultation paper CP twenty six thirty four, on the new reporting regime that replaces the old version of the Markets in Financial Instruments Regulation.
+B: Reporting rules, again! What does that mean in practice?
+A: It means change to the data you send to the regulator on trades. For a COO, that touches your order management systems, your booking models, and your trade reporting vendors, and potentially the way you make delegation agreements with your brokers.
+B: So not a spreadsheet change, but a project. And do we know when it bites?
+A: Not yet. This is a consultation, so rules come later, but the sensible move is to ask your vendors now what their plan is, and whether it costs extra.
+B: Next, the fund agenda. In July the regulator published three papers on asset management reform. They cover the UK alternative investment fund managers regime, remuneration rules, and a new fund reporting framework called FRAME.
+A: And one of those closed just last week, George. Feedback on the alternative investment fund managers paper, CP twenty six twenty eight, was due on the fourteenth of October.
+B: For FRAME, the regulator says it wants to publish more prototype reporting forms before the end of this year, with final rules in the first half of twenty twenty seven.
+A: So if you are in the working group, or you have a data team that should be, now is when to check that they've seen the prototypes.
+B: Yesterday's big one, the redemption consultation, CP twenty six thirty five, is still open, with responses due on the eleventh of December. So it's worth adding to your project plan right now.
+A: Agreed. Now, enforcement, George, because there was a big ruling last month.
+B: The Odey case. On the fourteenth of September, the Upper Tribunal upheld the Financial Conduct Authority's ban of Crispin Odey from the industry, for a lack of integrity. The financial penalty was reduced a little, to about one point five three million pounds.
+A: That's a notable decision. And the regulator's published list shows total fines for twenty twenty six so far at about nineteen and a half million pounds.
+B: So what does a COO take from Odey, Emma?
+A: Culture and governance. The case is a reminder that the regulator looks hard at how firms handle complaints, conduct and senior accountability. Review your whistleblowing arrangements and your fit and proper process.
+B: And speaking of whistleblowing, a parliamentary group has called for an independent review of how the regulator itself handles whistleblowers. So expect that debate to continue.
+B: Over to Europe, Emma. The European Securities and Markets Authority published an updated manual on transparency rules on the fifteenth of October, covering over the counter derivatives and tick size.
+A: And it issued an opinion that authorised crypto firms should not provide services involving tokens which don't comply with the European crypto rules. That is relevant if you trade in Europe.
+B: The three European supervisors have also published their twenty twenty seven work programmes, so plan a read of those. And on the global side, the Financial Stability Board is consulting on stablecoin arrangements until the eighth of January.
+A: On the American side, I couldn't find anything notable from the Securities and Exchange Commission or the Commodity Futures Trading Commission affecting managers this morning, so we'll leave it there.
+B: Now, the deadlines, Emma, because these are the ones that matter most for planning.
+A: Right. First, the final rules on fund liquidity risk management, policy statement PS twenty six seventeen, apply from the first of February twenty twenty seven. That is under four months away.
+B: Second, UK settlement moves to a one day cycle, known as T plus one, on the eleventh of October twenty twenty seven. That's a year from last week.
+A: And third, the American Form PF reporting changes have been delayed to the first of July twenty twenty seven.
+B: Why does T plus one worry operations people so much, Emma?
+A: Because everything has to happen faster. Matching, allocation, funding and foreign exchange all need to be done on the trade date or the evening after, and any manual step becomes a risk. So find your manual steps now.
+B: So the regulatory to do list for a COO: map the redemption consultation to your funds, chase your vendors on transaction reporting, and keep your liquidity project on track for the first of February.
+A: Exactly right. Let's turn to the industry, George.
+[PAUSE]
+B: Funds and industry, Emma, and active exchange traded funds are the story of the week.
+A: They really are! Let's start in America, where Ruane Cunniff has completed the conversion of its Sequoia Fund into an exchange traded fund.
+B: That's a mutual fund that has been going for fifty six years, now in a new wrapper. About six point six billion dollars, combining the fund with most of the firm's taxable accounts, trading on the New York Stock Exchange.
+A: It's a big deal because it shows the direction of travel. Investors, especially in America, increasingly want the tax and trading features of the exchange traded wrapper.
+B: Also, William Blair launched its first two actively managed exchange traded funds, covering emerging markets and international equity, and they were due to start trading on the sixteenth of October.
+A: And WisdomTree launched two new exchange traded funds on the Texas Stock Exchange, which is an interesting detail in itself, because it shows trading venues are competing for listings.
+B: In Asia, Nuveen has announced plans for an artificial intelligence focused active exchange traded fund strategy in Taiwan.
+A: Which is a nice bit of timing given the debate in markets about artificial intelligence valuations this week, isn't it, George?
+B: Ha, it is! Now in the UK, a survey by Carne found that about seventy eight percent of UK and US managers are exploring launching a long term asset fund, or LTAF.
+A: That's a striking number! Though exploring and launching are different things. But it fits with the picture of private markets moving into defined contribution pensions.
+B: It does. And it links to the regulator's redemption consultation. Remember, long term asset funds have a particular role in that proposal, including the idea that investors might be allowed to withdraw a redemption request during a notice period.
+A: So if you're planning a launch, build the dealing model with that in mind.
+B: We didn't find any confirmed gating, major asset manager deal or senior hire announcements in time for this morning, so we're not going to invent any.
+A: Good. Instead, here's the practical point for a COO. Active exchange traded fund launches mean operational set up, so check your readiness on authorised participants, market makers, daily portfolio disclosure, and data feeds to exchanges.
+B: Because an exchange traded fund is a very different operating model to a traditional fund. The fund is priced all day, not once a day, and any error is visible immediately.
+A: And a note for those thinking of converting funds. The Sequoia example shows it can be done at scale, but the process takes careful planning around tax, investor communication and custody.
+B: Right, Emma, time for the three things.
+[PAUSE]
+A: Three things a COO should do something about today. George, number one.
+B: Number one, Emma: run a stress test on technology concentration. After the volatile week in chips and the swings in Korea, ask your risk team what a further ten percent fall in the biggest technology holdings would mean for each fund, and whether any limits or liquidity metrics would be hit.
+A: Number two: prepare for Budget day and the Fed on the twenty eighth. Agree who reads the Budget, who briefs the board, who talks to clients, and what the treasury team needs for any margin calls. Have it all written down by Friday.
+B: And number three, which is the one I'd put at the top of your list for the quarter: start planning the work for the first of February. The fund liquidity rules, and the redemption consultation, together will affect your dealing terms, your investor documents and your systems.
+A: Yes. Put an owner against it, put a date against it, and ask your administrator and transfer agent what they need from you.
+B: Now the diary for this week, Emma.
+A: Today, Tuesday the twentieth of October, the British labour market statistics came out at seven this morning. Tomorrow, Wednesday the twenty first, we get British consumer price inflation for September, also at seven.
+B: And through the week, a run of results from the big technology and artificial intelligence companies, which investors say will be crucial for the tone of markets.
+A: Looking ahead, next Tuesday and Wednesday, the twenty seventh and twenty eighth, the Federal Reserve meets, and the UK Budget is delivered on Wednesday the twenty eighth.
+B: On Thursday the twenty ninth, the European Central Bank decides. Then on the fifth of November, it's the Bank of England.
+A: And the diary beyond that: the redemption consultation closes on the eleventh of December, the liquidity rules start on the first of February, and UK T plus one arrives on the eleventh of October twenty twenty seven.
+B: One last thing, Emma. Every figure we gave you today was cross-checked where we could. Where we couldn't, we said so. Do check the primary sources before you act on anything.
+A: Absolutely. George, thank you, that was a lot to get through!
+B: My pleasure, Emma! And thank you for listening, everyone. Have a great day.
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
