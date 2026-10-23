@@ -1,0 +1,120 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Friday, the twenty third of October, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, what a way to end the week. Yesterday was the day the technology trade finally cracked.
+A: It was, George! Let's run the headlines. In markets, the Nasdaq had its worst day since June, Brent crude hit a five month high, and Asia was hammered, with South Korea down three and a half percent.
+B: In macro, it's a big Friday for data, with flash purchasing managers' surveys and retail sales, and tonight Moody's gives its verdict on France. Then comes a huge week, with the Budget, the Fed, the European Central Bank and the Bank of Japan.
+A: In regulation, a cyber alert took the European Banking Authority's website offline, which is a nice reminder for every operations team, and there are several consultation dates to put in the diary.
+B: And in funds, the University of California is seeding a two and a half billion dollar index fund, Amundi has launched thematic ETFs, and the private credit gates are still shut. Then three things a COO should do something about today, and the diary.
+A: Right, George, let's get into markets!
+[PAUSE]
+A: Markets, and what a contrast with the day before. On Wednesday we told you tech was back in favour. By Thursday, George, it was out again!
+B: Wow, wasn't it, Emma! The Nasdaq Composite fell two point six percent, to twenty six thousand and nine. That's its worst session since June.
+A: The S&P five hundred dropped one point two percent, to seven thousand, six hundred and sixty three, its worst day since July.
+B: And yet the Dow Jones barely moved! It edged up by about twelve points to fifty two thousand, eight hundred and sixty eight. So a very lopsided market.
+A: Lopsided is right. What was the trigger?
+B: Earnings, and the old worry about artificial intelligence spending. Meta reported revenue growth, but investors fixated on its plans to spend even more on capital expenditure. The shares fell nearly seven percent.
+A: And that reignited a fear that the big technology firms will have to borrow much more to pay for all those data centres. Tesla also fell, by around three percent.
+B: Here's the interesting bit, though. Bonds rallied hard. The ten year Treasury yield fell sharply, to somewhere around four point nine five percent, which some reports call the biggest one day drop since March twenty twenty three.
+A: Now, that's approximate. Sources differ on the exact close, so treat it as a ballpark. We haven't got clean numbers for the two year and thirty year, so we'll leave those out.
+B: Fair enough. The knock on effect is that traders have trimmed their bets on another Federal Reserve rate rise this year.
+A: Oil, meanwhile, went the other way. Brent crude rose around two and a half percent to about one hundred and eleven point seven dollars a barrel. That's a five month high!
+B: Reports put it above one hundred and twelve dollars at the peak, with Middle East tensions the driver. And gold slipped to around four thousand and twenty dollars an ounce.
+A: Even with yields falling, George, which tells you how nervous the whole market is.
+B: Bitcoin didn't escape either. It fell below eighty two thousand dollars, with the decentralised finance tokens leading the declines.
+A: Now to Asia, where the damage was bigger. On Thursday, South Korea's Kospi tumbled about three and a half percent. Hong Kong's Hang Seng dropped around three percent, its worst day in seven months.
+B: And Japan's Nikkei two hundred and twenty five sank about two point seven percent. In mainland China, the CSI three hundred is now more than twenty percent below its June peak, which is the textbook definition of a bear market.
+A: This morning the picture is more mixed. The Kospi and the Nikkei are lower again in early trading, although sources disagree on by how much, while Hong Kong looks roughly flat. Those are early moves, so we won't quote them.
+B: Now home turf. The FTSE one hundred closed down a quarter of a percent, at ten thousand, seven hundred and twenty five. The mid cap FTSE two hundred and fifty did worse, down nearly one percent.
+A: Two stories stood out. The London Stock Exchange Group jumped almost eight percent after announcing a proposed three point five billion dollar cash purchase of the credit information firm Octus from Permira.
+B: And Rentokil Initial rose more than eight percent after a solid third quarter. Against that, rising oil and weak UK manufacturing weighed on the index.
+A: Sterling is trading around one point three four against the dollar. And the ten year gilt yield is somewhere around five point four percent. That is still near its highest since two thousand and seven, which it touched earlier this month at five point five three.
+B: I'd call both of those indicative, Emma. We couldn't confirm clean closing levels for the euro, the yen or credit spreads, so we'll leave them out rather than guess.
+A: And one more from Europe. French bonds. The ten year French yield is around four point nine percent, and the gap over German Bunds is roughly one hundred and fifty basis points, which is about the widest since the euro crisis.
+B: A basis point is one hundredth of a percentage point, so that's one and a half percent of extra yield for lending to Paris. And Moody's reviews France this evening!
+A: So what should a COO take from the markets, George?
+B: First, a day when the Nasdaq falls two and a half percent and the Dow doesn't move is a real test of concentration risk. Ask your risk team what your funds' exposure to a handful of technology names looks like against their benchmarks.
+A: Second, big moves in bonds and oil mean big moves in margin. Check your collateral buffers and your counterparty limits before the weekend.
+B: And third, if a French downgrade comes tonight, ask whether you hold French sovereign debt as collateral, and what your haircuts would be. Right, over to macro!
+[PAUSE]
+B: Macro, Emma, and today is a data day.
+A: It is, George. The October flash purchasing managers' indices for the UK, the euro area and America land this morning. They're quick surveys of businesses, so they give us the first read on how the economy is doing this month.
+B: In the UK, forecasts are quite scattered. Some previews look for services and manufacturing around fifty two to fifty three, while others are lower, around fifty one point eight. Anything above fifty means expansion.
+A: Also this morning, UK retail sales for September. After a rise of half a percent in August, the expectation is a weaker month. Fuel costs are squeezing households.
+B: And that matters, because the Bank of England meets on the fifth of November. Markets already price a quarter point rise in Bank Rate, to four percent, as we discussed yesterday.
+A: So a soft retail number and weak surveys are the opposite of what a central bank wants to see before raising rates, George.
+B: Exactly. It's the classic squeeze: inflation at three point five percent, but growth wobbling. Sterling has already priced the hike, so a surprise would move it.
+A: Next Wednesday is the Budget. We have flagged it all week, but the issue is the same. Gilt yields are close to their highest in nearly two decades, and the Chancellor needs to keep the bond market calm.
+B: Some of that fear shows in the long end. The thirty year gilt hit about six percent earlier this month, though we couldn't verify where it sits this morning.
+A: Now across the Atlantic. The Federal Reserve decides next Wednesday, the twenty eighth, with Kevin Warsh now in the chair.
+B: Before this week's wobble, traders had been pricing around two more quarter point rises by December. Thursday's bond rally has cut those bets, but a hold is still the base case for next week.
+A: Then the European Central Bank on Thursday the twenty ninth. And here we should be honest, George. Our sources disagree.
+B: Right. Euro area inflation was three point two percent in August, well above target, and some analysts have been talking up a second rise in a row, to two point seven five percent.
+A: Others expect a hold at two point five percent. We couldn't confirm which, so watch that decision closely.
+B: Thursday also brings preliminary American third quarter growth and the Fed's favoured inflation gauge, and then on Friday the thirtieth the Bank of Japan decides.
+A: And the geopolitics, George? It's still driving everything.
+B: It is. The Middle East conflict, the Strait of Hormuz and oil near one hundred and twelve dollars feed straight into inflation, and so into rates and bond yields.
+A: There is also civil unrest and a budget fight in France, which is why the Moody's review tonight feels so loaded.
+B: Moody's rates France at Aa three, with a negative outlook. In April it deferred its assessment, so a decision this evening could be a downgrade or another delay.
+A: What does that mean for a COO, George? Higher for longer rates mean higher funding costs for leveraged strategies, and potentially more redemption pressure in some products.
+B: So, refresh the liquidity stress tests with oil at a hundred dollars plus and yields near these levels. And have a plan for a Monday morning if France is downgraded tonight.
+A: Good advice! Now, over to regulation.
+[PAUSE]
+A: Regulation, George, and let's start with a story that isn't strictly about asset management, but should make every operations team sit up.
+B: Go on, Emma!
+A: On Wednesday, the European Banking Authority took its website offline. The reason was a cybersecurity alert from CERT-EU, the EU's computer emergency response team, about two critical flaws in software used to run many websites, including the EBA's.
+B: As a precaution, the site went dark at one in the afternoon, Central European Time, and the EBA has extended some consultation deadlines because of it.
+A: Now, the EBA is a bank regulator, but the lesson travels. Those same website platforms sit behind a great many fund groups, platforms and service providers.
+B: So the question for a COO is simple. Do you know which of your own sites, portals and vendors use that software? If a regulator can be forced offline, so can your investor portal.
+A: This is exactly what the operational resilience rules in the UK and the Digital Operational Resilience Act in the EU, known as DORA, are about. Mapping your important business services and the third parties that support them.
+B: Second item. The FCA's consultation on a new transaction reporting regime under MiFIR closed on Monday. That's consultation paper twenty six slash thirty four, from the second of October.
+A: In plain English, the FCA is rewriting how firms report their trades to the regulator. If your firm reports transactions, whether directly or through a broker or an approved reporting mechanism, there will be system changes.
+B: So the COO's job is to ask technology and compliance for an impact assessment now, because reporting changes are almost always the longest lead item on a project plan.
+A: Third, sustainability reporting. The FCA published policy statement twenty six slash nineteen on the thirtieth of September, alongside a technical note, and the related consultation closes next Wednesday, the twenty eighth of October.
+B: This is the UK sustainability reporting standards work, and the approach is to comply or explain. If your firm or the companies your funds hold are affected, that is a week to respond. Ask your sustainability and legal teams whether you intend to.
+A: Fourth, the Prudential Regulation Authority published consultation paper thirteen slash twenty six on the seventh of October. It proposes a framework to update certain regulatory thresholds automatically, rather than through repeated rule changes.
+B: It's mostly about banks and insurers, but it is a good sign of the direction of travel, towards fewer manual updates and more automatic ones.
+A: And a reminder on crypto, since we covered it yesterday. The FCA has finalised its perimeter guidance in policy statement twenty six slash eighteen, which came out on the sixteenth of September. And the new consultations on decentralised finance and the perimeter close on the eighteenth of November.
+B: The FCA says it aims to publish final guidance in January twenty twenty seven. If your funds touch digital assets at all, get a view into your plan.
+A: Right, George. Now the permanent items on the wall. The fund liquidity rules in policy statement twenty six slash seventeen apply from the first of February, twenty twenty seven.
+B: That's published, final, and about fifteen weeks away. Review your anti dilution tools, your dealing terms, and your fund documents now.
+A: Then, UK T plus one settlement on the eleventh of October, twenty twenty seven. And the American Form PF changes now delayed until the first of July, twenty twenty seven.
+B: Quick reminder, too, that the FCA's online fund authorisations system goes live on Monday the second of November. Make sure your people have access.
+A: So the regulatory takeaway, George?
+B: The takeaway is that the calendar is crowded, and the cyber story shows that resilience is a regulatory issue, not just an IT one.
+A: Well said! Let's turn to funds.
+[PAUSE]
+A: Funds and industry, George, and I want to start with something that is rather striking.
+B: Go on, Emma!
+A: Bloomberg reports that the University of California's investment arm is seeding a new exchange traded fund with two and a half billion dollars. That's a big number for a launch.
+B: It is! The fund puts ninety percent in the S&P five hundred and ten percent in short term bonds. So it's a simple, low cost core holding that has been designed for a very large investor.
+A: Seeding, remember, means putting in the first money so a fund can launch with scale. And it shows how large institutions are using the ETF wrapper as a mainstream tool.
+B: Staying with ETFs, Amundi has launched three thematic ETFs, listed on Xetra and Euronext on Tuesday, covering space, electrification and critical metals.
+A: And here in London, Fidelity International's new dynamic buffer UCITS ETFs were due to list on the London Stock Exchange yesterday, after listing in Milan and Frankfurt. A further listing in Switzerland follows on Monday.
+B: As we noted yesterday, buffer funds use options to cushion part of the losses in exchange for capping gains. Rather timely, after a day like Thursday, Emma!
+A: Very! Over in America, Allspring has introduced ETF share classes for three of its existing mutual funds. That means the same portfolio can be held in either a mutual fund or an ETF structure.
+B: That's a trend to watch, Emma, because it affects operations. A single portfolio with two types of share class means two sets of dealing cycles, reconciliations and tax treatments.
+A: Meanwhile, Tema has launched two commodity ETFs on the Texas Stock Exchange, a commodity income fund and a commodity infrastructure fund. That's a newcomer exchange, by the way, for those keeping track.
+B: Now to the tougher side of the industry. Private credit. Blackstone capped withdrawals from its flagship private credit fund at five percent of shares in a quarter, after requests reached around ten percent. That is roughly four and a half billion dollars.
+A: And Apollo's flagship fund has now limited withdrawals for a third straight quarter. Apollo estimates that investors asking to withdraw this year will have received about seventy five percent of what they requested.
+B: That's a vivid illustration of the liquidity mismatch, Emma. Investors in semi liquid funds expect to get their money out, but the assets underneath are loans that can't be sold quickly.
+A: And it's exactly the issue that the FCA's fund liquidity rules are designed to prevent for retail funds in the UK. The pressure is linked to concerns that software companies, big borrowers in private credit, may be disrupted by artificial intelligence.
+B: And with a tech sell off on top, those concerns won't ease, will they?
+A: Not at all. On the deal side, the consolidation continues. Victory Capital agreed in August to buy First Eagle for about seven billion dollars, including four billion in cash.
+B: So scale matters more and more. For a COO, mergers mean platform integrations, new custodian relationships and years of operational change.
+A: Right. Let's think about what the industry is telling us. Three themes, George.
+B: First, big institutions are going for cheap, simple, index like products. Second, product complexity keeps growing, with buffers, dual share classes and thematic funds. And third, liquidity in private markets is under real strain.
+A: And for operations, that means more product types, more share classes, and tougher conversations with investors. Make sure your valuation, dealing and communications processes can cope.
+B: Well put, Emma! Now let's pull it all together.
+[PAUSE]
+A: Three things a COO should do something about today.
+B: Number one. Stress test for a technology led sell off combined with a French or gilt shock. Ask your risk team for a quick look at concentration in the largest technology stocks, collateral buffers, and any French government bond exposure, before tonight's Moody's decision.
+A: Number two, George. Take a cyber check on your websites and third party platforms. The EBA incident came from a critical flaw in widely used web software. Ask your technology team and vendors whether you are exposed, and whether patches are applied.
+B: And number three, Emma. Start the project clocks. The clocks go back this Sunday, so check trade capture and batch jobs. And on the planning side, put the fund liquidity rules, the transaction reporting changes and the T plus one date into one single plan.
+A: And a bonus, George. If you have a view on the sustainability reporting consultation, next Wednesday is the deadline.
+B: Now, the diary. Today, Friday the twenty third, brings the flash purchasing managers' surveys, UK retail sales for September, and the Moody's review of France in the evening.
+A: On Sunday the twenty fifth, the clocks go back in the UK. On Monday the twenty sixth, Fidelity's buffer ETFs list in Switzerland.
+B: Then Wednesday the twenty eighth is the big day. The Budget, the Federal Reserve decision in the evening UK time, and the deadline for the sustainability reporting consultation.
+A: Thursday the twenty ninth brings the European Central Bank, and American growth and inflation figures. On Friday the thirtieth, the Bank of Japan.
+B: Then, on Monday the second of November, the FCA's online fund authorisations go live. On the fifth, the Bank of England decides on rates. And the eighteenth of November is the deadline for the crypto consultations.
+A: And that's it for this morning, George. A busy one!
+B: Wasn't it just! Have a great weekend, everyone, and thank you for joining us.
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
