@@ -1,0 +1,109 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Monday, the twenty sixth of October, twenty twenty six, and I'm Emma.
+B: And I'm George! Welcome back, everyone, and I hope you enjoyed the extra hour in bed, because the clocks went back yesterday. Emma, we have a lot to get through, and it's a Monday, so we're covering the whole weekend too.
+A: We are, George! Let's run the headlines. In markets, Wall Street slipped on Friday, with the Dow down one point two percent, and Brent crude is back above one hundred and fifteen dollars, its highest since April.
+B: Also on Friday, France dodged a downgrade! Moody's kept its rating unchanged, and French bonds, which had been in real trouble, caught a bid.
+A: In macro, it is the biggest central bank week of the autumn. The Budget and the Federal Reserve on Wednesday, the European Central Bank on Thursday, the Bank of Japan on Friday, and the Bank of England just round the corner.
+B: In regulation, a new FCA consultation on crypto asset guidance, a very busy consultation calendar, and a look at the long dated deadlines every UK manager is working to.
+A: And in funds, buffer ETFs reach Switzerland, a big name is reportedly eyeing a bitcoin linked ETF, and private credit liquidity is still the story to watch. Then three things a COO should do something about today, and the diary for the week.
+B: Right, Emma, let's get into markets!
+[PAUSE]
+A: Markets, George, and first, a quick recap of Friday in America. It was a slightly sour end to a rough week.
+B: It was, Emma. The Dow Jones Industrial Average fell about one point two percent, which is around six hundred and fifty points, to roughly fifty two thousand, two hundred and fifteen.
+A: The S&P five hundred lost about half a percent, to seven thousand, six hundred and twenty three, and the Nasdaq Composite slipped about a fifth of a percent, to about twenty five thousand, nine hundred and fifty five.
+A: And the culprit was a familiar one. Oil. Brent crude jumped about three and a half percent on Friday, to roughly one hundred and seventeen dollars a barrel.
+B: That is its highest level since April, Emma! And it came with reports that the United States and Israel could strike Iran after the American midterm elections, which are a week tomorrow.
+A: Oil and bonds moved together, which is never comfortable. The American two year Treasury yield rose about five hundredths of a percentage point, to four point six nine percent.
+B: The ten year rose by about the same, to five point oh oh percent. Five percent on the dot!
+A: And the thirty year yield came in at five point three three percent. So the whole curve is sitting at or above levels that, not that long ago, would have looked extraordinary.
+B: And that's the squeeze, Emma. Higher oil means higher inflation worries, higher inflation worries mean higher yields, and higher yields weigh on shares.
+A: Exactly, George. Hold that thought, because it's the backbone of everything we talk about in macro this morning.
+A: Now to this morning. Asia is mixed and mostly soft, with oil the main driver. Brent eased a little at first, to around one hundred and fourteen and a half dollars, after the United States did not escalate the conflict over the weekend.
+B: But it has swung around since. Some reports have it back up near one hundred and sixteen or seventeen. So the honest answer is that oil is trading in a very wide, very nervous range.
+A: In Tokyo, the Nikkei is slightly lower, led by chip and electronics firms. Seoul is the weak spot, with the Kospi down, though sources disagree on how far, so we won't quote a number.
+B: Hong Kong's Hang Seng, on the other hand, is a touch higher. And in Australia, markets are pricing better than a sixty percent chance that the Reserve Bank raises rates next Tuesday.
+A: Yes, George, a hike in Australia! It tells you how much the energy shock is spreading globally. Gold, by the way, has been drifting, and is reported to be near a three month low.
+B: Now to Europe and home. The FTSE one hundred closed on Friday at about ten thousand, six hundred and ninety, down roughly a third of a percent. Reports put it down nearly two percent over the week.
+A: So a soggy week for London. Oil heavy companies were helped, but it was a weak retail sales number on Friday, and worries about the Budget, particularly for banks, that weighed.
+B: On the bond side, the ten year gilt yield is somewhere around five and a third percent. That is an indicative number, because sources vary, but it's still very close to the highest levels in nearly two decades.
+A: Sterling, meanwhile, has been trading a little above one point three three against the dollar. And the euro? After the France news on Friday, it edged up to about one point one two against the dollar.
+B: Which brings us to the big European story. Moody's, on Friday, kept France at Aa three, with a negative outlook.
+A: Remember that a lot of the market had braced for a downgrade, and a majority of economists, according to one preview, expected one. French ten year yields touched five percent on Wednesday, the first time since two thousand and two!
+B: So this was a reprieve, but not an all clear. A negative outlook means that the agency is still leaning towards a cut. Moody's pointed to slower growth and a bigger deficit pushing up the debt burden.
+A: And that's why it's not over. With unrest and a budget fight in Paris, French spreads could easily widen again.
+B: First, five percent on the American ten year, and oil above one hundred and fifteen dollars, is a stress scenario that your risk team should have modelled. Ask whether your funds' liquidity and leverage limits still hold up if both persist.
+A: Second, oil and rates are moving daily, so margin calls and collateral movements are volatile too. Check that treasury and operations can fund a big overnight call, particularly on a day when the weekend news is thin.
+B: And third, French bonds. Even with Friday's reprieve, check what you hold, and what you accept as collateral. Good, let's move on to macro.
+[PAUSE]
+B: Macro, Emma, and what a week we have in front of us!
+A: We do, George! Let me set the scene. This is the week when four central banks and one Chancellor all land within a few days of each other.
+B: Start with Wednesday, because that day alone has two blockbusters. First, the Budget, from the Chancellor, Rachel Reeves.
+A: We have flagged this for weeks. Gilt yields are near their highest in about two decades, and the real job on Wednesday is to convince bond investors that the sums add up.
+B: Reports suggest that banks may face a higher tax surcharge, and bank shares have already wobbled on that fear. Treat that as a report, not a certainty, until the Chancellor stands up.
+B: Then, on Wednesday evening, UK time, the Federal Reserve, with Kevin Warsh in the chair.
+A: Now, what do we expect? I'd say the Fed is a close call between holding and sounding hawkish. Our view is that the base case is no change, but the language matters a lot, especially with oil this high and ten year yields at five percent.
+A: Next, Thursday, the European Central Bank. The deposit rate is two point five percent, after a rise in September.
+B: And here the consensus is firm. A Reuters poll of seventy three economists, taken in early October, had all but three expecting a hold on Thursday, and sixty four of them looking for another rise in December.
+A: Inflation in the euro area is running well above target, at around three point seven to three point eight percent in September, depending on the source. So the ECB is not done, it's just pausing.
+B: Also on Thursday, we expect the first estimate of American third quarter growth and the Fed's favoured inflation gauge, the PCE price index. Those are the numbers to watch, because they land the day after the Fed.
+A: Then Friday, the Bank of Japan. And on Thursday the fifth of November, George, the Bank of England.
+B: Yes! Markets are pricing in a quarter point rise in Bank Rate, from three point seven five percent to four percent.
+A: Goldman Sachs, Citi, Barclays and UBS have all called for a rise in November. The Bank's argument is that energy-driven inflation is bigger than it expected, and growth data has held up.
+A: We should be honest about one gap. We could not verify the October flash purchasing managers' surveys for the UK, so we won't quote them. Check them yourselves if they matter for your forecasts.
+B: Now the geopolitics, which, as you can tell, runs through everything. The war with Iran grinds on, and there are reports of continuing attacks on Saudi Arabia.
+A: Senior officials from Saudi Arabia, Turkey and Pakistan were due to meet Iranian officials in Tehran today, to discuss regional coordination. That's the diplomatic track, and it's one to watch.
+B: And the other track is military. The reports of possible strikes after the American midterms, on the third of November, are what pushed Brent to its highest since April.
+B: So, the COO angle. First, higher for longer rates mean higher funding costs for leveraged strategies, and potentially more redemption pressure on funds with illiquid holdings.
+A: To put it simply, George, when the cost of money stays high, borrowers struggle, and investors in some products start asking for their cash back.
+A: Second, make sure someone owns a rolling calendar for these events, with named people covering dealing, valuation and treasury cover on each day, and clear escalation if a market moves a lot.
+B: And third, for any firm with a Budget-sensitive product, think pensions, tax wrappers, retail investors, make sure communications are ready for Wednesday afternoon, rather than starting a draft on Thursday morning.
+A: Good advice, George! Now, over to regulation.
+[PAUSE]
+A: Regulation, George, and let's start with something new, which you'll recognise from last week's crypto theme.
+B: Go on, Emma!
+A: On the twenty first of October, the FCA published consultation paper twenty six slash thirty six. It sets out updated perimeter guidance for cryptoassets, to reflect the new crypto legislation.
+B: The perimeter, for those new to the term, is the boundary between what is regulated and what isn't. And it matters because crossing it without authorisation is a criminal offence.
+B: So the COO question is: do any of your funds, or any of your service providers, touch cryptoassets, even indirectly, through an ETN or a futures contract? If so, get legal to read the paper now, and respond if it affects you.
+A: Second item. A date that has just passed. The FCA gave firms until the twenty second of October, last Thursday, to respond to two consultations that sit at the heart of the asset management rulebook reform.
+B: Those are consultation paper twenty six slash twenty eight, on the UK regime for alternative investment fund managers, and consultation paper twenty six slash twenty six, on a new fund reporting approach known as FRAME.
+A: Third, a longer dated one. Last week we mentioned the FCA's consultation on a new transaction reporting regime. The final rules are already out, in policy statement twenty six slash fifteen, and they take effect on the third of April, twenty twenty eight.
+B: So that sits some months after T plus one. And it means you have time, but not much, because reporting changes tend to be the longest project on a technology plan.
+A: A reminder, too, for this Wednesday, the twenty eighth of October, which is the closing date for the FCA's consultation on a technical note that accompanies its sustainability reporting policy statement for listed issuers.
+B: It's the UK Sustainability Reporting Standards, applied on a comply or explain basis. If you want a say, you have three days.
+A: Right, George. Let's remind people about the deadlines that sit on every COO's wall.
+B: Number one, the fund liquidity rules in policy statement twenty six slash seventeen apply from the first of February, twenty twenty seven. That is roughly fourteen weeks away.
+A: Number two, UK T plus one settlement on the eleventh of October, twenty twenty seven. And number three, the American Form PF changes, which have been pushed back until the first of July, twenty twenty seven.
+B: And one thing in the near term. The FCA's online fund authorisations system is due to go live on Monday the second of November, next week. If your team files applications, make sure access is sorted before then.
+A: So what do we take from regulation this morning, George?
+B: Two things, Emma. One, the calendar is very full, with decisions landing on fund liquidity, reporting, crypto and sustainability at the same time. The risk is a pile-up of projects competing for the same technology and compliance people.
+A: And two, I'd say that this is the time to build a single regulatory change plan. Put every date on one page, give every item an owner, and be explicit about the dependencies, particularly data.
+B: Well said! And a quick note on what we haven't found: we saw no new Dear CEO letters or major enforcement announcements aimed at asset managers over the last few days, so if you have heard otherwise, do let us know.
+A: Let's turn to funds.
+[PAUSE]
+A: Funds and industry, George, and it is a quieter start to the week for product news, but there are a few stories worth your time.
+B: Let's begin with something I think is fascinating, Emma. Fidelity International's new dynamic buffer ETFs, which we mentioned last week, reach Switzerland today.
+A: These are UCITS ETFs listed in Milan, Frankfurt and London, and now Switzerland. As a reminder, a buffer fund uses options to protect investors against a set slice of losses, in return for giving up some of the upside.
+B: And the timing is rather neat. After a week of wobbles in shares, products that promise a cushion are going to attract questions from advisers and clients.
+A: Second, from America. There's a report that Franklin Templeton is preparing an ETF that would take the dividends from large American shares, and reinvest a slice of them into bitcoin.
+B: Now, important caveat. That came from a post on social media by a wealth manager, not from a filing or a press release, so treat it as unconfirmed. But the idea is interesting: a conventional equity income product, with a small crypto tilt.
+A: Now, for the harder side of the industry, which is private markets. Over the summer, we saw a wave of limits on withdrawals from semi liquid private credit funds.
+B: Blackstone, Apollo, Ares, BlackRock and Morgan Stanley were among those that capped redemptions at about five percent of shares in a quarter. And Cliffwater, earlier in the year, limited withdrawals to seven percent after record requests of fourteen percent.
+A: Bloomberg's tally in the early summer put the amount trapped behind those caps at more than four and a half billion dollars. We don't have a fresh number this week, but the pressure has been tied to worries about loans to software companies, which may be disrupted by artificial intelligence.
+B: So the next set of quarterly redemption numbers, which tend to arrive in the weeks after quarter end, is the thing to watch. A tough week in markets can only increase the requests.
+A: And here in the UK, this is exactly the reason the FCA's fund liquidity rules exist. Tools like notice periods, anti dilution levies and swing pricing are meant to deal with the mismatch between daily dealing and slow assets.
+B: So here is my read, Emma. Three themes. One, product innovation continues, with buffers, thematic funds and dual share classes. Two, new product types land in the middle of new rules, so launching needs more compliance work than it did.
+A: And three, liquidity in private markets is the pressure point. Every one of those themes comes back to operations: valuation, dealing, communications and data.
+B: And with a rough few days in markets, Emma, valuations are going to be scrutinised even more closely. Auditors, boards and investors will all ask how you priced hard to value holdings at the end of the quarter.
+A: Which is a good prompt for any COO. Is your valuation committee meeting booked, and are its papers ready before quarter end rather than after?
+[PAUSE]
+A: Three things a COO should do something about today.
+B: Number one. Run a quick check on a combined shock. Oil above one hundred and fifteen dollars, American ten year yields at five percent, and a flare-up in French bond spreads. Ask your risk and treasury teams what that does to margin, collateral and fund liquidity.
+A: Number two, George. Build and share the nine day event calendar. The Budget, the Fed, the European Central Bank, the Bank of Japan, the American midterms and the Bank of England. Name an owner for each day, and agree who can make decisions if markets gap.
+B: And number three, Emma. Start the single regulatory change plan. Put fund liquidity, transaction reporting, T plus one and Form PF in one place, and confirm that your people have access to the FCA's new online fund authorisations system before it goes live on the second of November.
+A: And a bonus one: the consultation on the sustainability reporting technical note closes on Wednesday, so if you have a view, say so by then.
+B: Now, the diary. Today, Monday the twenty sixth, Fidelity's buffer ETFs list in Switzerland. Tuesday the twenty seventh is a quieter day, so use it to prepare.
+A: Wednesday the twenty eighth is the big one. The Budget, the Federal Reserve decision in the evening, UK time, and the deadline on that sustainability reporting consultation.
+B: Thursday the twenty ninth brings the European Central Bank, plus the first estimate of American third quarter growth and the PCE inflation gauge. And on Friday the thirtieth, the Bank of Japan.
+A: Then next Monday, the second of November, the FCA's online fund authorisations go live. On Tuesday the third, the Reserve Bank of Australia decides, and America votes in the midterm elections.
+B: Then on Thursday the fifth of November, the Bank of England. And remember, the eighteenth of November is the deadline on the crypto consultations.
+B: It certainly is, Emma! Have a great week, everyone, and thank you for joining us.
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
