@@ -1,0 +1,116 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Tuesday, the twenty seventh of October, twenty twenty six, and I'm Emma.
+B: And I'm George! Big week, Emma. Big, big week. The Budget, the Fed, the ECB and the Bank of Japan are all queued up within four days, and this morning we get to enjoy the calm before the storm.
+A: We do, George! Let's run the headlines. In markets, Wall Street bounced on Monday, the S&P five hundred gaining about two thirds of a percent, while oil slipped and the American ten year yield dipped back under five percent.
+B: In Europe, shares rallied too, with the FTSE one hundred up about three quarters of a percent, and French bonds enjoying a real sigh of relief.
+A: In macro, the Federal Reserve starts a two day meeting today, with the decision tomorrow evening, and the Chancellor delivers her Budget tomorrow lunchtime. It's a double bill!
+B: In regulation, the FCA and the Prudential Regulation Authority have published their biggest rethink of the Senior Managers regime in years, plus a fresh FCA warning on conflicts of interest in private markets.
+A: And in funds, Amundi is on the move with new active ETFs, private credit redemptions are still elevated, and we have three things a COO should do something about today, plus the diary for the week.
+B: Right, Emma, let's get into markets!
+[PAUSE]
+A: Markets, George, and it was a much friendlier Monday than the weekend headlines suggested.
+B: It was, Emma! After last week's wobble, the S&P five hundred rose about zero point seven percent, to roughly seven thousand, six hundred and ninety two.
+A: The Nasdaq did the heavy lifting again, up around eight tenths of a percent, and the Dow Jones edged higher too. Reports say Nvidia and the travel stocks led the way.
+B: And the reason was oil. Brent crude fell on Monday, touching about one hundred and nine dollars, then recovering to settle somewhere around one hundred and ten or one hundred and eleven dollars a barrel. Sources differ by a dollar or so, so treat that as a range.
+A: That is a drop of about one percent, but, George, let's keep perspective. It is still a very high number, and it is still hovering near the top of the range since the conflict with Iran began.
+B: Absolutely. The bond market liked the oil move, though. The American ten year Treasury yield eased to four point nine eight percent, from five percent on the dot on Friday.
+A: And the two year yield edged up slightly, to around four point seven one percent. We could not verify a reliable thirty year yield this morning, so we won't guess.
+B: Which means the curve is nearly flat between two and ten years. That is a market saying, I think, that the Fed is stuck. Rates aren't low enough to help, and inflation isn't low enough to cut.
+A: Now to Asia overnight. It's a mixed picture, and the sources don't fully agree. Japan's Nikkei closed on Friday at its lowest level since July, down about eight tenths of a percent, hurt by chip stocks.
+B: This morning, one report has it rebounding by nearly two percent, while another has it roughly flat. So the honest answer is, it's choppy, and we won't quote a number.
+A: Hong Kong's Hang Seng looks broadly unchanged, hovering a little above twenty three thousand. Quiet, in other words, ahead of the central bank week.
+B: Now, Europe. Monday was a good day! The pan European Stoxx six hundred rose about zero point eight percent, to roughly six hundred and forty, and Germany's DAX gained about nine tenths of a percent.
+A: And the FTSE one hundred closed up about zero point seven percent, at around ten thousand, seven hundred and sixty seven. That is only about one and a half percent below its record close of ten thousand, nine hundred and ten.
+B: Defence shares were the star, up around two and a half percent, and travel and leisure rose almost two percent, because cheaper oil is good news for airlines.
+A: The bigger story is French bonds. After Moody's held France's credit rating on Friday, the gap between French and German ten year yields reportedly narrowed by the most in years. A proper relief rally!
+B: Now, I'd add a caution, Emma. A negative outlook is still a negative outlook. Relief is not the same as resolution.
+A: Agreed. On gilts, we couldn't find a clean ten year yield for Monday, so let's stay with the broad point. UK borrowing costs are near the highest in decades, and the thirty year gilt touched its highest since the late nineteen nineties earlier this month.
+B: And that is exactly why tomorrow's Budget matters so much to markets. Sterling was trading around one point three four against the dollar last week, but we have no verified close for yesterday, so we'll leave it there.
+A: We also couldn't verify gold or credit spreads this morning. Gold has been soft in recent days, but we won't quote a level. Worth checking your own screens.
+B: So, what does a COO do with this? First, keep your stress tests live. A five percent Treasury yield and oil above one hundred dollars are not theoretical, and Monday's rally could reverse in a day.
+A: Second, volatility means collateral calls. Make sure treasury and operations can meet a large margin call early in the day, and that the people who approve payments are in the building.
+B: And third, French bonds. A rally is a good moment to review how much French government debt you hold, or accept as collateral, while prices are kinder.
+A: Good. Now, over to macro.
+[PAUSE]
+B: Macro, Emma, and today is really about the run up. Tomorrow is the big day.
+A: It is, George. Let's start with the Federal Reserve. The meeting began this morning, and the statement lands tomorrow at two in the afternoon New York time, which is six in the evening in London, because the American clocks don't change until Sunday.
+B: Good catch! Then the new chair, Kevin Warsh, holds his press conference half an hour later.
+A: The market is pricing better than a ninety percent chance that the Fed holds rates in the range of three and three quarters to four percent. So the decision is not the story.
+B: The story is the language. If the Fed sounds worried about oil driven inflation, then the debate shifts from holding to hiking. One Schwab economist, for example, already expects a rise in December.
+A: Which tells you the risks are skewed, George. A hold with a hawkish tone could push yields back above five percent, and a softer tone could rally everything.
+B: Now, the Budget. The Chancellor, Rachel Reeves, speaks tomorrow, the twenty eighth of October. Gilt yields are near multi decade highs, so the whole exercise is about credibility with bond investors.
+A: And there have been reports, which remain reports until she stands up, that banks could face a higher tax surcharge. Bank shares have been nervy about that.
+B: The market preview I saw suggests that a cautious Budget, one that avoids big new borrowing, would help gilts and might lower sterling's yield appeal at the same time. It is a balancing act.
+A: Then Thursday, the European Central Bank. The deposit rate is two and a half percent, after a rise in September, and the consensus is for a hold, with another rise possible in December.
+B: Euro area inflation is running at around three point seven to three point eight percent, so the ECB is definitely not done. Think of Thursday as a pause rather than a stop.
+A: Also on Thursday, the first estimate of American third quarter growth, and the Fed's favoured inflation gauge, the PCE price index. Those land the day after the Fed, which is awkward timing!
+B: Friday brings the Bank of Japan, and then we have next Thursday, the fifth of November, the Bank of England.
+A: Markets expect a quarter point rise in Bank Rate, from three and three quarters to four percent. Several big banks have called it.
+B: And, bonus item, Emma, the Reserve Bank of Australia meets next Tuesday, with a rise in play. The energy shock is spreading around the world.
+A: Now geopolitics, which still drives the oil price. The conflict with Iran grinds on, and reports of possible American and Israeli action after the midterm elections on the third of November are keeping a premium in the oil price.
+B: That's a scheduled risk, which is unusual. Markets know the date, and so should your contingency plans.
+A: Okay, so what does this mean for a COO? First, higher for longer rates feed through to funding costs for leveraged strategies, and to redemption pressure on funds holding illiquid assets.
+B: Put simply, when cash pays four percent or more, investors in illiquid products start asking whether they would be better off holding cash.
+A: Second, tomorrow is a day with a UK lunchtime event and an evening American one. Make sure dealing, valuation and treasury have cover until at least seven in the evening, with a clear escalation route.
+B: And third, if you run pensions or tax wrapped products, have your investor communications drafted before the Budget speech, not after it. Good, let's go to regulation.
+[PAUSE]
+A: Regulation, George, and there is one headline this week that every COO should read.
+B: Go on, Emma!
+A: On Thursday, the twenty second of October, the FCA and the Prudential Regulation Authority published their second phase proposals to reform the Senior Managers and Certification Regime. The FCA's paper is consultation paper twenty six slash thirty seven.
+B: This is the one that is meant to cut the burden, isn't it? For anyone new to it, the regime is how regulators hold named senior individuals personally accountable for what happens in a firm.
+A: Exactly. Now, I want to be careful here, because I've only seen summaries of the detail. But the proposals reportedly include cutting the number of roles that need regulatory pre-approval, raising the thresholds for the enhanced regime, and dropping the requirement to keep submitting statements of responsibilities and responsibility maps.
+B: And the big one, Emma: removing the certification regime altogether, along with the public directory of certified staff. That would be a major change!
+A: The PRA's parallel paper, number fourteen slash twenty six, proposes taking pre-approval away from almost half of its senior manager functions. The Bank says this supports a government aim of cutting senior manager approvals by forty percent.
+B: The FCA consultation closes on the twenty second of January, twenty twenty seven, and the Bank of England says final policy is expected during twenty twenty seven.
+A: So for a COO, George, what does that mean?
+B: Three things. One, mapping. Whoever owns your senior managers map should read the paper now and work out which of your roles would fall away, and which would stay.
+A: Two, systems and people data. The certification regime has a whole infrastructure behind it: HR records, annual fitness checks, training, and regulatory filings. If that goes, you need to know what you can switch off, and when.
+B: And three, a warning, Emma. Don't dismantle anything yet. This is a consultation, and the legislation has to move first. In the meantime, the existing rules apply in full.
+A: Well said. Next item. On the twenty third of October, the FCA published findings from a multi firm review of how private market firms handle conflicts of interest.
+B: And the message was blunt: firms are failing to identify conflicts properly, and failing to keep their controls up to date.
+A: That fits with the FCA's earlier work on private market valuations, where conflicts around fees, asset transfers, redemptions and valuation uplifts were all flagged.
+B: The practical step for a COO is a gap analysis. Take your conflicts register, and ask honestly when it was last refreshed, who challenged it, and whether it actually covers the awkward cases, like moving assets between funds.
+A: Third item, a small but useful one. On the twenty second of October, the FCA published a user guide on applications and notifications for UK authorised funds.
+B: And that connects to the online fund authorisations system, which we flagged yesterday, due to go live next Monday, the second of November. So if your team files fund applications, read the guide this week.
+A: Now the liquidity thread, because it's the one with real dates. On the eighth of October, the FCA published consultation paper twenty six slash thirty five, on fair redemption terms for authorised funds investing in illiquid assets.
+B: It focuses on non UCITS retail schemes, and proposes limits on dealing frequency and minimum notice periods. One summary mentions a ninety day notice period. That would be a big change for investors used to monthly dealing.
+A: Comments are due by the eleventh of December. Add that to the diary, George.
+B: And it sits alongside policy statement twenty six slash seventeen, the final rules on liquidity risk management for UCITS and similar funds, which apply from the first of February, twenty twenty seven.
+A: One detail worth repeating. That policy statement removes the listed asset presumption, so a fund manager can no longer assume that something is liquid just because it trades on a venue.
+B: For operations, that means fund by fund liquidity assessments, better data on trading volumes, and governance that shows how you reached each judgement. And it is now roughly fourteen weeks away.
+A: Beyond the UK, the European Securities and Markets Authority has set out its work programme for twenty twenty seven, which points to a shift towards more hands on supervision of capital markets. We saw only a summary, so we will keep an eye out for the detail.
+B: And the longer dated deadlines remain. UK T plus one settlement on the eleventh of October, twenty twenty seven. American Form PF changes postponed until the first of July, twenty twenty seven. And the revised Annex IV reporting from the eighth of June, twenty twenty seven.
+A: Notice how many of those land in the same twelve months, George.
+B: That is the point, Emma. Between liquidity, settlement, reporting and senior managers reform, there is a serious pile up of change on the same technology and compliance teams.
+A: So we would repeat our advice. One regulatory change plan, one page, every date, every owner, and every dependency on data.
+B: And a quick note on what we did not find. We saw no new Dear CEO letters or major enforcement action aimed at asset managers in the last few days. If you have, do let us know!
+A: Right, let's turn to the funds industry.
+[PAUSE]
+B: Funds and industry, Emma, and it's been a busy week for launches.
+A: It has, George! Starting with Amundi, which began trading three new actively managed equity ETFs on Xetra yesterday, covering world, European and eurozone shares, with fees of zero point two five percent.
+B: And a week earlier, on the twentieth of October, Amundi listed a trio of thematic ETFs on Xetra and Euronext, covering space, electrification and critical metals.
+A: The theme here is active ETFs, isn't it? Franklin Templeton listed its first active Ucits ETF from Putnam in Europe on the fifteenth of October, on Xetra, the London Stock Exchange and Borsa Italiana.
+B: And Legal and General announced a new Global Equity UCITS ETF on the sixteenth. So we have a steady stream of active ETFs, which means more share classes, more listings, and more market maker agreements to run.
+A: There's also news of Morgan Stanley Investment Management preparing to bring its ETF business to Europe this autumn. Competition is coming from every direction!
+B: For a COO, the operational point is simple. Each new ETF line means fresh onboarding for custody, fund accounting, transfer agency and reporting, and every extra listing adds a settlement cycle to check against T plus one.
+A: Now private credit, which is still the story to watch. According to one research update, average redemption requests among eleven of the largest non traded business development companies in America were about thirteen percent in the third quarter, down slightly from about fourteen percent in the second.
+B: But that's still far above the five percent limits that most of these funds apply, so investors are still being paid back only in part. Gating, in plain English, is still happening.
+A: And on the other side of the world, one tracker reports that an Australian manager, MA Financial, has paused redemptions for five months on an unlisted real estate credit fund. We have only seen that in a secondary summary, so please treat it as unconfirmed.
+B: There's also a drumbeat of commentary that the redemption wave is testing the logic behind a lot of asset management deals, because buyers paid up for sticky capital that may not be as sticky as hoped.
+A: We did not find a specific deal announcement this week, George, so we will not invent one. But keep an eye on private credit platforms as targets, and insurers buying credit capabilities.
+B: We also saw nothing verified on new LTAF or investment trust launches, so no news there this morning.
+A: So what does this mean in practice? If you run any semi liquid product, have a redemption playbook, and test it. Who signs off a gate, how fast can you notify investors, and are your administrator and distributors ready for the call?
+B: And remember that the FCA is moving the same way on its own rules, so a playbook you build now serves both purposes.
+A: Excellent. Now to the part everyone waits for.
+[PAUSE]
+B: Three things a COO should do something about today, Emma.
+A: Number one, George. Tomorrow is Budget day and Fed day. Check the cover rota for dealing, valuation, treasury and investor communications until at least seven in the evening, and have your holding statements drafted today.
+B: Number two. Read the Senior Managers consultation, and book thirty minutes with your head of compliance. Decide whether you will respond by the twenty second of January, and start listing the systems and processes that depend on the certification regime.
+A: Number three. Run a liquidity and redemption readiness check. Take the first of February deadline for the liquidity rules, the eleventh of December response date on illiquid funds, and your current private credit exposure, and ask whether your playbook works at fund level.
+B: Simple, practical, and all doable this week.
+A: Now the diary, George.
+B: Today, Tuesday the twenty seventh, the Fed's two day meeting begins. Tomorrow, Wednesday the twenty eighth, the Budget at lunchtime, and the Fed decision at six in the evening, UK time.
+A: Thursday the twenty ninth, the European Central Bank, plus American third quarter growth and the PCE inflation data. Friday the thirtieth, the Bank of Japan.
+B: On Sunday, American clocks go back, so check any systems that assume a five hour gap with New York. Then Monday the second of November, the FCA's online fund authorisations system goes live.
+A: Tuesday the third of November, the Reserve Bank of Australia, and American midterm elections. And Thursday the fifth, the Bank of England.
+B: What a week! Thank you for listening, everyone.
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
