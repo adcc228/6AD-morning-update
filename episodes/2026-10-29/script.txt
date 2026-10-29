@@ -1,0 +1,102 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Thursday, the twenty ninth of October, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, what a way to wake up. The Budget is done, the Fed has spoken, and now it's the European Central Bank's turn at lunchtime. Big day!
+A: Big day indeed, George. Let's run the headlines. In markets, the Federal Reserve held rates and Wall Street closed higher for a third straight session, while gilts and sterling shrugged off the Budget.
+B: In macro, the Chancellor's first Budget was, to borrow one commentator's word, uneventful, and the ECB announces its decision at one fifteen this afternoon, UK time.
+A: In regulation, new Financial Conduct Authority proposals on financial crime, a fresh timetable for transaction reporting, and some notable moves in Europe and Washington.
+B: And in funds, private credit gates keep closing, this time reaching into private equity. We will finish with three things a COO should do something about today, plus the diary for the days ahead.
+A: Right, let's get into markets.
+[PAUSE]
+A: Markets, George, and the Fed delivered what the market expected, with a twist.
+B: It did, Emma! The Federal Reserve left its target range at three point seven five to four percent. But the vote was ten to two, with Governor Lisa Cook and Cleveland Fed President Beth Hammack both voting for a quarter point hike.
+A: Two dissents in favour of raising rates. That is striking, isn't it? It tells you where the debate sits.
+B: Absolutely. And Chair Kevin Warsh described the economy as strong and inflation as elevated. He also denied that politics played any role in the decision, with the midterm elections just six days away.
+A: Stocks took it in their stride. The S and P five hundred rose zero point two eight percent to close at seven thousand, seven hundred and forty four, its third straight gain.
+B: The Nasdaq added zero point two seven percent to twenty six thousand, five hundred and fifty, and the Dow Jones gained zero point one nine percent to fifty two thousand, four hundred and seventy five.
+A: Chips and financials did the lifting, while utilities and real estate lagged as long dated yields rose. One report noted the equal weighted S and P was actually in the red, so it's a narrow market.
+B: And Oracle jumped about eleven percent, which tells you the artificial intelligence trade is still very much alive.
+A: Bonds next. The ten year Treasury yield was around five point oh three percent after the decision, up about four hundredths of a point. Sources differ by a hair on that number.
+B: I should say, Emma, that we could not find a reliable close for the two year or the thirty year yield this morning, so we will not guess. The ten year is the one to hold on to.
+A: And the market now puts the chance of another hike at the next meeting, on the ninth of December, at around eighty five percent, according to one report.
+B: Warsh also announced the Fed will hold fewer meetings, seven next year and six the year after. A small point, but a real change to the calendar your treasury team plans around.
+A: Now over to Asia. On Wednesday Japan's Nikkei rose one point one percent to about sixty three thousand, nine hundred and fifty four, led by chip stocks.
+B: South Korea's Kospi jumped more than six percent after SK Hynix reported earnings. Remarkable! We could not verify this morning's Asian closes, so that is the latest we can stand behind.
+A: Europe was quiet. The FTSE one hundred finished around ten thousand, six hundred and ninety five, up less than a tenth of a percent, though sources differ by a few points.
+B: The Stoxx six hundred edged up zero point oh seven percent to six hundred and forty four, and Germany's DAX gained about zero point four percent to roughly twenty five thousand, seven hundred.
+A: And the gilt market. The ten year gilt yield sat around five point three percent through the Budget, close to the levels of early October, which were the highest since two thousand and seven.
+B: Sterling was flat at about one point three three against the dollar. A muted reaction, which for a Budget is exactly what the Treasury wanted!
+A: Commodities. Gold slipped about half a percent to roughly four thousand and thirty nine dollars an ounce as higher oil and yields weighed.
+B: Brent crude rose more than one percent after an attack on a Saudi Arabian refinery revived supply fears. Earlier this week it was quoted around one hundred and fourteen to one hundred and fifteen dollars a barrel, but we have no clean settlement price, so treat that as a range.
+A: A word on credit. We couldn't verify spreads for corporate bonds this morning. The one spread we can cite is French, which we will come to with the ECB.
+B: So the takeaway, Emma? A market that is relaxed on the surface, but leaning on a narrow group of stocks and very high yields.
+A: Exactly. Right, George, over to you for macro.
+[PAUSE]
+B: Macro, and let's start with the Budget, because it is the story for UK investors.
+A: John Healey's first Budget as Chancellor was, by most accounts, a quiet one. Commentators used words like credible, uneventful and, my favourite, boring. And boring is good for the gilt market!
+B: The key number is headroom, the gap between the government's plans and its fiscal rules. The Office for Budget Responsibility puts it at fifteen billion pounds in twenty twenty nine to thirty, down from twenty four billion in March, rising to twenty two billion the year after.
+A: The OBR also cut its growth forecast for next year, and expects inflation not to return to target until twenty twenty eight. It reckons higher interest rates add about fourteen billion pounds a year to borrowing costs over this parliament.
+B: For bond investors the question was how much debt the government would sell. The Debt Management Office lifted its gross gilt remit to about two hundred and fifty point six billion pounds, slightly above expectations.
+A: But, importantly, the issuance was tilted towards shorter maturities, away from the long end. That is the part pension funds and liability driven investors like.
+B: And the banks? The surcharge goes up by three points to six percent, not the eight percent some feared, and one report says it is time limited. UK bank shares rose on the day.
+A: Headline rates of income tax, National Insurance and VAT were unchanged, and so were dividend tax rates. Let's cover what matters for investors, George.
+B: The planned cut to the cash ISA limit has been dropped, so savers can still put the full twenty thousand pounds into cash. Reports also describe a new Starter ISA for first time investors, though the details are still to come.
+A: There is also a first time buyer ISA that will replace the Lifetime ISA from April twenty twenty nine. And pensions came through largely unscathed, with the tax free lump sum cap unchanged.
+B: Tax on savings and property income rises from April twenty twenty seven. And there is a new ten percent Founders' Relief on capital gains, with a smaller lifetime limit for the existing entrepreneurs' relief.
+A: One caveat. Sources disagree on some detail, such as the size of the property income increase, and we found nothing yet on measures aimed specifically at funds or investment trusts. So please read the Treasury documents themselves.
+B: Next, the Bank of England. Bank Rate is three point seven five percent, and the next decision is next Thursday, the fifth of November. Nothing in the Budget changes that picture much, Emma.
+A: Last month's inflation came in at three point five percent, and a Reuters poll in mid October had most economists expecting a rise to four percent. The OBR's fourteen billion pound interest cost warning just reminds us how much rate rises hurt the public finances.
+B: Now, the main event today. The European Central Bank decides at one fifteen UK time, and Christine Lagarde speaks at one forty five.
+A: The deposit rate is two point five percent. The ECB has raised rates twice since June, and the September move was unanimous. This time, seventy of seventy three economists in a Reuters poll expect a hold.
+B: So the question is the tone, Emma. Most banks still pencil in another quarter point rise in December.
+A: And then there is France. The gap between French ten year yields and German ones has widened to just below one hundred and sixty basis points, according to one preview. That is a lot of stress.
+B: The ECB has to talk about French bond stress without implying a backstop. A tricky tightrope! And reports say questions about Lagarde's own future are also in the air.
+A: Also today, America publishes its first estimate of third quarter growth at half past one, UK time. And tomorrow, the Bank of Japan decides, expected to hold at one point two five percent, as we said yesterday.
+B: So what ties all this together? Oil from the Iran conflict keeps inflation sticky, and central banks are leaning hawkish. Emma, the Fed has two dissenters wanting a hike!
+A: Exactly. For a COO, the practical points: if you have floating rate fund financing, ask what a rise in November costs you. And make sure someone owns a plan for lunchtime volatility on the ECB.
+B: Right, let's get into regulation.
+[PAUSE]
+A: Regulation, George, and we have a few new items, plus updates on things we covered earlier this week.
+B: Let's start with the Financial Conduct Authority's financial crime consultation, Emma. On the twenty third of October it published consultation paper twenty six slash thirty eight, proposing changes to its Financial Crime Guide.
+A: Comments are due by the twenty fourth of December, and the FCA says feedback will be followed by a policy statement. The guide is the reference document for how firms should think about money laundering, sanctions and fraud controls.
+B: For a COO, this one lands on compliance and operations. If your onboarding, screening and transaction monitoring are built around the current guide, you need to see whether the changes alter what the FCA expects to see.
+A: Second, an update on the Senior Managers regime. Consultation paper twenty six slash thirty seven is the second phase of the review, and it proposes removing the requirement to submit revised Statements of Responsibilities.
+B: That sounds dull, but it is real admin saved, Emma. Fewer filings every time a senior manager's role shifts, which is welcome news for anyone who has done a reorganisation!
+A: Third, an update on transaction reporting, which we mentioned earlier this week. The FCA plans to consult on the full technical reporting pack in the first quarter of twenty twenty seven, and aims to publish the final version by the third of April twenty twenty seven.
+B: That gives you a date to plan backwards from. Your technology team needs the final specification before they can build, test and go live, so the timeline is tight.
+A: Also in recent updates from law firms, the FCA has opened the authorisation gateway for the new UK cryptoasset regime. If you touch crypto, through funds, tokenised products or counterparties, that is a milestone to track.
+B: And in enforcement, the Upper Tribunal upheld the FCA's ban on Crispin Odey. That confirms that the regulator's accountability agenda has teeth, even for the biggest names!
+A: There was also feedback from the FCA and the Bank of England on tokenisation in wholesale markets, and enforcement activity on contracts for difference firms and anti money laundering requirements.
+B: One more piece of context, Emma. The FCA says its streamlined rulebook for asset managers could save about one hundred and twenty eight million pounds a year, built on the July package. That covers simpler fund reporting, a new alternative funds sourcebook and a single remuneration code.
+A: Those consultations have now closed, so the next stage is final rules. Worth asking whether your teams are ready for the changeover when they arrive.
+B: Over to Europe. The EU Council has set out its position on the Market Integration and Supervision Package. It would give the European Securities and Markets Authority direct oversight of the biggest cross border trading venues and post trading entities.
+A: It also simplifies asset manager rules and creates a depositary passport. But for large cross border groups, the Council prefers a coordination college led by national supervisors, rather than the Commission's ESMA centred model. A political fight to watch.
+B: Separately, on the eighth of October ESMA said crypto firms should not offer services in stablecoins that are not compliant with the Markets in Crypto Assets Regulation. If you have EU crypto exposure, check your counterparties.
+A: Across the Atlantic, the Securities and Exchange Commission has proposed a new electronic delivery rule, and the CFTC has proposed treating event contracts as swaps. And one report says the Senate failed in October to advance the big crypto market structure bill. That comes from a single less established source, so treat it as reported.
+B: Let's pull the deadlines together, Emma. Fund liquidity rules in policy statement twenty six slash seventeen apply from the first of February, twenty twenty seven.
+A: UK settlement moves to T plus one on the eleventh of October, twenty twenty seven. The American Form PF changes were delayed until the first of July, twenty twenty seven. And closer to home, the FCA's illiquid fund consultation closes on the eleventh of December.
+B: What's the message? The challenge is rarely any single rule, Emma. It's the collision of liquidity, settlement, reporting, financial crime and accountability, all inside the same twelve months.
+A: Which is why a single regulatory change calendar, with owners, budgets and dependencies, is the best defence. Right, George, funds and the industry.
+[PAUSE]
+B: Funds, and the story is still private markets and redemptions.
+A: It is, George. Yesterday we mentioned Ares capping redemptions at five percent. Now there is more. A Bloomberg report says Partners Group has capped withdrawals at five percent from its eight point six billion dollar Global Value SICAV, after requests reached nine point eight percent of net asset value.
+B: That matters, Emma, because it's private equity, not private credit. The gating story is spreading beyond credit into wider private markets funds.
+A: There's variety in how managers respond. KKR's FS Income Trust Select reportedly plans to honour all redemption requests rather than prorate, even though they edged past the limit.
+B: And Blackstone's flagship credit fund, BCRED, kept its five percent quarterly limit while investors sought to tender around ten percent of its shares in the third quarter.
+A: So managers are taking different approaches to the same problem. Some use the contractual cap, others pay out in full to protect relationships. Neither is free of consequences.
+B: And it ties straight back to the FCA's illiquid fund proposals we covered yesterday. Regulators in the UK are saying funds should not promise liquidity they cannot deliver.
+A: A note of caution. Some of this reporting comes from trackers and secondary sources rather than the managers' own releases, and dates vary, so treat the details as reported, not confirmed.
+B: What should a COO make of it? First, gates are an operations event. Investor communications, dealing and transfer agency systems, and the administrator all need to cope with pro rata payouts.
+A: Second, valuations. When requests surge, the question every investor asks is whether the net asset value is right. Your valuation committee needs to be ready to explain.
+B: Third, think about your own liquidity tools. The FCA's rules from February twenty twenty seven will formalise this, so use real events to test your own playbook now.
+A: Elsewhere, activity in the market. We also looked this morning for fresh UK fund launches, investment trust mergers and senior hires. Honestly, we could not verify enough from reliable sources to report them, so we will leave those for another day.
+B: That is the right call, Emma. Better to say nothing than to guess!
+A: Time for the part of the show I like best. Three things a COO should do something about today. George, number one.
+B: Number one, handle the event risk this afternoon. The ECB is at one fifteen, American growth data lands at half past one, and Lagarde speaks at one forty five. Make sure treasury, collateral and dealing teams know who is on call, and who escalates if French spreads or yields jump.
+A: Number two, go through the Budget papers with product, tax and compliance. Check the ISA changes, the savings and property income tax changes from April twenty twenty seven, and what the Starter ISA could mean for your product range. Then decide what client communications you need.
+B: Number three, test your fund liquidity playbook against what is happening in private markets. Which of your funds could face a surge of redemptions? What would a five percent cap look like operationally, and could you explain it to investors within a day?
+A: And a bonus, if you've time. Put the financial crime consultation, closing on the twenty fourth of December, on your regulatory change calendar with an owner.
+B: Now the diary for the days ahead, Emma. Today, Thursday the twenty ninth, the ECB decision at one fifteen, American third quarter growth at half past one, and Christine Lagarde's press conference at one forty five.
+A: Tomorrow, Friday the thirtieth, the Bank of Japan decision. Next Tuesday, the third of November, the American midterm elections.
+B: Then Thursday the fifth of November, the Bank of England decision. And one calendar has the American jobs report on Friday the sixth, though we couldn't confirm that with the official source.
+A: Further out, the Federal Reserve meets on the ninth of December, the FCA illiquid fund consultation closes on the eleventh of December, and the financial crime consultation on the twenty fourth.
+B: And the big regulatory dates: the first of February for fund liquidity, the eleventh of October for T plus one, and the first of July for Form PF.
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
