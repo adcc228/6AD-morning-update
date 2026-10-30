@@ -1,0 +1,114 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Friday, the thirtieth of October, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, what a Thursday we had. The European Central Bank held rates, and then Christine Lagarde dropped a bombshell about her own future. Big one this morning!
+A: Big one indeed, George. Let's run the headlines. In markets, Wall Street slipped for the first time in four sessions, as Alphabet suffered its worst day since it listed, even though American growth came in stronger than expected.
+B: In macro, the ECB held its deposit rate at two point five percent, unanimously, and Lagarde said she will leave early, in February twenty twenty seven. The Bank of Japan also decides today.
+A: In regulation, the Financial Conduct Authority is warning firms about the end of box ticking compliance, and has tightened the screws on anti money laundering and crypto promotions.
+B: And in funds, private markets redemptions remain the story. We finish with three things a COO should do something about today, plus the diary for the week ahead. Right, Emma, markets!
+[PAUSE]
+A: Markets, George, and a day where good news on the economy was not enough for stocks.
+B: It really wasn't, Emma! The S and P five hundred closed at seven thousand, seven hundred and twenty, down zero point three percent. That ended a run of three straight gains.
+A: And the culprit was a single company. Alphabet, the parent of Google, reported third quarter results and its shares fell by roughly twelve or thirteen percent, depending on the report you read.
+B: That is dramatic, isn't it? One report described it as its steepest one day fall since the company went public in two thousand and four.
+A: The worry is the same one that has been bubbling all year. The market is asking what return investors are getting on the enormous sums being spent on artificial intelligence.
+B: The Nasdaq felt it hardest. It closed more than one percent lower, though reports differ on exactly how much, so we will leave it at that.
+A: And here's the twist. The economic data was good! The first estimate of American third quarter growth came in at three point four percent, annualised, against three point two percent expected.
+B: That compares with two point two percent in the second quarter. Consumer spending and artificial intelligence related investment did the heavy lifting, according to one report.
+A: Inflation numbers landed at the same time, and economists said the combination strengthens the case for the Federal Reserve to raise rates again in December.
+B: We should be straight with listeners, Emma. We could not verify the precise inflation readings this morning, so we won't quote them.
+A: Good call. Strong growth, sticky inflation, a Fed that already had two members voting for a hike last week. That is not a comfortable backdrop for expensive shares.
+B: Now, the numbers we could not pin down. We could not get clean closes for the Dow, for Treasury yields, for Brent crude, for gold or for credit spreads this morning.
+A: So rather than guess, George, we will stick to what we know. Yesterday we said the ten year Treasury yield was around five percent, and that Brent was somewhere above one hundred dollars a barrel. Treat both as last known, not fresh.
+B: Over in Asia, we could not confirm this morning's closes either. But with Alphabet sliding overnight, chip and technology names in Tokyo and Seoul will have been the ones to watch.
+A: And the Bank of Japan announces its decision today. Yesterday we said the expectation was a hold at one point two five percent. We could not confirm the outcome before recording, so check the headline when you sit down.
+B: Europe, meanwhile, has the ECB to digest, and we will come to that in a moment. I could not verify the closes for the FTSE one hundred or the gilt market either.
+A: The wider message, George? A market that has been resting on a narrow group of giant technology names just got a reminder of how fragile that can be.
+B: Exactly. If you run money or oversee those who do, concentration is a risk worth a line in your next committee pack.
+A: And let me explain the jargon, George. When we say concentration, we mean a handful of very large companies making up a big share of an index. If they stumble, the whole index wobbles, even when most other companies are fine.
+B: Which is why the equal weighted version of the index, where every company counts the same, is worth watching alongside the headline number. It tells you whether the rally is broad or narrow.
+A: Good point. Also, a reminder that tomorrow's Asian session and Monday's European open will both be reading across from this Alphabet reaction, so expect some volatility at the start of the week.
+B: Exactly, and it sets up a busy fortnight. We have the Bank of Japan today, the American midterms on Tuesday, and the Bank of England on Thursday.
+A: Three big event risks in seven days, George. Make sure your teams are not caught flat footed, and that the people who need to be reachable over the weekend know it.
+B: Hear, hear! And do remind your colleagues that a quiet Friday afternoon is not always quiet.
+A: Right, George, over to you for macro and central banks.
+[PAUSE]
+B: Macro, and let's start with Frankfurt, because the European Central Bank gave us two stories in one afternoon.
+A: Story one, the decision. The ECB left its deposit rate at two point five percent. The main refinancing rate stayed at two point six five, and the marginal lending rate at two point nine.
+B: And it was unanimous, Emma! Lagarde confirmed that the Governing Council discussed raising rates, but agreed to hold.
+A: The reasoning was energy. The statement said energy prices have continued to rise, which pushes up the risks to inflation and pulls down the risks to growth.
+B: Underlying inflation has been broadly stable so far, and wages do not show a material response at this stage. In other words, the ECB sees a supply shock, not yet a wage spiral.
+A: And importantly, it is not promising anything. The ECB says it is not pre-committing to any particular path for rates.
+B: One outlet suggested the bank still anticipates a hike in December. That is a secondary report and not something the ECB has said, so I would hold it loosely.
+A: Now story two, George, and this one is genuinely striking. Lagarde announced she will step down early, in February twenty twenty seven.
+B: Her term was due to run to the end of October twenty twenty seven. Reports earlier this year suggested she wanted to leave before the French presidential election, so that leaders can choose her successor first.
+A: Euronews reported that she said she wanted to be freed from the political neutrality that comes with the job. We have only that one report on her motive, so treat it as reported.
+B: Why does this matter to a COO? Because the leadership of the world's second most important central bank is now in play, at a time of an energy shock and rising yields.
+A: Succession rules in the euro area are famously political. Expect months of speculation about candidates and what each would mean for the pace of rate rises.
+B: And that feeds directly into euro rates, euro bond spreads and, in the end, the cost of any euro denominated financing or hedging your funds use.
+A: Next, the United Kingdom. Bank Rate is three point seven five percent, and the Bank of England decides next Thursday, the fifth of November.
+B: Previews we found describe an energy price surge tied to the Iran conflict, with some money market pricing leaning towards a hike while most economists expect a hold. We only have a single source for that pricing, Emma, and it may be dated, so please check the latest.
+A: The point stands, though. The risk is two sided and the Monetary Policy Committee will have the Budget forecasts from this week in front of it.
+B: Remember what the Office for Budget Responsibility said on Wednesday. Higher interest rates add roughly fourteen billion pounds a year to government borrowing costs over this parliament.
+A: And in the background, the gilt market is trading near multi year highs in yields, as we said earlier this week.
+B: Putting it together, Emma. America is growing fast and may hike. Europe is holding but talking about hikes. Japan decides today. The Bank of England is next week.
+A: Central banks are all leaning hawkish, with energy as the common thread. For a COO, that means budgeting for financing costs that stay high for longer.
+B: Quick jargon check, Emma. Hawkish just means a central bank leaning towards higher rates to fight inflation, and dovish means the opposite.
+A: Right. And an energy shock is awkward because higher oil and gas prices push inflation up while also dragging growth down. Central banks hate that combination, because rate rises can't fix a supply problem without hurting the economy.
+B: Which is exactly the ECB's dilemma, and the Bank of England's too. Neither can wave the problem away, and neither wants to be seen as late.
+A: For you as an operator, the takeaway is to stress test your budgets for a world in which rates are higher for longer, not just for a few months.
+B: Practical question: if you have credit facilities, subscription lines or fund level borrowing tied to a floating rate, do you know today what an extra quarter point costs you?
+A: Right, let's get into regulation.
+[PAUSE]
+A: Regulation, George, and the tone this week has been firm.
+B: Let's start with the Financial Conduct Authority's chief executive, Nikhil Rathi, Emma. Reports say he has called for the end of tickbox compliance across financial services.
+A: We only found that in one trade report and could not read the speech itself, so treat the detail as reported. But the message is consistent with where the regulator has been heading.
+B: Fewer rules, perhaps, but more expectation that firms understand the outcome the rule is meant to achieve, and can prove it.
+A: For a COO, that is a significant shift. A beautifully completed checklist is no longer a defence on its own. The FCA wants evidence that controls actually work.
+B: Second, anti money laundering. On the twenty third of October, the FCA placed restrictions on six unregulated lenders, known as Annex one firms, after concerns about their anti money laundering policies.
+A: Those are not asset managers, George. But the signal is that financial crime controls are an active enforcement priority.
+B: Which links nicely to the consultation we covered yesterday. Consultation paper twenty six slash thirty eight, on updates to the Financial Crime Guide, closes on the twenty fourth of December.
+A: If you have not put it on the regulatory change calendar with a named owner, now is a good moment!
+B: Third, crypto promotions. The FCA secured a High Court order stopping the exchange HTX, formerly known as Huobi, from promoting its services to UK consumers. The FCA's news page dates it to the twenty ninth of October.
+A: Why should an asset manager care? Because the regulator is now willing to go to court against overseas platforms, so counterparties and distribution partners in crypto deserve proper due diligence.
+B: Fourth, artificial intelligence. The FCA has published examples of good practice and areas for improvement in how financial services firms use AI.
+A: That is directly relevant, George. Many firms are rolling out AI tools for research, client reporting and operations. The FCA is telling you what it expects to see around governance, testing and accountability.
+B: A practical step, Emma. Ask your technology and compliance leads for a single inventory of where AI is used in the firm, who owns each use, and how it is monitored.
+A: Also this week, the FCA updated its guidance on the motor finance compensation scheme, and published that firms reported one point eight five million complaints in the first half of this year.
+B: Neither is an asset management issue directly, but they show the regulator's focus on consumer outcomes, and that complaints data is being watched closely.
+A: And let's remember the two consultations we flagged yesterday. Consultation paper twenty six slash thirty seven is the second phase of the Senior Managers and Certification Regime review, proposing to drop the requirement to file revised Statements of Responsibilities.
+B: A bit of admin relief, which is very welcome. Both are open for comment, so now is when your views can shape the outcome.
+A: And a word on why responding matters, George. Consultations are the one point at which the regulator genuinely listens. Firms that engage early tend to find the final rules fit their business models better.
+B: Absolutely, and it is worth asking your trade association whether they are preparing a collective response, because that can be more efficient than every firm writing separately.
+A: Beyond the FCA, we did not find fresh publications this morning from the Prudential Regulation Authority, the Treasury, ESMA or the Securities and Exchange Commission, so we will say nothing rather than pad.
+B: What we can do is remind you of the dates that matter. The FCA's fund liquidity rules in policy statement twenty six slash seventeen apply from the first of February, twenty twenty seven.
+A: UK settlement moves to T plus one on the eleventh of October, twenty twenty seven. And the American Form PF changes have been delayed until the first of July, twenty twenty seven.
+B: Also, the FCA's July package on a streamlined rulebook for asset managers has three consultations, on reporting, remuneration and the wider rules. Final rules are still to come.
+A: That means a pile-up in the next twelve months, George. Liquidity, settlement, reporting, remuneration, financial crime and accountability, all at once.
+B: Which is why the best thing a COO can do is hold one integrated change calendar, with owners, budgets and dependencies. Right, Emma, funds and the industry.
+[PAUSE]
+A: Funds, George, and private markets are still dominating the conversation.
+B: They are, Emma. The big picture is that investors have been asking to take money out of private credit funds faster than the funds are set up to pay.
+A: Fitch data cited by one source says investors asked to withdraw fifteen point six billion dollars from private credit funds in the second quarter, and ten of the sixteen business development companies Fitch tracks could not pay in full.
+B: That is a striking number, Emma, but note it comes from a secondary source rather than Fitch itself, so verify before you repeat it.
+A: On individual funds, one source says Blackstone's flagship BCRED capped redemptions at five percent for a third straight quarter, with requests of about four point three billion dollars against assets of around seventy seven billion.
+B: Apollo's debt solutions fund also gated, paying roughly seven hundred and thirty million dollars of more than one and a half billion requested earlier this year. Again, details vary by source.
+A: The way a gate works is simple. When requests exceed the cap, everyone is paid a pro rata share, and the rest is queued rather than cancelled.
+B: What does that mean on the ground for a COO? First, operations. Pro rata payouts, queues and investor communications need to run through your transfer agent and administrator without error.
+A: Second, valuation. When investors rush for the exit, the question is whether the net asset value is right. Your valuation committee should be ready with a clear answer.
+B: Third, distribution. Wealth platforms and intermediaries will ask hard questions about liquidity terms. The FCA's illiquid fund consultation, closing on the eleventh of December, is the place to make your voice heard.
+A: And dealing frequency matters too, George. A fund that offers daily or monthly dealing but holds assets that take months to sell is the classic liquidity mismatch, and regulators across the world are looking hard at it.
+B: For the operations team, the lesson is to rehearse. Run a table top exercise this quarter. Imagine redemption requests of double the usual size, and walk through every step from the dealing desk to the investor letter.
+A: And let's tie that to the fund liquidity rules coming in February twenty twenty seven. Real world gating gives you a live case study to test your own playbook.
+B: A word of honesty on the rest of the industry, Emma. This morning we could not verify fresh fund launches, investment trust mergers, senior hires or asset manager deals from reliable sources.
+A: So we are leaving them out. Better a short section than an invented one!
+B: Agreed. Now, the part of the show that matters most.
+A: Three things a COO should do something about today. George, number one.
+B: Number one, review your exposure to the artificial intelligence trade. Alphabet's fall is a reminder that concentrated portfolios can move fast. Ask your investment and risk teams how much of your funds' performance depends on a handful of names, and whether that is clearly disclosed to clients.
+A: Number two, plan for next week's Bank of England decision. If you have floating rate borrowing, subscription lines or hedging costs, know the sensitivity before Thursday, and make sure treasury has agreed who acts if rates jump.
+B: Number three, turn the FCA's message about tickbox compliance into action. Pick one financial crime or operational control and test whether it works in practice, with evidence, rather than just ticking that it exists.
+A: And a bonus, if you have time. Make sure the AI inventory exists, with owners, because the regulator has just told you what good looks like.
+B: Now the diary for the days ahead, Emma. Today, Friday the thirtieth, the Bank of Japan decision.
+A: Next Tuesday, the third of November, the American midterm elections. Then Thursday the fifth of November, the Bank of England decision.
+B: One calendar has the American jobs report on Friday the sixth of November, though we could not confirm that with the official source.
+A: Further out, the Federal Reserve meets on the ninth of December, the FCA illiquid fund consultation closes on the eleventh of December, and the financial crime consultation on the twenty fourth.
+B: And the big regulatory dates: the first of February for fund liquidity, the eleventh of October for T plus one, and the first of July for Form PF.
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
