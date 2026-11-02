@@ -1,0 +1,111 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Monday the second of November, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, we have a proper Monday for you. Wall Street had a rough Friday, the Bank of England decides on Thursday, and the American jobs report lands the day after. Big week ahead!
+A: Big week indeed, George. Let's run the headlines. In markets, a savage sell-off in technology shares dragged the S&P five hundred down by nearly two percent on Friday, with Intel and Amazon in the firing line.
+B: In macro, the Federal Reserve held rates last Wednesday, but with two members voting for a hike. And all eyes are on the Bank of England this Thursday.
+A: In regulation, it is a quieter start to the week, but there is a pile of deadlines building up for investment managers, and we will walk you through them.
+B: And in funds, the private markets liquidity story rumbles on. We finish with three things a COO should do something about today, plus the diary for the week. Right, Emma, markets!
+[PAUSE]
+A: Markets, George, and a Friday that nobody in technology will want to remember.
+B: It was ugly, Emma! According to Yahoo Finance's wrap, the S&P five hundred closed down one point eight two percent at seven thousand, five hundred and eighty. The Dow lost one point oh nine percent, finishing at fifty one thousand, seven hundred and seventy.
+A: And the Nasdaq took the brunt of it, falling two point eight six percent to twenty five thousand, four hundred and thirty seven.
+B: Now, we should be straight with listeners. Those closing levels come from one wrap, quoted by a second source. The direction and the rough size are consistent across reports, but treat the exact decimals with a little caution.
+B: The problem was the outlook. Intel warned it would burn through cash this year, citing weak demand for personal computers, manufacturing hurdles, and heavy spending to expand production.
+A: Then there was Amazon. Its shares fell roughly two percent, after profits came in weaker than expected and spending on property and equipment jumped, mostly on artificial intelligence.
+B: And remember, this followed Thursday's Alphabet rout, when the Google parent lost about twelve point six percent in a day, its worst on record. So that's three giant names in two sessions, all saying the same thing.
+A: Which is what, George?
+B: That the bill for artificial intelligence is arriving faster than the profits. Investors have been happy to fund the spending. Now they want to see the return, and free cash flow is going the wrong way.
+B: Quick bit of jargon, Emma. Free cash flow is simply the cash left over after a company pays for running the business and investing in it. If that turns negative, the company is borrowing or drawing on reserves to fund its ambitions.
+B: Which brings us to oil. Brent crude was reported up two point seven percent, to around one hundred and fourteen dollars a barrel, during Friday's session. That is an intraday reading, not a settlement.
+A: Over one hundred dollars is a number that keeps central bankers awake, George!
+B: It does! We also could not verify the ten year Treasury yield, gold, sterling, credit spreads, the FTSE one hundred or gilts, so we will not guess.
+B: We could not confirm overnight moves in Tokyo or elsewhere. But after Friday's pounding on Wall Street, it would be no surprise to see technology and chip names under pressure across the region.
+A: The Bank of Japan also met last week. The expectation was a hold at one point two five percent, with the governor signalling more tightening to come. We could not confirm the outcome, so please check the headline when you sit down.
+B: And one for today's diary. Apple and Palantir are due to report their results this afternoon, after the American close. Given the mood, Apple's comments on spending and supply will be watched closely.
+A: So what does a COO do with all this?
+B: Concentration, Emma. If your funds, your pension scheme, or your own balance sheet lean heavily on a few technology giants, last week was a live demonstration of the risk.
+A: And it is a disclosure question too, George. If a fund's performance rests on five or six names, is that clearly explained to clients? Because clients will be asking this week.
+B: Exactly. A sharp drop can also trigger margin calls, collateral movements and unusual dealing volumes. Make sure your operations team has had a look at the weekend's exposure, and that the right people can be reached.
+A: Right, George, over to you for macro and central banks.
+[PAUSE]
+B: Macro, and let's start in Washington, because the Federal Reserve gave us a decision with a sting in its tail.
+A: Last Wednesday the Fed held its target range at three point seven five to four percent. That is where it was left after the September meeting.
+B: But it was not unanimous, Emma. The vote was ten to two, and both dissenters wanted to raise rates by a quarter point. Reports name Governor Lisa Cook and Cleveland Fed President Beth Hammack.
+A: Dissents are rare, and two in the same direction tell you where the debate is heading. One source suggested the odds of a December hike jumped to around seventy percent from fifty percent after the meeting.
+B: That is a prediction market style figure from a secondary source, so treat it as a flavour of market thinking, not gospel. The next Fed meeting is on the eighth and ninth of December.
+A: And that's the awkward combination, isn't it? Oil above one hundred dollars, growth holding up, and a central bank edging towards raising rates, just as technology shares wobble.
+B: It is. In a normal wobble, the Fed might ride to the rescue. This time, with energy driven inflation, the cavalry may stay in the stable.
+A: Which makes Friday the sixth of November rather important, George. That is when the American jobs report is expected.
+B: Right. One calendar we found points to Friday, but we could not confirm the official release date, or the forecast for the number of jobs. Check the Bureau of Labor Statistics before you pencil it in.
+A: Whatever it says, a strong report would push rate hike bets higher, while a weak one would reopen the debate about growth.
+B: Now, over to Threadneedle Street. The Bank of England announces its decision this Thursday, the fifth of November, at midday UK time, alongside a new Monetary Policy Report and a press conference.
+A: Where do we start from? Bank Rate stood at three point seven five percent at the last decision we could find, in September. And the Monetary Policy Committee voted six to three to hold, with three members wanting a hike to four percent.
+B: One report said the July hold was also six to three. So there is a clear hawkish minority. Treat the vote counts as provisional, because sources conflict, but the pattern is consistent.
+A: Which means a hold is the central scenario for Thursday, but the margin may narrow, and the tone matters as much as the decision.
+B: For a COO, the practical points are simple. First, any floating rate borrowing, from revolving credit facilities to subscription lines, reprices with Bank Rate.
+A: Second, hedging. If your firm hedges currency exposures for funds or the balance sheet, the cost depends on the interest rate gap between sterling and the dollar or the euro. Surprises move that cost.
+B: And third, the Monetary Policy Report will include new forecasts for inflation and growth. Those feed into client conversations, so have a one page note ready.
+A: A reminder on the Budget, too, George. The Chancellor delivered it last Wednesday, and the Office for Budget Responsibility published its forecasts. The market reaction was described as relatively calm.
+B: We covered the detail last week, and we could not find a fresh gilt market reading this morning, so we will not repeat numbers we cannot refresh. The message for operators is: plan for financing costs staying high for longer.
+A: What about the European Central Bank?
+B: The ECB held its deposit rate at two point five percent last Thursday, unanimously, with energy prices pushing up inflation risks. We covered that on Friday, and nothing has changed since, apart from the fact that Christine Lagarde's planned early departure in February remains the talking point.
+B: Happy to, Emma. Right, let's get into regulation.
+[PAUSE]
+A: Regulation, and I'll be upfront, George. This morning there was no major new publication from the Financial Conduct Authority that we could verify.
+B: No, so rather than pad, let's use today to take stock of what is on the table, because the calendar for UK investment managers is getting crowded.
+A: Let's start with the biggest one for fund operations. Policy statement twenty six slash seventeen, published on the thirteenth of August, sets out the final rules on fund liquidity risk management.
+B: The rules and guidance come into force on the first of February, twenty twenty seven. That is fewer than one hundred days away, Emma!
+A: Roughly ninety, George. And what does it mean in practice? The regulator wants firms to be able to show that a fund's dealing terms match what it holds, and that the tools to manage redemptions are ready to use.
+B: For a COO, that means three things. Operations: can your transfer agent and administrator apply liquidity tools, such as swing pricing or notice periods, without manual workarounds?
+A: Compliance: are your governance papers, your stress tests and your documentation signed off? Risk: have you tested the fund against a really bad day?
+B: Second, the streamlined rulebook for asset managers. In July, the FCA and the Treasury put out a package of consultations, including a wholesale redesign of the UK regime for alternative investment fund managers.
+A: That consultation, CP twenty six slash twenty eight, had its feedback deadline on the prudential chapter extended to the twenty second of October. The consultation on fund reporting, known as FRAME, had the same extended deadline.
+B: So both have just closed. The next step is for the regulator and the Treasury to digest the responses and publish what they plan to do. Expect final rules next year, and a further round of change.
+A: Third, financial crime. We mentioned last week that the FCA has restricted a number of unregulated lenders over anti money laundering weaknesses and that it reviewed hundreds of firms in this area.
+B: The Financial Crime Guide consultation, CP twenty six slash thirty eight, closes on the twenty fourth of December. If nobody in your firm owns it, assign someone this week.
+A: Fourth, the illiquid fund consultation closes on the eleventh of December. It is the place to have your say on how semi liquid products should be run and sold.
+B: Now, on crypto. A source we found says the FCA's application gateway for cryptoasset firms opened on the thirtieth of September and closes on the twenty eighth of February, twenty twenty seven.
+A: Why does an asset manager care? Because if you hold crypto exposure in any fund or deal with crypto counterparties, those counterparties will be in a licensing process. You need to know who is applying and who is not.
+B: One more from the same source, Emma. A policy statement on rules for environmental, social and governance ratings providers is expected in the fourth quarter of this year. So that could land at any time between now and Christmas.
+A: And on climate disclosure, the FCA is reviewing its rules for asset managers, life insurers and pension providers. The aim is to simplify them while keeping their purpose. A policy statement is expected, with any new rules made in the first quarter of twenty twenty seven.
+B: Now let's lift our eyes to the horizon. The big date for the market as a whole is the eleventh of October, twenty twenty seven, when the UK moves to T plus one settlement.
+A: Explain that for listeners, George.
+B: Gladly. Today most trades settle two working days after the trade date. T plus one means one day. It sounds small, but it halves the time to fix any mistakes, find cash, and sort out foreign exchange.
+A: For a COO that means automation of allocations and confirmations, earlier cut off times, and a hard look at funding and currency trades for overseas investors.
+B: And do not forget the American Form PF changes, delayed until the first of July, twenty twenty seven. That gives US facing managers extra time, but not infinite time.
+A: So here's the picture, George. Liquidity rules on the first of February. T plus one in October. Form PF in July. Reporting and AIFM reform in the pipeline. Financial crime guidance this winter.
+B: It is a lot, Emma! The practical answer is a single, integrated change calendar, with a named owner for each item, a budget and a list of dependencies. Otherwise teams will trip over each other.
+A: And a second tip. Rank each item by how much change it needs in your systems. Settlement and reporting usually need the longest lead times, so start there.
+B: Beyond the FCA, we found nothing new this morning from the Prudential Regulation Authority, the Treasury, European regulators or the American Securities and Exchange Commission. So we will say nothing, rather than guess.
+A: Which gives you a quiet window to catch up. Right, George, funds and the industry.
+[PAUSE]
+A: Funds, George, and I'll start with the story that has dominated the industry all year: investors wanting their money back from private credit funds.
+B: Let me give listeners some context from the first half of this year, Emma. Reports said wealthy investors tried to withdraw more than twenty billion dollars from private credit funds in the first quarter alone.
+A: And several of the biggest names capped what they paid out. Reports said Barings capped withdrawals from a four point nine billion dollar private credit fund at five percent, after requests surged to eleven point three percent.
+B: Carlyle capped redemptions from a seven billion dollar fund, after investors asked to pull about fifteen point seven percent of the shares. And Apollo capped a flagship fund at five percent when requests reached seventeen percent in the second quarter.
+B: And a note on honesty. These are early to mid year figures from trade press, not this week's news. We could not find a fresh UK gating announcement this morning, so we are giving you the background, not a breaking story.
+A: Quick explainer. A semi liquid fund lets investors withdraw, say, every quarter, but holds assets, such as loans, that can take much longer to sell. A cap, usually at five percent of the fund per quarter, stops the fund being forced into a fire sale.
+A: And this is where it lands on your desk. Investor communications, for a start. When a gate is triggered, clients want clear, quick and accurate updates.
+B: Then the mechanics. Queues, pro rata payments and the carry forward of unmet requests all need to work in your registers and in your transfer agent's systems.
+A: Then valuation. If lots of investors want out, someone will ask whether the net asset value is right. Your valuation committee needs its evidence in order.
+B: And finally, platform due diligence. Wealth platforms and intermediaries are asking harder questions about liquidity terms than they did a year ago. Expect more questionnaires.
+A: What else is moving in the industry, George? Launches, deals, hires?
+B: Emma, this is where we have to be careful. This morning we could not verify any new fund launches, investment trust mergers, asset manager deals, or senior appointments from reliable sources.
+A: So we are leaving them out. A short section beats an invented one every time!
+B: Agreed! If you spot something we missed, that is a good reminder to check the trade press, such as Investment Week and ETF Express, over your first coffee.
+A: One more theme to think about, George. The technology sell-off we started with will matter for fund flows. When a handful of shares fall hard, passive funds that track the index fall with them, and investors notice.
+B: And that can show up in dealing volumes, in cash needs at funds, and in clients ringing up. So make sure your client service and operations teams are staffed and briefed this week.
+A: Now, the part of the show that matters most.
+B: Three things a COO should do something about today. Emma, number one!
+A: Number one, test your concentration risk. Friday was a reminder that a few technology names can move an index sharply. Ask your investment and risk teams how exposed your funds are, and whether the disclosures to clients are clear and up to date.
+B: Number two, get ready for Thursday's Bank of England decision. Know the sensitivity of your floating rate borrowing, your subscription lines and your hedging costs to a surprise. Agree in advance who acts and who speaks to clients if rates move.
+A: Number three, put a date in the diary for the fund liquidity rules. The first of February is about ninety days away. Ask the team for a one page readiness report this week, covering dealing terms, liquidity tools, stress testing and governance sign off.
+B: And a bonus, if you have the time. Check the financial crime consultation and the illiquid fund consultation have named owners and draft responses. Both close in December, and December arrives faster than you think.
+A: Now the diary, George. What is coming up this week?
+B: Today, Monday the second of November, Apple and Palantir are due to report after the American close.
+A: Tomorrow, Tuesday the third, is the American midterm election day. That's one for volatility, with markets watching who controls Congress.
+B: Thursday the fifth of November is the big one. The Bank of England announces its decision at midday UK time, with the new Monetary Policy Report.
+A: Friday the sixth, the American jobs report is expected, although we could not confirm the official date.
+B: And looking further ahead: the Federal Reserve meets on the eighth and ninth of December, the FCA illiquid fund consultation closes on the eleventh of December, and the financial crime consultation on the twenty fourth.
+A: Then the big regulatory dates: the first of February for fund liquidity, the first of July for Form PF, and the eleventh of October for T plus one.
+B: See you tomorrow!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
