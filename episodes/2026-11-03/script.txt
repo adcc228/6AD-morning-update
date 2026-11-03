@@ -1,0 +1,122 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Tuesday the third of November, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, what a day to be awake. It's American election day, the Bank of England decides on Thursday, and oil just had its sharpest fall in three months!
+A: Big one, George. Let's run the headlines. In markets, Wall Street split in two on Monday. The Dow rose, while the Nasdaq slid more than one percent as technology shares fell again.
+B: In macro, oil tumbled on hopes of a diplomatic deal between the United States and Iran, and that changes the picture for central banks just before Thursday's Bank of England decision.
+A: In regulation, a busy autumn for consultations, with deadlines this week and next that land on a COO's desk.
+B: And in funds, a look at where industry deal making stands. Then we finish with three things a COO should do something about today, plus the diary for the week. Right, Emma, markets!
+[PAUSE]
+A: Markets, George, and a fascinating divergence on Monday.
+B: It was, Emma! According to the closing reports, the S&P five hundred fell nought point five one percent to seven thousand, five hundred and forty one. That is its third loss in a row.
+A: And the Dow went the other way, didn't it?
+B: It did! Up nought point four one percent to fifty one thousand, nine hundred and eighty four. The Nasdaq Composite, meanwhile, lost one point oh seven percent, closing at twenty five thousand, one hundred and sixty four.
+A: So what was going on underneath?
+B: A rotation, Emma. Investors sold the artificial intelligence names and bought defensive sectors like healthcare. The reports say the S&P had been up as much as one point one percent early in the day, then gave it all back.
+A: That's a weak sign, isn't it? When a market rallies in the morning and fades by the close, it tells you buyers are nervous.
+B: Exactly. And a quick bit of context for listeners: the S&P is now about three and a half percent below its record, set on the sixth of October. Not a crash, but a proper wobble.
+A: Now, the thing that helped the Dow was oil. Reports say crude had its sharpest one day drop in three months, on hopes of diplomacy between Washington and Tehran.
+B: Cheaper oil is good news for airlines, for consumers, and for anyone worried about inflation. We could not verify the exact Brent price this morning, so we will not quote one. But the direction is clear, and it matters a great deal for central banks, as we will hear in a minute.
+A: What about after the bell, George? Apple and Palantir reported.
+B: Both beat expectations, Emma, and both shares fell! Apple reported fiscal fourth quarter revenue of one hundred and fourteen point four eight billion dollars, up twelve percent on the year, with earnings per share of two dollars ten against expectations of one ninety eight.
+A: So why the sell-off?
+B: Reports point to a warning on memory chip costs and soft services growth. Palantir beat on revenue, at two point three one billion dollars, and raised its full year outlook, yet the shares dipped about three percent in extended trading.
+A: That's the pattern of this autumn, isn't it? Good results are no longer good enough. The market wants perfection.
+B: Spot on. Reports say October erased more than two trillion dollars from the value of the Nasdaq one hundred. So a lot of expectations were already baked in.
+A: We could not verify this morning's moves in Asia, the Treasury yields, gold, sterling, the FTSE one hundred, gilts or credit spreads, so we will leave those alone rather than guess. Please check your own screens.
+B: And that is the discipline, Emma. A missing number is better than a made up one.
+A: Now, what does this mean for a COO, George?
+B: Three things. First, concentration. Three losses in a row for the S&P, led by a few giant names, is a live test of how much your funds, and your own firm's seed capital, depend on them.
+A: Second, volatility and operations. When markets swing, dealing volumes rise, collateral calls arrive, and clients phone. Is your client service team briefed and your cash forecasting up to date?
+B: And third, election day. Whatever happens in the American midterms, expect headlines, and possibly a bumpy session. Make sure someone senior is watching, with authority to act.
+A: One more thing on the sell-off, George. Why does it matter beyond the share price?
+B: Because of what sits behind it, Emma. Investors have poured money into the companies building artificial intelligence, on the promise of big future profits. When even a strong set of results gets sold, it suggests the market is asking harder questions about return on that spending.
+A: And that has knock-on effects. Pension funds, multi asset funds and passive trackers all hold the same handful of names, so a fall in a few shares can quickly show up across many portfolios.
+B: Which is why it is a risk team question as much as an investment team question. Do you know your look-through exposure, fund by fund?
+A: Right, George, over to macro and central banks.
+[PAUSE]
+B: Macro, and Emma, the oil story is the key to this section.
+A: It really is. Central banks have been fighting energy driven inflation all year. When oil falls sharply, the case for raising rates gets weaker.
+B: Which brings us to Thursday, the fifth of November. The Bank of England announces its decision at midday UK time, with a new Monetary Policy Report and a press conference.
+A: Remind us where we stand, George.
+B: Bank Rate is three point seven five percent. At the September meeting the Monetary Policy Committee voted six to three to hold, with three members wanting to go up to four percent. The Bank also said risks to inflation were tilted to the upside.
+A: Now, here's where we have to be careful. Some previews point to a possible rise this week. One market snapshot from mid October suggested a hike was heavily priced, but that was before this week's oil drop, and it came from a prediction market, so treat it as flavour only.
+B: Right. JPMorgan was reported to be calling for a quarter point rise in November, while Oxford Economics expected no move until next year. So the forecasters are genuinely split!
+A: So the honest answer is: this one is live, George.
+B: It is! And that means the tone of the press conference matters as much as the decision. Listen for the vote split and for what the Governor says about oil.
+A: What does that mean for a COO?
+B: Three practical points, Emma. First, borrowing. Revolving credit facilities and subscription lines that float with Bank Rate will reprice, so know your exposure before noon on Thursday.
+A: Second, currency hedging. If you hedge sterling share classes or the firm's own foreign income, the cost depends on the interest rate gap with the dollar and the euro. A surprise moves that gap.
+B: And third, communication. The new forecasts will drive client questions about mortgages, savings and portfolio returns. Have a one page note ready, and agree who speaks to clients.
+A: Let's cross the Atlantic. The Federal Reserve held its target range at three point seven five to four percent last week, with two members voting for a hike. We covered that yesterday, and the next meeting is the eighth and ninth of December.
+B: What's new is that falling oil takes some pressure off. If diplomacy holds, the Fed's hawks lose a good argument. If talks collapse, oil could spike again, and the hike debate returns.
+A: And the data calendar helps decide it. The American jobs report is expected on Friday. We could not confirm the official release time or the forecast, so check the Bureau of Labor Statistics.
+B: Whatever the number, a strong one would revive hike bets, and a weak one would put growth back at the centre of the debate.
+A: Then there's politics, George. Today's American midterm elections decide control of Congress.
+B: And markets care for one reason: policy. A divided Congress can make it harder for a president to pass tax, spending or trade measures. That is one reason investors were cautious on Monday.
+A: What about Europe and the European Central Bank?
+B: We covered the ECB's hold at two point five percent last week, and we found nothing new this morning, so we will not repeat ourselves.
+A: And on the home front, the Budget on the twenty eighth of October is behind us. Gilt yields remain a worry. Earlier this autumn the ten year gilt yield was reported above five percent, near its highest in nineteen years, but we could not refresh the number this morning.
+B: The message for operators is the same, Emma. Financing costs are high, so build that into your budgets and your client conversations.
+B: One more for the macro file, Emma. Falling oil is a double edged sword for markets.
+A: How so?
+B: Lower energy prices ease inflation and could keep rate rises off the table. But if the fall reflects a deal that might not hold, volatility goes the other way when headlines change. So the oil price is now a headline driven number, and it can swing within hours.
+A: That is a good reminder for treasury teams, George. Do not plan around a single oil scenario. Run a high and a low case for fuel, travel and supplier costs, and see how the firm's budget copes.
+B: And for the funds themselves, energy sector holdings are going to be bumpy. Valuation committees should be ready for questions on pricing, especially for any less liquid energy related holdings.
+A: Right, let's get into regulation.
+[PAUSE]
+A: Regulation, George, and this week there are two deadlines for a UK investment manager that people might miss.
+B: Let's start with Friday, Emma. The Financial Conduct Authority's consultation on transaction reporting, CP twenty six slash thirty four, closes on the sixth of November.
+A: Quick explainer. Transaction reporting means telling the regulator, after each trade, who bought what, from whom, and at what price. The FCA is rewriting the regime, and this consultation covers the guidance and the transitional provisions, meaning how firms move from the old rules to the new ones.
+B: Why does a COO care? Because this is pure operations and technology. The data fields you send, the systems you use and your reporting vendors will all need to change.
+A: So if nobody on your team has read it, ask your head of trade operations for a one page view today, and if the answer is that it affects you, send comments by Friday.
+B: Next, crypto. The FCA has put out two consultations, one on guidance for decentralised finance, known as DeFi, and one on the cryptoasset perimeter. Both close on the eighteenth of November, with final guidance targeted for January.
+A: A perimeter is simply the line between what is regulated and what is not. If any of your funds hold crypto exposure, or deal with crypto counterparties, the position of those counterparties will shift as this settles.
+B: Now the biggie for asset managers, Emma. The new regime for alternative investment fund managers, CP twenty six slash twenty eight.
+A: We touched on it yesterday. The deadline for responses, including on the prudential chapter, was extended to the twenty second of October, so it has now closed.
+B: And this is the key point. The regulator and the Treasury now have the responses. Final rules should follow next year. For a COO, the question is: have you modelled the capital, reporting and governance changes, even roughly, so you can plan the budget?
+A: A reminder of the fixed dates, too. Fund liquidity rules from the first of February, twenty twenty seven. That's less than a hundred days away!
+B: Right. UK T plus one settlement, which means trades settle one working day after the trade date, on the eleventh of October, twenty twenty seven. And the American Form PF changes, delayed to the first of July, twenty twenty seven.
+A: That is a lot of change landing in a short window, George. If you have not built one integrated change calendar, now is the time.
+B: One more, Emma. A law firm update found a Final Notice published by the FCA on the thirtieth of September, after the Upper Tribunal upheld a financial penalty. It was reduced from one point eight three million pounds to one point five three million pounds. We could not confirm which firm or sector it involved.
+A: So no lesson to draw from the detail, but a useful reminder that these cases take years, and tribunals do cut penalties. Records matter.
+B: Beyond the FCA, we found nothing new this morning from the Prudential Regulation Authority, the Treasury, European authorities or the American regulators.
+A: Before we leave regulation, George, a thought on how to cope with all these consultations at once.
+B: Go on, Emma.
+A: Triage. Sort every open item into three piles. Respond, where the change will directly hit your systems or your costs. Monitor, where it affects you only indirectly. And ignore, where it clearly does not apply.
+B: And write down why. When a regulator asks, a year from now, why you did not respond to a consultation, a short note on file is worth its weight in gold!
+A: It also helps with budgets. Each pile has a cost and a deadline, and the COO can then see in one page what the next twelve months look like.
+B: Lovely. Practical, and not too painful!
+A: So the message is: two dates this week and next, one big pending regime, and fixed dates behind them. Right, George, funds and industry.
+[PAUSE]
+A: Funds, George, and with a quiet launch calendar, let's look at the deal market.
+B: It's been a busy year for consolidation, Emma. Reports say Victory Capital agreed to buy First Eagle for about seven billion dollars. We could not confirm when that was announced, so treat it as background.
+A: Also reported, Aberdeen Investments is merging a set of real estate funds into a single seven hundred million pound strategy, with completion expected by mid November.
+B: That one's worth watching, because fund mergers are a hands-on job for operations. You have to move holdings, notify investors, align the valuation, and agree what happens to the dealing deadlines.
+A: And more broadly, George, industry commentary this year points to a wave of consolidation, with big bids reported for well known managers. We could not verify the details this morning, so we will leave names out.
+B: Fair enough. What is the common thread? Scale. Fees are under pressure, technology costs keep rising, and regulation takes more time. So smaller managers are asking whether to partner or sell.
+A: What does a COO take from that?
+B: Two things. If you are the buyer, integration is where value is won or lost: systems, data, people and client service. If you are the seller, your documentation and controls will be tested in due diligence.
+A: Also, the Investment Week Private Markets Conference takes place in London on Thursday, the fifth of November, so expect fund liquidity and private markets to be hot topics.
+B: Speaking of which, Emma, there is a backdrop to all of this. Earlier this year, several semi liquid private credit funds capped withdrawals when investors asked for more than the five percent a quarter limit.
+A: We covered that yesterday, so no repeat here. The point is that those funds are the reason the liquidity rules from February matter so much.
+B: And Emma, a word on the funds side of that triage. If you run ETFs or UCITS funds with big technology weightings, check your prospectus wording on concentration limits.
+A: Good point. Index methodology can change how much a single name may weigh, and clients read those documents more closely when prices fall.
+B: Now, one more theme. Passive and index funds. When three or four giant technology names fall together, index trackers fall with them, and clients notice.
+A: So make sure your fund communications explain what is in the index, and that risk warnings are up to date.
+B: We could not verify any new UCITS launches, ETF launches, investment trust news or senior hires from reliable sources this morning, so we are leaving them out.
+A: A short section beats an invented one every time! If you spotted something, send it our way.
+B: Now, the part of the show that matters most.
+A: Three things a COO should do something about today. George, number one!
+B: Number one, Emma: prepare for Thursday's Bank of England decision. It is a genuinely live meeting, so check your floating rate borrowing, subscription lines and hedging costs, and agree who speaks to clients if rates move.
+A: Number two, look at the transaction reporting consultation before it closes on Friday. Ask your head of trade operations whether the changes touch your systems, and if so, get a response in.
+B: Number three, check your concentration risk and your election day readiness. Three straight losses for the S&P and a rotation out of technology is a live test. Make sure the right people are watching, and that client messages are ready.
+A: And a bonus, if you have time: put the eighteenth of November in the diary for the crypto consultations, and the first of February for fund liquidity.
+B: Now the diary, Emma. What's coming up this week?
+A: Today, Tuesday the third of November, is American midterm election day, with polls closing through the evening and results overnight.
+B: Wednesday the fourth, we get the first read on the election results, and markets will react.
+A: Thursday the fifth is the big one. The Bank of England announces its decision at midday UK time, with the Monetary Policy Report and a press conference. The Investment Week Private Markets Conference is the same day in London.
+B: Friday the sixth, the American jobs report is expected, though we could not confirm the official time, and the FCA's transaction reporting consultation closes.
+A: Looking further ahead, the crypto consultations close on the eighteenth of November, the Federal Reserve meets on the eighth and ninth of December, and the illiquid fund consultation closes on the eleventh of December.
+B: And the big dates: the first of February for fund liquidity, the first of July for Form PF, and the eleventh of October for T plus one.
+A: Thanks for listening, George. Have a great day, everyone!
+B: See you tomorrow!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
