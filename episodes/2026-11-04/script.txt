@@ -1,0 +1,115 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Wednesday the fourth of November, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, what a morning. The American midterm results are rolling in, the Bank of England decides tomorrow, and the FTSE had a proper wobble yesterday!
+A: Big one, George. Let's run the headlines. In markets, early results pointing towards a Democratic advance in Washington have pushed American stock futures lower and the dollar down, while London closed more than one percent weaker.
+B: In macro, all eyes turn to Thursday, when most economists expect the Bank of England to raise interest rates for the first time in this cycle. Oil, meanwhile, is swinging on every headline from the Gulf.
+A: In regulation, a transaction reporting deadline is now just two days away, and the Financial Conduct Authority's rule making calendar is heating up before the year end.
+B: And in funds, a wave of launches across UCITS and ETFs, a record for European exchange traded products, and a big investment in northern England. Then we finish with three things a COO should act on today, plus the diary. Right, Emma, markets!
+[PAUSE]
+A: Markets, George, and the story is the midterms.
+B: It is, Emma! Reports overnight say early Democratic wins in the Senate have pushed American stock futures lower, with traders speculating that Democrats are heading for majority control of Congress. The dollar slid as well.
+A: Now, careful here. These are early results, and the picture could change as the counting continues. So we are not going to call the outcome. We will tell you what markets are doing with the information they have.
+B: Good discipline. And the reason investors care is policy. A Congress split between the parties makes it harder to pass big tax, spending or trade measures. Some traders are also betting that it slows the build out of the data centres that artificial intelligence needs.
+B: Exactly. Now, the session itself. CNBC reported that the S&P five hundred snapped a three day losing streak on election day, as chip stocks rebounded.
+B: The American ten year Treasury yield was around four point nine percent, having risen on election day and then eased overnight. Reports differ on the exact figure, so treat it as roughly four point nine.
+A: Over to oil, George, because it's been a rollercoaster.
+B: It really has! CNBC reported that Brent crude settled at about one hundred and three dollars sixty cents a barrel, down one point one percent. American crude, West Texas Intermediate, settled at about ninety six dollars, a smaller fall.
+A: But that doesn't tell the whole story, does it?
+B: No. Oil has been volatile, with reports of a strike on Iran's Qeshm Island, while hopes of a diplomatic deal between Washington and Tehran pull the other way. Brent traded above one hundred and six dollars in early London dealing yesterday.
+A: Let's come home to the FTSE one hundred. Yesterday was a rough one.
+B: It was! Reports put the close at around ten thousand, six hundred and forty, a fall of a little over one percent, from about ten thousand, seven hundred and sixty the day before. Two reports gave slightly different percentages, so we say a little over one.
+A: And the pain was concentrated, wasn't it?
+B: Banks and miners led the way down. The FTSE three fifty banks index fell about one point six percent, and HSBC lost around two percent. Global nerves about the American vote and the oil swings did the damage.
+A: We could not verify this morning's moves in Asia, gold, sterling, the euro, the yen, gilt yields or credit spreads. So we will leave those alone rather than guess. Please check your own screens.
+B: And that is the deal on this show, Emma. A missing number is better than an invented one.
+A: Now, what does it mean for a COO?
+B: Three quick points. First, political headline risk. If the result is contested or close, expect a choppy day, with dealing volumes up and clients calling.
+A: Second, the dollar. If you run dollar share classes, or hedge sterling against the dollar, a falling dollar changes your hedge costs and your reported returns. Check with your treasury team.
+B: And third, concentration. With technology shares swinging on political news, ask your risk team whether you know your look through exposure to the biggest names, fund by fund, including in multi asset funds and passive trackers.
+A: Right, George, over to macro and central banks.
+[PAUSE]
+B: Macro, and Emma, tomorrow is the big day.
+A: It really is. Thursday the fifth of November. The Bank of England announces its decision at midday UK time, alongside a fresh Monetary Policy Report and a press conference.
+B: Remind us where we stand.
+A: Bank Rate is three point seven five percent. At the September meeting the Monetary Policy Committee voted six to three to hold, with three members wanting to go up to four percent. The Bank also said the risks to inflation were tilted to the upside.
+B: And now, here's the shift from yesterday, Emma. A Reuters poll in mid October found that fifty four of sixty three economists expected a quarter point rise to four percent in November. That is a clear majority!
+A: Right. A previewer I saw yesterday also says a hike is widely expected. So this is no longer a coin toss. The base case is up.
+B: Though with oil falling and rising on a daily basis, there is still a chance of a hold, or a split vote that surprises people. Nothing is certain until noon.
+A: And look beyond tomorrow. In that same poll, nearly half the economists, thirty out of sixty one, expected one more rise in the first quarter of twenty twenty seven.
+B: So the market question is not just whether, it's how far. Listen to the vote split, and listen to what the Governor says about the path from here.
+A: What does that mean for a COO, George?
+B: Three practical points. First, borrowing. Revolving credit facilities, and subscription lines that float with Bank Rate, will reprice. Know your exposure before noon.
+A: Second, currency hedging. The cost of hedging sterling share classes depends on the interest rate gap between sterling and the dollar or euro. A surprise in either direction moves that gap.
+B: And third, communication. The new forecasts will drive client questions on savings, mortgages and returns. Have a one page note ready, and agree who speaks to clients.
+A: Let's cross the Atlantic. The Federal Reserve held its target range at three point seven five to four percent last week, with two members voting for a hike. The next meeting is the eighth and ninth of December.
+B: Between now and then, the data does the talking. The American jobs report is due on Friday, and we could not confirm the exact forecast, so check the Bureau of Labor Statistics.
+A: A strong number would revive hike bets. A weak one would put growth back at the centre of the debate.
+B: And the midterms add a twist. If Congress ends up divided, big new spending is harder to pass. That could, in time, ease pressure on Treasury borrowing, and therefore on yields. Some analysts have noted exactly that.
+A: The European Central Bank held at two point five percent last week, and we found nothing new this morning, so we will not repeat ourselves.
+B: And on the home front, the Budget on the twenty eighth of October is behind us. Gilt yields remain a worry. Earlier this autumn the ten year gilt yield was reported near five percent, close to its highest in nineteen years, though we could not refresh the number this morning.
+B: One last thing before we go, Emma. Higher rates are a mixed blessing for fund groups. They lift income on cash and bond funds, but they squeeze heavily indebted companies, including some held in private markets funds. Valuation committees should be ready for pricing questions on less liquid holdings.
+A: Good point, George. Right, let's get into regulation!
+[PAUSE]
+A: Regulation, George, and we have a countdown.
+B: We do, Emma! Friday the sixth of November, two days from now, is the closing date for the Financial Conduct Authority's consultation on transaction reporting, CP twenty six slash thirty four.
+A: A quick explainer for listeners. Transaction reporting means telling the regulator, after each trade, who bought what, from whom, and at what price. The FCA is rewriting the regime, and this consultation covers guidance and transitional provisions, meaning how firms move from the old rules to the new.
+B: Why should a COO care? Because this is pure operations and technology. The data fields you send, your order systems and your reporting vendors may all need to change.
+A: So if nobody on your team has read it, ask your head of trade operations for a one page view today. If it affects you, send comments by Friday.
+B: Next, a bigger picture. Back in July, on the fourteenth, the FCA published three consultation papers on asset management reform, alongside a Treasury consultation on the underlying legislation.
+A: This is the big rewrite of the regime for alternative investment fund managers, which in plain English means the rules for managers of hedge funds, private equity, property and other non UCITS funds.
+B: The aim is a lighter, more proportionate regime, tailored to the size and risk of each firm. That sounds welcome, but for a COO it means a lot of homework.
+A: Right. The questions are practical. Which of our entities change category? What happens to our capital requirements? How does reporting alter? And who owns governance under the new model?
+B: Final rules should follow, and the FCA board meets on the nineteenth of November, one of the dates listed in its Handbook notice. We do not know whether this will be on the agenda, so don't count on it, but stay alert.
+A: Meanwhile, the fund liquidity rules are no longer a draft. Policy statement PS twenty six slash seventeen, published on the thirteenth of August, covers UCITS and non UCITS retail schemes, and takes effect on the first of February, twenty twenty seven.
+B: That is less than ninety days away, Emma! Counted in working days, it is even shorter.
+A: What does that involve in practice?
+B: Liquidity risk management is about whether a fund can meet redemptions without harming remaining investors. So firms need to check their liquidity tools, their stress testing, their dealing notice periods and the governance around gating decisions. That's compliance, risk, operations and technology all at once.
+A: And it connects to the rates story, George. If rates rise and markets wobble, redemptions can pick up, and those tools get tested for real.
+B: Exactly. Another one to put on your radar is the FCA consultation on UK listing rules for closed ended investment funds, CP twenty six slash twenty one. It closed in August, and the regulator aims to finalise the new rules by the end of the year.
+A: That matters if you run an investment trust, or are thinking of launching one. The listing rules shape everything from the prospectus to ongoing disclosures and board oversight.
+B: And there's a related consultation on simplifying product level climate disclosure for asset managers. The industry gave feedback in July, with final changes targeted for this autumn.
+A: A COO might hope for fewer templates and less data collection, but you will need to see the final text before you change processes.
+B: Now crypto. The FCA has two live consultations, on guidance for decentralised finance, known as DeFi, and on the cryptoasset perimeter. Both close on the eighteenth of November, with final guidance targeted for January.
+A: A perimeter is simply the line between what is regulated and what is not. If any of your funds hold crypto exposure, or deal with crypto counterparties, the position of those counterparties will shift as this settles.
+B: Let's finish with the fixed dates, Emma, because every operations team needs them on one page.
+A: First, fund liquidity rules from the first of February, twenty twenty seven.
+B: Second, American Form PF changes, delayed to the first of July, twenty twenty seven.
+A: Third, UK T plus one settlement, which means trades settle one working day after the trade date, on the eleventh of October, twenty twenty seven.
+B: That is a lot of change in a short window. If you haven't built one integrated change calendar, now is the time. T plus one in particular touches trading, custody, fund accounting, foreign exchange funding and your technology vendors.
+A: We looked for new enforcement news, Dear CEO letters, and announcements from the Prudential Regulation Authority, the European Securities and Markets Authority and the American regulators, and found nothing we could verify from the past day. If you spot something we have missed, flag it to your compliance team.
+B: Right, Emma, funds and the industry.
+[PAUSE]
+B: Funds and industry, Emma, and it's launch season.
+A: It is! Investment Week reports that Sarasin Asset Management has launched a model portfolio service for UK advisers, giving them access to American equities.
+B: And Fidelity International has launched a SICAV version of its Global Innovators fund. A SICAV, for listeners, is a Luxembourg style open ended fund structure, popular for selling across borders.
+A: Carmignac has also added a global technology equity fund to its UK open ended investment company range.
+B: Now on the ETF side. Funds Europe reports that HSBC Asset Management has launched a China Robotics UCITS ETF, and Legal and General has launched an African government bond UCITS ETF.
+B: And the headline number, Emma: Funds Europe says Europe's exchange traded product market reached a record of three point nine trillion dollars in assets under management in the third quarter.
+A: Now, why should a COO care about all this launch news?
+B: Because each launch is an operational project. New share classes and new wrappers need dealing arrangements, custody, transfer agency, distribution agreements and regulatory filings, all working on day one.
+A: And ETFs bring extra moving parts. Authorised participants, market makers, creation and redemption processes, and daily reporting of holdings. Is your operating model ready if the board says yes to an ETF?
+B: Good question, Emma. Let's turn to deals. Brookfield Asset Management has announced a two point five billion pound investment, alongside the Qatar Investment Authority, in a new data centre project in northern England with Drax Group, announced on the third of November.
+A: That's a fascinating tie in with our markets story, George. The same artificial intelligence build out that investors are debating in the American election is turning into real money invested here.
+B: And it illustrates a bigger trend. Infrastructure and private markets managers are raising and deploying capital into digital infrastructure, power and energy transition.
+A: For a COO, that raises questions about valuation, about how you report illiquid assets, and about how you manage investor reporting on long dated holdings.
+B: It also ties back to liquidity. When you offer more investors access to private assets, through evergreen funds or long term asset funds, the rules on redemptions and liquidity tools matter even more.
+A: Which is exactly why the first of February matters.
+A: And a word on consolidation, George. Margins are under pressure from fee competition, technology costs and regulation, and that pushes boards to ask whether to scale up, specialise or sell. If your firm is in those conversations, get operations into the room early, because integration risk is mostly operational risk.
+B: Well said. We also checked for gating, big redemptions, asset manager mergers and senior hires in the last day, and found nothing confirmed that we could verify. So we won't speculate.
+[PAUSE]
+B: Number one, Emma. Get ready for noon tomorrow.
+A: Yes. The Bank of England is widely expected to raise Bank Rate to four percent. So today, list every facility, loan, subscription line and hedge that floats with Bank Rate, and know what a quarter point means in pounds.
+B: And agree the client message in advance, with a version for a hike and a version for a hold. If the Governor surprises people, you don't want to be drafting at lunchtime.
+A: Number two. Meet Friday's deadline, or make a conscious decision not to.
+B: Transaction reporting consultation CP twenty six slash thirty four closes in two days. Ask trade operations whether it touches your data fields, your vendors or your timelines. If it does, respond. If it doesn't, record why.
+A: And number three, George. Build the one page change calendar.
+B: Fund liquidity from the first of February, Form PF from the first of July, T plus one on the eleventh of October next year, plus the alternative managers regime and the crypto rules on the way. Put owners, budgets and milestones next to each one.
+A: And check dependencies. Many of these rely on the same data, the same vendors and the same people.
+B: Now the diary, Emma. What's coming this week and beyond?
+A: Today, Wednesday the fourth, keep an eye on the final midterm results and the market reaction as the counting continues.
+B: Thursday the fifth, the Bank of England decision at midday UK time, with the Monetary Policy Report and press conference.
+A: Friday the sixth, the American jobs report, and the closing date for the FCA transaction reporting consultation.
+B: Then Wednesday the eighteenth of November, the FCA's crypto and DeFi consultations close.
+A: Thursday the nineteenth of November, an FCA board meeting is listed in the Handbook notice, so keep an eye out for rule announcements around then.
+A: A busy few weeks, George. Remember that we left out any figures we couldn't verify this morning. Please check live prices and the primary sources before acting on anything you heard.
+B: Thank you, Emma, and thank you for listening, everyone. Have a brilliant Wednesday, and a calm one, if the markets will let you!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
