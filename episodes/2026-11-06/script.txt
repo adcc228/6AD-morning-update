@@ -1,0 +1,104 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Friday the sixth of November, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, what a way to end the week. Yesterday we were celebrating a Wall Street rally, and overnight the whole thing was wiped out!
+A: Big one, George! Let's run the headlines. In markets, an artificial intelligence selloff hit Wall Street hard. The Nasdaq fell more than five percent, the S&P five hundred lost over four percent, and Asia is now sliding in sympathy.
+B: In macro, the Bank of England did what was expected and raised interest rates to four percent, the first rise since August twenty twenty three, but the tone was tougher than many hoped.
+A: In regulation, we have a run of new Financial Conduct Authority items, from sanctions and financial crime to quantum computing, plus a deadline coming up in less than two weeks.
+B: And in funds, active ETFs keep spreading across Europe, and we look at what that means for your operations. Then, as always, three things a COO should act on today, plus the diary for the week ahead. Right, Emma, let's get into markets!
+[PAUSE]
+A: Markets, George, and what a reversal! If you listened yesterday, you heard us say the Dow had its best day in more than a year.
+B: We did, Emma, and honestly, that feels like a different era now! Thursday was a brutal session. According to the reports, the Nasdaq Composite fell five point five percent, to close at twenty four thousand, three hundred and fifteen. That is a proper correction, meaning a fall of more than ten percent from its recent peak.
+A: And the broader market?
+B: The S&P five hundred dropped four point four percent, to about seven thousand, three hundred and fifty four. That was its worst day since the tariff shock of April twenty twenty five. The Dow Jones Industrial Average lost three point four percent, to about fifty one thousand, five hundred and twenty three.
+A: That's striking, isn't it? Reuters reported that roughly three trillion dollars was wiped off the value of S&P companies in a single day.
+B: Staggering! And the epicentre was chips. Nvidia fell around nine percent, its steepest one day drop since April twenty twenty five, losing something like four hundred and fifty billion dollars of market value. Qualcomm also dropped more than nine percent after a weak forecast.
+A: So what was the trigger, George? Yesterday everyone was cheering.
+B: Two worries collided. First, after Democrats did well in the midterms, investors began asking whether Congress might tighten the rules on the artificial intelligence build out, things like electricity use and water use at data centres. Second, there is the old fear that companies are spending enormous sums on AI, funded partly by debt, with revenues yet to catch up.
+A: And remember, this is analysts' explanation, not a certainty. Markets rarely give a single reason.
+B: Fair point. In the safe havens, Treasuries rallied. The American ten year yield slipped to about four point eight four percent, from four point nine zero.
+A: And oil?
+B: Brent crude bounced back, rising almost four percent to roughly ninety eight dollars a barrel, according to the Associated Press, recovering part of Wednesday's nearly nine percent plunge. Sources differ slightly on the exact level, so treat it as approximate.
+A: Now to London. The FTSE one hundred had climbed close to a record high during the session, then reversed after the Bank of England and the Wall Street opening. It closed down around half a percent, in the region of ten thousand, seven hundred and seventy. Two sources give slightly different closes, so I'm giving you the neighbourhood, not the decimal.
+B: Gilts, Emma?
+A: Two year gilt yields rose about three hundredths of a percentage point, to roughly four point seven seven percent after the decision. Sterling was steady at about one point three four seven against the dollar, and around one point two zero against the euro.
+B: And this morning, Asia is in real trouble! Reuters reported that South Korea's Kospi fell more than eight percent, triggering a circuit breaker, a pause in trading, and was still down around seven percent after trading resumed. Japan's Nikkei was down around six percent, and Taiwan was off by more than eight percent. Those are intraday moves, not closing levels.
+B: Exactly. What we could not verify this morning: gold, the yen, credit spreads, the ten year gilt, and where European futures point. Please check your own screens, because on a day like this, they matter.
+A: A missing number is better than an invented one, that's the deal on this show.
+B: Absolutely! So, what does this mean for a COO, Emma?
+A: Three quick points. First, liquidity and dealing. Big falls bring redemption requests, and some funds will face heavy dealing. Check that your valuation points, swing pricing and dealing cut offs behaved, and that your liquidity stress tests have fresh inputs.
+B: Second, concentration. Many portfolios, and many passive funds, are heavily weighted to a handful of American technology names. Ask your risk team for a fresh look at single stock concentration, and at any internal or regulatory limits that a sharp fall may have tripped.
+A: And third, operations over the weekend. If volatility continues, expect more margin calls, more collateral movements and more failed or delayed settlements. Make sure treasury and middle office know who is on call.
+B: Right, Emma, over to the macro desk!
+[PAUSE]
+A: Macro, George, and the main event was yesterday midday, when the Bank of England raised Bank Rate by a quarter of a point, from three point seven five percent to four percent.
+B: The first rise since August twenty twenty three, Emma, after ten straight meetings on hold! The vote was eight to one. Catherine Mann was the lone dissenter, and she wanted a bigger half point rise, to four point two five percent.
+A: Why hike now, when growth is hardly roaring?
+B: Energy. The conflict in the Middle East has pushed up energy costs, and consumer price inflation reached three point five percent in September. The Bank's new forecasts, in its Monetary Policy Report, show inflation rising to about four point nine percent in the second quarter of next year, the highest since September twenty twenty three.
+A: That's a big number to see in a central bank forecast, isn't it?
+B: It is! Governor Andrew Bailey said there is now enough inflationary pressure in the pipeline to warrant a rise. The Bank expects inflation to fall back afterwards, as the energy effect fades from the annual figures.
+A: And did we get any hint about what comes next?
+B: A mixed message, Emma. Bailey said the next move could be up, down or sideways. But the minutes say the risks to inflation are tilted to the upside, given energy price uncertainty and limited evidence of slack in the economy.
+A: So the Bank is not promising a series of rises, but it is not ruling one out either.
+B: Exactly. The next decision is on the seventeenth of December. Reports differ on how likely a second rise is, with estimates from about one in four to about one in two, so I would not lean on any single figure.
+A: Now, here is the twist. The Bank said this while Wall Street was plunging. A growth scare plus an inflation problem is a nasty combination, isn't it?
+B: It is the central bank's nightmare! If the equity selloff deepens, it could tighten financial conditions on its own, which would normally argue for caution. But if oil keeps rebounding, inflation worries stay alive. Watch for how central bankers talk about that balance in the coming weeks.
+A: Over to America, because today is jobs day. The Bureau of Labor Statistics publishes the October employment report this afternoon.
+B: We could not confirm the consensus forecast, so check your own screens. But the context is clear. The Federal Reserve held its target range at three point seven five to four percent last week, with two members voting for a rise. The next meeting is the eighth and ninth of December.
+A: So today's number matters more than usual. A strong report plus oil near ninety eight dollars would revive talk of Fed hikes. A weak one, with equities tumbling, would revive talk of a pause.
+A: So what should a COO do with all this, George?
+B: First, borrowing costs. Any facility linked to Bank Rate, such as a revolving credit facility or a fund subscription line, reprices upwards. Make sure treasury has the new rate, and has told fund finance teams.
+A: Second, investor communication. After a rate rise and a stock market fall, clients will ask about their cash, their bond funds and their equity exposure. Agree the key messages, and who is allowed to say them.
+B: And third, valuations. Higher rates and a tech selloff can hit private companies and listed technology holdings alike. Valuation committees should be ready for tougher questions about less liquid holdings.
+A: Good points. Right, George, let's get into regulation!
+[PAUSE]
+B: Regulation, Emma, and the FCA has been busy this week.
+A: It really has! Let's start with something that lands on a lot of desks. On the third of November, the Financial Conduct Authority published two policy statements. We covered the ESG ratings rules yesterday, but the other one is new to this show.
+B: That's policy statement twenty six slash twenty one, which streamlines the UK EMIR intragroup regime. EMIR is the European Market Infrastructure Regulation, the rulebook on derivatives reporting and clearing.
+A: And in plain English?
+B: The rules for derivatives trades between companies in the same group are being simplified. If your firm uses derivatives for hedging, perhaps through group entities, check whether any reporting or risk mitigation processes can be lightened, and when the changes start. We have not verified the effective dates, so ask your legal team.
+A: Next, on the fourth of November, the FCA proposed sanctions focused changes to its Financial Crime Guide.
+B: That guide is the FCA's handbook of what good and bad practice looks like on financial crime controls. The proposed changes focus on sanctions compliance, with new examples of what the regulator expects.
+A: And why does a COO care, George?
+B: Because sanctions compliance sits in operations as much as compliance. Screening of clients and counterparties, onboarding, payments, and the ability to freeze assets quickly, these are all processes your teams run. With geopolitics where it is, expect sanctions to stay a supervisory priority.
+A: So my advice is to read the draft, compare it with your screening and escalation procedures, and respond to the consultation if you spot something unworkable.
+B: Agreed. Another item caught my eye, Emma. On the fifth of November, the FCA launched a Quantum Experimentation Group.
+A: Quantum computing? In financial regulation? Tell me more!
+B: It is a group to test quantum technology in financial services, starting with financial crime detection. And the FCA is clear that taking part does not mean approval, endorsement or confirmation of compliance for any firm or technology.
+A: So it is early days, but it tells you where the regulator's mind is heading.
+B: It does. For technology and operations leaders, this is a signal to watch. Quantum computing is also a longer term cyber risk, because it may one day break today's encryption. Ask your chief information security officer whether your plans include it.
+A: Now, crypto. The FCA has two consultations on the cryptoasset perimeter, meaning which activities fall within regulation, and on expectations for decentralised finance, known as DeFi. They close on the eighteenth of November.
+B: That is less than two weeks away, Emma! If you have any exposure to digital assets, or you are thinking about tokenised funds, check whether your trade body or legal advisers are responding.
+A: And on the European side, ESMA updated its questions and answers on the fourth of November, including two new entries on remuneration rules. Details are thin, so ask your compliance team to look at those. Reports also say ESMA has a new chair from the first of November.
+B: Which brings us to the longer deadlines, because this is where operational planning really bites. Let's run through them.
+A: Go on, George.
+B: First, the FCA's fund liquidity rules, policy statement twenty six slash seventeen, published in August. They apply from the first of February twenty twenty seven, and that is only about three months away!
+A: These rules affect UCITS and non UCITS retail schemes. They sharpen how managers manage liquidity risk, including the tools they can use when markets are stressed. And look at yesterday's Wall Street session. That is the sort of day that tests those tools.
+B: Quite! If you have not yet mapped your funds to the new requirements, and agreed who owns each action, start now. Dealing procedures, stress testing, liquidity management tool documentation, and investor disclosures can all be affected.
+A: Second, UK settlement moving to one day after the trade, known as T plus one, on the eleventh of October twenty twenty seven. It sounds distant, but it means compressing every post trade process into a single day.
+B: Allocations, confirmations, funding of foreign exchange, stock lending recalls and fails management all need to speed up. And time zones matter, because American trades settled a day after the trade for some time already. Teams in Asia and the UK will feel it most.
+A: Third, Form PF, the American private fund reporting form, which has been pushed back to the first of July twenty twenty seven. That is a reprieve, not a cancellation. If you advise American investors, keep that data project alive.
+B: And fourth, the FCA's wider asset management reform package, three consultation papers published in July, with a parallel Treasury consultation. The proposals aim to tailor requirements for asset managers, and they include a new UK rulebook for alternative fund managers. The consultation closed in September, so the next step is the final rules. Keep an eye out for them.
+A: We found no new enforcement action or Dear CEO letters in the past day that we could verify, so we will not pad this out. If you saw something that we missed, please check the FCA website.
+B: So what's the takeaway for a COO, Emma?
+A: For operations, plan the T plus one and liquidity projects together, since they share the same people. For compliance, respond to the financial crime guide and the crypto consultations by their deadlines. For risk, make sure scenario analyses reflect days like yesterday.
+B: And for technology, it's resilience, data quality and a very early look at quantum. Right, let's turn to the fund industry!
+[PAUSE]
+A: Funds and industry, George, and today the theme is active ETFs, which keep spreading across Europe.
+B: ETF Express's weekly roundup of global launches, covering the twenty ninth of October to the fifth of November, included Man Group expanding its ETF offering to Europe with UCITS ETFs.
+A: And that is part of a wider shift, isn't it? Active managers are increasingly wrapping their strategies in an ETF structure, because investors like the daily liquidity, the transparency and, often, the lower fees.
+B: A lot! First, you need to work with authorised participants and market makers, the firms that create and redeem ETF shares. That is a new set of counterparties with new onboarding, legal agreements and daily processes.
+A: Second, portfolio transparency. Most ETFs publish their holdings every day, which may clash with an active strategy that wants to keep its trades quiet. Some structures use partial disclosure, but you must check the detail in each market.
+B: Meanwhile on the deals front, WisdomTree, which bought Albemarle Street Partners in May, launched five actively managed ETF model portfolios on the third of November, and it will rebrand that business in February twenty twenty seven.
+A: One more thing after a day like yesterday, George: the question is how ETF investors behave under stress.
+B: Good point, Emma. On days when markets fall sharply, ETF prices can drift from the value of the holdings, especially when underlying markets are closed or illiquid. For technology heavy ETFs, yesterday would have been a real test. If you manage or distribute ETFs, check how spreads, discounts and creation activity looked yesterday.
+B: Absolutely. There was also less news than usual on industry hires and closes, and we have not verified any gating or suspension in the past day, so we will not speculate. If a fund in your range has suspended dealing, you will know already!
+A: Let's pull the day together. George, what are the three things a COO should do something about today?
+B: Number one, Emma. Run a stress review of yesterday's session. Check the dealing, swing pricing and valuation processes, concentration limits in technology, and collateral and margin flows. If volatility continues into Monday, you want to have had this conversation already.
+A: Number two. Reprice and communicate. The Bank of England has raised rates to four percent, and the bank has said that inflation will near five percent next year. Confirm the impact on floating rate borrowing, and agree your client messages on rates, cash and market falls.
+B: And number three. Start, or restart, the deadline project plan. The fund liquidity rules start on the first of February twenty twenty seven, T plus one on the eleventh of October twenty twenty seven, and the crypto consultations close on the eighteenth of November. Name owners, and put dates on the calendar.
+A: Now the diary for the days ahead. Today, the American jobs report for October. On the eighteenth of November, the crypto perimeter consultations close.
+B: For next week, one calendar service lists American consumer price inflation and UK third quarter growth figures as headline events, though we could not confirm the exact days, so please check the Office for National Statistics and Bureau of Labor Statistics calendars.
+A: And further ahead, the Fed meets on the eighth and ninth of December, and the Bank of England decides again on the seventeenth of December.
+B: Before we go, here is what we could not verify this morning: the consensus for today's jobs report, gold and the yen, credit spreads, the long gilt yields, and Friday's closing levels in Asia. Those are intraday or missing, so please check your own sources.
+A: That's the show, George. A rough week for markets, but a good reminder of why we plan for stress before it arrives.
+B: Absolutely, Emma. Thank you all for listening, and have a great weekend!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
