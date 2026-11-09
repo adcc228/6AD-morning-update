@@ -1,0 +1,104 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Monday the ninth of November, twenty twenty six, and I'm Emma.
+B: And I'm George! Emma, after the week we've just had, I think everyone is hoping for a calmer Monday. Fingers crossed!
+A: Fingers crossed indeed, George. Since it's Monday, we're looking back over the whole weekend and the last few days. Let's run the headlines.
+B: In markets, the artificial intelligence rout paused on Friday, with chip stocks bouncing, but London and Europe still closed lower. This morning, Asia is rebounding strongly.
+A: In macro, a blowout American jobs report has pushed bets on a December Federal Reserve rate rise to around four in five. And this week brings American inflation on Tuesday and UK growth figures on Thursday.
+B: In regulation, there is a consultation deadline on the eighteenth of November, plus a fresh look at the Senior Managers regime, and the big implementation dates that are now closing in.
+A: And in funds, a European fund services group buys a London distribution specialist, and active ETFs keep rolling out. Then, as always, three things a COO should act on today, and the diary for the week. Right, George, let's get into markets!
+[PAUSE]
+A: Markets, George, and Friday was a very different story from Thursday. We told you on Friday about that savage selloff. What happened next?
+B: A partial bounce, Emma, and only a partial one! The Nasdaq Composite rose about one point one percent on Friday, to close at twenty four thousand, five hundred and seventy nine. The S&P five hundred gained about zero point three percent, to around seven thousand, three hundred and seventy seven.
+A: But not the Dow?
+B: Not the Dow! The Dow Jones Industrial Average slipped about half a percent, to roughly fifty one thousand, two hundred and eighty six. So a mixed picture. And even after the bounce, the S&P five hundred finished the week down about two point seven percent.
+A: Who led the rebound?
+B: Chip stocks, the very names that were hammered on Thursday. Reports named Nvidia, Micron, AMD and Intel as leaders. It looks like a classic relief bounce after a brutal day, rather than a confident return of risk appetite.
+A: That's an important distinction, isn't it? A bounce is not a recovery.
+B: Exactly right. And then there is the jobs report, which landed on Friday and changed the mood. We'll cover the numbers in the macro section, but the market reaction matters here. The American ten year Treasury yield rose to about four point eight six percent, the thirty year to about five point two six percent, and the two year to about four point five two percent.
+A: So the bond market is saying, rates are not coming down any time soon.
+B: It is, Emma. Now, how did London fare?
+A: Not well! The FTSE one hundred closed Friday at ten thousand, six hundred and seventy four, down about one percent. It was much worse during the session, with the index dropping more than two percent at its low, to roughly ten thousand, five hundred and twenty eight, before recovering much of that. For the week, the FTSE was down about half a percent.
+B: A wobbly day! And Europe was weaker still. Reports had Germany's DAX down around two percent, to about twenty five thousand, eight hundred and twenty, France's CAC forty down nearly one percent, and the pan European STOXX six hundred down about one percent.
+A: Euro area retail sales were a little weaker than expected, too, which added to the gloom. In the gilt market, one source puts the thirty year yield at about five point six two percent on Friday. I only have that one source, so treat it as approximate.
+B: And currencies?
+A: The European Central Bank's reference rate on Friday had the euro at about one point one one six five against the dollar. This morning the dollar is trading around one hundred and fifty eight yen. I could not verify a clean sterling level for Friday's close, so please check your screens.
+B: Now the exciting part, Emma. What's Asia doing this morning?
+A: A big rebound! After Friday's heavy falls, with South Korea's Kospi down by high single digits at one stage and Japan's Nikkei down around six percent, the Nikkei is up more than three percent this morning, to above fifty nine thousand, three hundred.
+B: And the Kospi?
+A: Up about one and a half percent, to a little above five thousand, one hundred and thirty seven. Taiwan's Taiex is up around five and a half percent, helped by a rebound in chipmaker TSMC. These are intraday numbers, so they will move.
+B: Commodities?
+A: Brent crude is around ninety eight dollars a barrel, roughly flat, while American crude is about ninety one dollars. Gold is up around one point three percent, to near four thousand, one hundred and thirty dollars an ounce, though sources differ a little. One report also says Bitcoin has slipped below seventy five thousand dollars.
+B: What we could not verify this morning: credit spreads, the ten year gilt, and where European futures point. Please check those yourselves. Missing numbers beat invented ones, that's our rule!
+A: Absolutely. So what does this mean for a COO, George?
+B: Three quick things. First, it's been a volatile week, so look at your valuations and dealing. Make sure the pricing sources used on Thursday, in a fast moving market, were sensible, and that any adjustments, like swing pricing, are documented.
+A: Second, counterparties and collateral. Violent moves mean large margin calls. Confirm that your treasury team met every call on time, and review how much liquidity buffer you actually used.
+B: And third, plan for another volatile open. Make sure someone senior is on call, and that your communications to clients are ready if things turn again. Right, Emma, over to macro!
+[PAUSE]
+B: Macro, and the American jobs report was the big one on Friday, Emma.
+A: It really was! The economy added one hundred and sixty five thousand jobs in October. Economists had expected somewhere between about fifty nine thousand and sixty five thousand, depending on the survey, so it was a huge beat!
+B: And the unemployment rate?
+A: Down to four point one percent, from four point two. August and September payrolls were also revised up, by a combined eighty four thousand jobs. That's a lot of upgrades.
+B: But there was a catch, wasn't there?
+A: There was. Wage growth was modest, at about zero point four percent for the month, and some reports noted that long term unemployment rose sharply. So the headline is strong, but the detail is more mixed.
+B: Still, the market took it as a reason for the Federal Reserve to be tougher. The Fed's target range is three point seven five to four percent, and market pricing now shows around an eighty percent chance of a quarter point rise at the December meeting, which is on the eighth and ninth.
+A: Hold on, George. A rate rise? That's quite a turnaround from the debate we had a few months ago!
+B: It really is, Emma! Remember, last week two Fed members already voted for a rise. With oil near ninety eight dollars and a strong labour market, the Fed has reasons to worry about inflation. Different sources give slightly different probabilities, so don't rely on a single number.
+A: And that brings us to the data this week. On Tuesday, the tenth of November, the Bureau of Labor Statistics publishes American consumer prices for October.
+B: Forecasts vary, Emma. One survey has the monthly rise at about zero point three percent, and I have seen annual figures around three point seven percent, but a couple of notes suggest the year on year comparison is distorted by last year's shutdown data gap. So I would not anchor on a number. Watch the core figure, which strips out food and energy.
+A: Then on Thursday, the twelfth of November, at seven in the morning, the Office for National Statistics publishes the first estimate of UK growth for the third quarter. Forecasts I have seen are around point seven percent on the quarter, though they differ by source.
+B: And that matters because of what the Bank of England did last Thursday.
+A: Yes, it raised Bank Rate to four percent, the first rise since August twenty twenty three, with an eight to one vote, and it forecast inflation rising to nearly five percent next year. The Bank meets again on the seventeenth of December.
+B: So a strong growth number would make the case for another rise. A weak one would complicate the story.
+A: Exactly. On the fiscal side, the Autumn Budget on the twenty eighth of October has already passed, and the reaction in the gilt market was calm. Reports describe the measures as broadly in line with market expectations, with around fifteen billion pounds of headroom. The Debt Management Office is still selling a very large amount of gilts this financial year, around two hundred and forty six billion pounds according to one source.
+B: What about Europe?
+A: The European Central Bank is the one I cannot give you cleanly this morning. Reports suggest it kept rates unchanged in October, and that its president signalled that it would take significant changes to deter a rise in December, but I could not verify the rate levels from a second source, so I'll leave the numbers out.
+B: Fair enough. And one more consideration is geopolitics. Oil near ninety eight dollars reflects the conflict in the Middle East, and that is feeding straight into inflation forecasts. So, in this environment, what should a COO do?
+A: Three things, George. One, check your financing. Revolving credit facilities and fund subscription lines are priced off Bank Rate or similar benchmarks, so the rise to four percent has already flowed through. Confirm that your treasury and fund finance teams have the new numbers.
+B: Two, prepare for a possible Fed hike in December. If you manage dollar funds or hedge dollar exposures, think about the cost of hedging and the impact on valuations of long dated assets.
+A: And three, watch the data days. If Tuesday's inflation print or Thursday's growth figures surprise, markets can move fast, so make sure your teams know who is making decisions, and how you communicate with investors. Right, George, on to regulation!
+[PAUSE]
+B: Regulation, Emma, and this week it's about deadlines, consultations and a few themes that will shape your next year.
+A: Let me start with the one closest to the calendar. The Financial Conduct Authority's consultations on cryptoassets and decentralised finance, known as DeFi, both close on the eighteenth of November. That is nine days away!
+B: And if your firm has any exposure to digital assets, tokenised funds or crypto exchange traded products, this is your last chance to shape the rules. The FCA says it plans to publish final guidance early next year, though sources differ on whether that is January or the spring.
+A: One source also says that the perimeter guidance, meaning which activities need authorisation, has already been finalised, and that the application window for firms in the regime closes on the twenty eighth of February twenty twenty seven. If you plan to do regulated crypto activity, check that date with your legal advisers.
+B: Now, something new for many readers. On the twenty second of October, the FCA and the Prudential Regulation Authority published parallel consultations on reforming the Senior Managers and Certification Regime, or SM&CR.
+A: The Senior Managers regime makes named individuals accountable for specific areas of a firm. Why does this matter to a COO?
+B: Because for many firms, the chief operating officer is a named senior manager, or reports to one. The consultations propose changes to the thresholds that decide how much regulation a firm faces. One law firm's summary says the FCA would raise the threshold for asset managers to one hundred billion pounds of assets under management.
+A: That's a big claim, so please verify it directly in the consultation paper rather than rely on me.
+B: Exactly right. If your firm sits near a threshold, a change could alter which senior manager functions you need, how much documentation you keep, and how often you re-certify staff. It could mean less work, or at least different work. Check the consultation closing date, and ask your compliance team whether to respond.
+A: Another item, George. Last Friday was the deadline for responses to the FCA's consultation on preparing for a new transaction reporting regime.
+B: Transaction reporting is the daily data that firms send to the regulator on trades. The consultation was about how firms should prepare for a new, Handbook based regime. The FCA says it will consult again on the technical user pack in the first quarter of next year.
+A: For operations and technology teams, that means a data and systems project is coming. Start asking now whether your order management, trade booking and reporting systems can capture all the fields that might be needed.
+B: Next, artificial intelligence. On the twenty sixth of October, the Bank of England and the FCA published a joint report on AI in UK financial services. And on the European side, the three European supervisory authorities have a joint statement on risks from advanced AI models, with responses due on the twenty fifth of November.
+A: Details in these are limited in my sources, so read the original papers. But the direction is clear, George. Supervisors want firms to know where AI is used, who is accountable for it, and how it is tested. For a COO, that means an inventory of AI tools, including those used informally by staff.
+A: Let's not forget the long dates, because these remain the backbone of your plan. First, the new FCA fund liquidity rules, policy statement twenty six slash seventeen, apply from the first of February twenty twenty seven. That is less than three months away!
+B: Second, UK settlement moves to one day after the trade, T plus one, on the eleventh of October twenty twenty seven. Third, the American private fund reporting form, Form PF, is delayed to the first of July twenty twenty seven.
+A: And with Thursday's selloff still fresh, the liquidity rules feel timely. A day like that tests how fast you can value, how clearly you can communicate, and what tools you have to manage redemptions.
+B: We found no new Dear CEO letters or enforcement notices in the last seventy two hours that we could verify. If you've seen something, say, from the Securities and Exchange Commission or the Commodity Futures Trading Commission, check their sites.
+A: Right. So what's the COO takeaway, George?
+B: One, put the eighteenth of November on the calendar, and decide today whether you're responding. Two, see whether the Senior Managers proposals change your accountability map. Three, keep the liquidity, T plus one and reporting projects joined up. They share people, data and systems, and a joined up plan avoids collisions.
+A: And for technology, start an AI inventory. Now, over to the fund industry!
+[PAUSE]
+A: Funds and industry, George, and let's begin with a deal.
+B: Universal Investment, the European fund services group, announced on the fifth of November that it is buying Cadarn Capital, a London based fund distribution and investor relations firm with a branch in Denmark.
+A: Why does it matter? It adds UK and Nordic distribution to a business that's strongest in the German speaking markets, right?
+B: Exactly. And it follows the group's recent purchase of a Swedish management company. It's another sign that fund services are consolidating, with groups building a pan European offer that combines management company services, fund servicing and distribution. No terms were disclosed.
+A: So for a COO, what's the angle?
+B: Outsourcing. If you use a third party management company or distribution partner, consolidation can change who owns your provider, who you deal with, and what the service levels look like. Check your contracts for change of control clauses, and keep your outsourcing register current.
+A: That's practical. Now, launches. Janus Henderson has listed its China Equity Active Core UCITS ETF in London, under the ticker J C H N, as reported by ETF Express on the fourth of November.
+B: Another active ETF, Emma. We have talked a lot about these. Active managers like the structure, because investors get daily liquidity and often a lower cost. But the operational load can be heavy.
+A: And the load is real: market makers and authorised participants, who create and redeem shares. Daily holdings disclosure, which may conflict with a strategy that wants to protect its trades. And cross listing across exchanges, which brings extra reporting and settlement work.
+B: And on Monday, ChinaAMC's Hong Kong and United States AI ETF is due to start trading, as part of the southbound Stock Connect scheme, which lets mainland investors buy Hong Kong listed products. It is a reminder how much money is flowing into AI themed products, which is exactly the area that has just been so volatile.
+A: And that brings us back to last week. For technology heavy ETFs and funds, Thursday was a real test. If you manage or distribute them, check how spreads, discounts to net asset value and redemption flows behaved.
+A: We have not verified any gating or suspension in the past seventy two hours, nor any significant senior hires, so we will not speculate. If something has happened in your corner, you will know already!
+B: So, Emma, the three things a COO should do something about today.
+A: Number one! Run a short lessons learned review on last week. Did valuations, dealing, margin and communications work under stress? Write down what slowed you down, and give each point an owner and a date.
+B: Number two. Respond or decide on the eighteenth of November consultations. If you have exposure to cryptoassets or tokenisation, agree today whether you respond, directly or via a trade body. And ask compliance whether the Senior Managers proposals affect your firm.
+A: Number three. Get ready for data week. American inflation on Tuesday and UK growth on Thursday could move rate expectations sharply. Make sure treasury and fund finance know what to do if rates or hedging costs jump.
+B: Now the diary. Today, Monday, Asia is rebounding, and ChinaAMC's AI ETF starts trading. On Tuesday the tenth, American consumer prices for October.
+A: On Thursday the twelfth, UK third quarter growth at seven in the morning, along with the monthly growth estimate from the Office for National Statistics. Also on Thursday, American weekly jobless claims.
+B: The following week, UK labour market data is expected, according to one calendar, though I could not confirm the exact day. On Wednesday the eighteenth, the crypto and DeFi consultations close.
+A: And further out, the European authorities want responses on advanced AI risks by the twenty fifth of November, the Fed meets on the eighth and ninth of December, and the Bank of England on the seventeenth.
+B: Before we go, here is what we could not verify this morning: credit spreads, the ten year gilt, Friday's sterling close, European futures this morning, the European Central Bank's current rate levels, and the final details of the Senior Managers consultations. Please check your own sources.
+A: That's the show, George. A wild week behind us, and a busy one ahead.
+B: It is, Emma. Thanks, everyone, for listening, and have a great Monday!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.

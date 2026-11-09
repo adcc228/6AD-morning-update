@@ -14,7 +14,7 @@ GAP_LINE, GAP_CHUNK, GAP_PAUSE = 0.22, 0.08, 0.7                # seconds of sil
 # ---- Pronunciation -------------------------------------------------------
 # 1) Words said a particular way (checked case-sensitively, whole words). Add to this as needed.
 SAY_AS = {
-    "FTSE": "Footsie", "S&P": "S and P", "S & P": "S and P", "UCITS": "you sits", "Ucits": "you sits",
+    "FTSE": "Footsie", "Kospi": "Cospy", "Taiex": "Tie ex", "Kosdaq": "Cos dack", "DeFi": "Dee Fy", "ChinaAMC": "China A M C", "SM&CR": "S M and C R", "TSMC": "T S M C", "Topix": "Top icks", "S&P": "S and P", "S & P": "S and P", "UCITS": "you sits", "Ucits": "you sits",
     "ESMA": "Ezma", "NASDAQ": "Nasdaq", "OPEC": "Oh peck", "MiFID": "Miffid", "MiFIR": "Miffeer",
     "SONIA": "Sonia", "SOFR": "sofer", "LIBOR": "lie bor", "ISA": "eye sa", "ISAs": "eye sas",
     "SIPP": "sip", "SIPPs": "sips", "CAC": "Cack", "DAX": "Dax", "STOXX": "Stocks", "Stoxx": "Stocks",
