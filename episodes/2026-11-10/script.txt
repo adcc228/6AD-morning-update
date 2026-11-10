@@ -1,0 +1,110 @@
+A: Good morning, and welcome to the Morning Update! Your daily digest of markets, macro, regulation and the fund industry, built for the people who run the operating side of an investment firm. It's Tuesday the tenth of November, twenty twenty six, and I'm Emma.
+B: And I'm George! Big morning, Emma. After the wobble last week, Wall Street came roaring back yesterday!
+A: It did, George! Let's run the headlines, and then we'll dig in.
+B: In markets, the Dow jumped more than one thousand points, the S&P five hundred had its best day since April, and oil fell sharply on hopes of calmer talks with Iran. Asia is rallying again this morning.
+A: In macro, all eyes are on American consumer prices, due at half past one this afternoon UK time, with UK growth figures on Thursday morning.
+B: In regulation, a consultation from the Financial Conduct Authority on redemption terms for funds holding illiquid assets has a deadline of the eleventh of December, and we have a look at the wider reform of fund rules.
+A: And in funds, active ETFs keep arriving, including a first for a big name in alternatives. Then, as always, three things a COO should act on today, and the diary for the week. Right, George, let's get into markets!
+[PAUSE]
+A: Markets, George, and what a turnaround. After the rout we described last week, yesterday looked like a different planet!
+B: It really did, Emma! The Dow Jones Industrial Average rose one thousand, one hundred and four points, or two point one five percent, to close at fifty two thousand, three hundred and ninety. The S&P five hundred climbed two point three five percent, to seven thousand, five hundred and fifty, its best day since the eighth of April!
+A: And the Nasdaq?
+B: Up two point seven four percent, to twenty five thousand, two hundred and fifty three. That takes it back out of correction territory, which is a fall of ten percent or more from a recent peak.
+A: What drove it, George?
+B: Two things. First, oil dropped hard. Second, chip stocks bounced. AMD jumped about thirteen percent! But there was a twist: Nvidia fell about four percent after reports that its board is looking into matters concerning its chief executive. Details are thin, so treat that one carefully.
+A: Interesting, isn't it? A huge rally, and the biggest name in the sector went the other way.
+B: Very. And remember what spooked everyone last week: worries that the Democrats' midterm election gains could mean tougher rules on data centres and energy use, and so a slower artificial intelligence build out. That worry hasn't gone away. It just took a day off.
+A: What about bonds?
+B: The American ten year Treasury yield was about four point eight eight percent, up slightly, in the figures I could find. I could not verify the two year or thirty year yields this morning, so I'll leave those out.
+A: Fair enough. Now, Europe closed higher too. The pan European STOXX six hundred rose one point two six percent, to six hundred and fifty six. Germany's DAX gained one point seven three percent, to twenty six thousand, two hundred and sixty seven. France's CAC forty added one point one six percent.
+B: And the FTSE one hundred?
+A: Up one point zero two percent, to ten thousand, seven hundred and eighty three. So a solid rebound, though it's worth remembering that the DAX lost nearly two percent on Friday, so this is a recovery, not a record.
+B: Now, oil, Emma, because this is the heart of it.
+A: It is! Brent crude futures settled at ninety two dollars fifty seven cents a barrel, down five dollars seventy five cents, or nearly six percent! The trigger was President Trump saying he was highly unlikely to order fresh attacks on Iran while talks to end the war progress.
+B: But Iran isn't playing along, is it?
+A: No. One senior Iranian figure dismissed the reports of talks as fake news, and demanded that Washington accept Iran's seven conditions, including lifting the blockade, before any negotiations. So this morning Brent is around ninety one dollars fifty, down another one percent, and the headline risk cuts both ways.
+B: Over to Asia. Another strong session!
+A: South Korea's Kospi was up more than five percent early on, and around three point seven percent by the afternoon. Japan's Nikkei is up around two and a half percent, after losing nearly six percent on Friday. Hong Kong's Hang Seng is up a modest zero point four percent. These are intraday numbers and will move.
+B: Gold gained about one point one percent yesterday, to roughly four thousand, one hundred and twenty one dollars an ounce, and Bitcoin is sitting near seventy five thousand dollars.
+B: One thing I find striking, Emma, is how fast the mood swung. A week ago the talk was of a rout, and now it is a rebound. That is exactly why a COO should not read too much into a single day, in either direction.
+A: Well said, George. Steady processes beat reactions to headlines. Now the honest bit. This morning we could not verify the gilt yields, sterling, the euro or the yen, nor credit spreads. We've left them out rather than guess. Please check your screens.
+B: So, what does this mean for a COO, Emma?
+A: Three quick points. One, a thousand point day is as much a stress test as a thousand point fall. Check that valuation sources, dealing cut offs and margin calls worked in both directions.
+B: Two, the oil price is now driven by a single political story. Make sure your teams who watch commodity exposure have a sensible escalation route if headlines flip again.
+A: And three, volatility is still high, with the European volatility index above twenty. Keep your client communications ready. Right, George, over to macro!
+[PAUSE]
+B: Macro, and today is a big data day, Emma.
+A: It is! At half past eight in New York, which is half past one in London, the Bureau of Labor Statistics publishes American consumer prices for October. Last month's reading rose zero point six percent on the month and three point seven percent on the year, with the core measure, which strips out food and energy, up zero point three percent on the month and two point six percent on the year.
+B: And what do forecasters expect today?
+A: Here I have to be straight with you, George. I could not find a reliable consensus for October, so I won't quote one. The lower oil price in the last few days comes too late to affect October, so the question is how much energy pushed up the number.
+B: Why does this matter so much?
+A: Because the Federal Reserve's target range is three point seven five to four percent, and the Fed meets next on the ninth of December. Minutes from the last meeting showed that all nineteen participants backed the latest rise, and most expected another by the end of the year.
+B: Hold on. Markets are talking about rises, not cuts?
+A: Yes! That's the world we're in. After a long run of cuts, inflation driven by energy has turned the debate on its head. A hot number today would make a December rise look likely. A soft one would give the Fed room to wait.
+B: Alright. And the UK?
+A: As we told you yesterday, the Bank of England raised Bank Rate to four percent last Thursday, the first rise since August twenty twenty three. Its next meeting is on the seventeenth of December.
+B: And this week's key UK data?
+A: On Thursday the twelfth, at seven in the morning, the Office for National Statistics publishes the first estimate of third quarter growth, along with the monthly figures. Then next Tuesday, the seventeenth, we get the labour market data. Those two releases will shape expectations for the December meeting.
+B: What about gilts and the Budget?
+A: The Autumn Budget was on the twenty eighth of October, and the reaction we described yesterday was calm. I don't have a fresh verified gilt level today, so rather than guess, I'd say watch the thirty year, which has been the most sensitive part of the curve.
+B: And Europe?
+A: The European Central Bank is quiet this week. I can't give you verified rate levels this morning, so I will leave that out.
+B: So the big thread running through all of this is oil and Iran, isn't it?
+A: Exactly, George. Cheaper oil helps inflation and helps the central banks. But if talks collapse, the price jumps back, and the rate debate with it. For a COO, that links directly to your financing costs.
+B: Right. So, practical points?
+A: One, revolving credit facilities and fund subscription lines are priced off benchmark rates. Bank Rate has just risen, so confirm that your treasury team has updated the cash flow forecasts.
+B: Two, if you hedge dollar exposure, a December Fed rise changes your hedging costs. Ask your treasury team to run both scenarios before the figures arrive.
+A: And three, if you run any funds that publish prices on the back of today's data, check that your teams know who decides on adjustments if markets move sharply at half past one. Right, on to regulation!
+[PAUSE]
+B: Regulation, Emma, and the headline this morning is liquidity. Funds that hold assets that are hard to sell, and what happens when investors want their money back.
+A: It's a big one, George. On the eighth of October, the Financial Conduct Authority published consultation paper twenty six slash thirty five, on fair redemption terms for authorised funds investing in illiquid assets. Feedback is due by the eleventh of December.
+B: Break that down for us. What's actually proposed?
+A: The proposal targets non UCITS retail schemes, known as NURS, where at least half of the fund's property is in what the FCA calls inherently illiquid assets. Those funds would be limited to dealing no more often than monthly, with a minimum notice period of ninety days.
+B: So no more daily dealing in a fund that holds, say, property or other assets that can't be sold quickly.
+A: Right. And ninety days is a floor, not a ceiling. Managers could choose longer, up to a maximum of one hundred and eighty five days. The FCA also proposes to delete existing guidance that makes it easier to justify suspending a fund holding such assets.
+B: And existing investors?
+A: They'd get at least a year's notice of any change to their redemption terms. The FCA also says it has seen higher cash holdings in daily dealt illiquid funds, in some cases more than double the average of about six percent seen in comparable funds with ninety day notice periods. That cash drag is part of its argument.
+B: It also lines up partly with the long term asset fund regime, doesn't it?
+A: Yes, it's a partial alignment with the LTAF framework. One more detail worth checking in the paper: units in certain other funds that themselves hold illiquid assets would be treated as illiquid, whatever their own redemption terms. If you invest through fund of fund structures, that matters!
+B: Emma, I should say that these are proposals, not rules. Some press coverage has made it sound final. It isn't.
+A: Good point. So what does it mean for a COO?
+B: Plenty. Operations: dealing calendars, transfer agency processes, investor communications and fund documents may all need to change. Compliance: you'll want to decide whether to respond by the eleventh of December. Risk: how do you model liquidity under the new terms? And technology: can your systems support monthly dealing with notice periods?
+A: And don't forget the main event. The FCA's rules on fund liquidity, policy statement twenty six slash seventeen, apply from the first of February twenty twenty seven. That is less than three months away, so the consultation shouldn't be a separate project. Join them up!
+B: Fair. Now, there is a wider reform too. In July, the FCA published a package of three consultation papers to streamline the asset management rulebook, covering the regime for managers of alternative funds, remuneration, and a new fund reporting framework called FRAME.
+A: And the Treasury published a draft of new regulations to replace the existing rules for alternative fund managers, on the fourteenth of July.
+B: The feedback windows for these have closed. Our sources differ slightly on the exact closing dates, so check with your compliance team. The point is that final rules are the next step, and the reporting changes in particular will affect data and technology teams.
+A: Why technology, George?
+B: Because reporting means data. If the FCA changes what managers report and how often, then your data feeds, systems and controls change too. The aim is lighter, better targeted reporting, but only if you plan the change properly, and early.
+A: Sensible. Keep an eye out for the final rules, which is where the detail will land.
+A: And if you have any exposure to digital assets, tokenised funds or crypto exchange traded products, decide this week whether to respond, directly or through a trade body.
+B: One more European item. The European Securities and Markets Authority's consultation on disclosure guidelines under the Prospectus Regulation closed yesterday, with final guidance expected in the second quarter of next year. And the European supervisors' statement on advanced artificial intelligence risks is open for responses until the twenty fifth of November.
+A: Let's not forget the long dates, which are still your project plan. UK settlement moves to one day after the trade, T plus one, on the eleventh of October twenty twenty seven. And the American private fund reporting form, Form PF, has been delayed to the first of July twenty twenty seven.
+B: We found no new Dear CEO letters, enforcement notices, or American regulator announcements in the last day that we could verify. If you have seen something, check the regulators' websites.
+A: So, takeaways, George?
+B: One, put the eleventh of December in your diary and ask legal and compliance for a gap analysis on the new redemption terms against the liquidity rules. Two, ask your technology lead what the reporting reform means for your data. Three, decide on the crypto consultation by the end of this week.
+A: And for the data and risk teams, that means a joined up plan. All of these share people, data and systems. Right, over to funds!
+[PAUSE]
+A: Funds and industry, George, and it's been another busy stretch for active ETFs.
+B: Hasn't it just! Earlier this month, Man Group launched its first two active UCITS ETFs in Europe. One is an active trend following strategy, the Man Active Trend Enhanced fund, and the other is the Man Active Global Infrastructure fund.
+A: Where are they listed?
+B: In London, Milan and on Xetra in Germany, and they're authorised by the Central Bank of Ireland, according to ETF Express on the fourth of November. That's a notable step. Trend following is a hedge fund style strategy, now wrapped in a daily dealing, exchange traded product.
+A: Which tells you where the market is heading. Alternatives managers are bringing their strategies to the ETF wrapper to reach a wider group of investors.
+B: And the ETF specialist HANetf also announced a new product, the Defiance Mag Seven UCITS ETF, trading under the ticker MAGZ, tracking the so called Magnificent Seven American technology giants. I could not confirm the listing date or exchange, so check the details.
+A: Which, with a day like yesterday, does focus the mind! Nvidia is one of the big seven, and it fell four percent while the market rose more than two percent.
+B: Exactly. Concentrated products behave very differently on days like that. So if you manufacture or distribute them, ask how spreads and discounts to net asset value behaved yesterday.
+A: What's the COO angle on all of these launches, George?
+B: Operations again. An ETF needs authorised participants, who create and redeem shares, market makers, daily portfolio disclosure, and cross listing across several exchanges. Each of those brings reporting, settlement and controls work. If you're considering one, build the operating model before the marketing plan.
+A: And for the people who use an outsourced management company or third party administrator, keep an eye on the consolidation we described yesterday, with fund services groups buying up distribution businesses. Check your contracts for change of control clauses and keep the outsourcing register current.
+B: One more thing. We did not find any verified fund gating or suspension in the last day, and no major senior hires we could confirm. We'll not speculate. If it's happening in your corner of the market, you'll know already!
+B: And one more thought on all of this, Emma. The ETF wrapper is spreading into strategies that were once only for institutions, and regulators will follow closely. Expect more questions on liquidity, disclosure and valuation in the months ahead.
+A: Very true, George. Right, time for the main event. Three things a COO should do something about today.
+B: Number one! Start the redemption terms gap analysis. The consultation closes on the eleventh of December, and the fund liquidity rules start on the first of February. Ask compliance, operations and technology to meet this week and agree who owns what.
+A: Number two. Run a two way stress review of the last week. Yesterday's thousand point rally followed last week's rout. Did valuations, dealing, margin calls and client communications hold up in both directions? Write down what slowed you down, with an owner and a date.
+B: Number three. Be ready for half past one. American inflation lands this afternoon, and Thursday's UK growth figures follow. Make sure treasury and risk know who decides what, if rates or hedging costs jump.
+A: Now the diary. Today, Tuesday the tenth, American consumer prices at half past one UK time.
+B: Thursday the twelfth, UK third quarter growth at seven in the morning, plus American weekly jobless claims.
+A: Tuesday the seventeenth of November, UK labour market data. Wednesday the eighteenth, the cryptoasset perimeter consultation closes.
+B: Wednesday the twenty fifth, responses are due on the European supervisors' statement on advanced AI risks. Then the Fed on the ninth of December, the redemption terms consultation on the eleventh, and the Bank of England on the seventeenth.
+A: Before we go, here is what we could not verify this morning: the two year and thirty year Treasury yields, gilt yields, sterling, the euro, the yen, credit spreads, the consensus for today's inflation print, and the full detail behind the Nvidia board story. Please check your own sources.
+B: Thanks, everyone, for listening. Go well, and have a brilliant Tuesday!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.

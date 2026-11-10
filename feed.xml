@@ -15,7 +15,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 09 Nov 2026 05:49:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:52:58 +0000</lastBuildDate>
+    <item>
+      <title>Tue 10 Nov 2026: Dow surges over a thousand points, oil slides on Iran hopes, US inflation due today, FCA illiquid fund redemption proposals</title>
+      <description>Wall Street and Europe rebound sharply as oil falls on hopes of calmer talks with Iran, with Asia rallying again this morning. American inflation lands at half past one UK time, with UK growth on Thursday. In regulation, the FCA&#x27;s proposals on redemption terms for funds holding illiquid assets, the wider fund rulebook reform and the crypto consultation closing on the eighteenth of November, plus new active ETF launches, three COO action points and the diary for the week.</description>
+      <itunes:summary>Wall Street and Europe rebound sharply as oil falls on hopes of calmer talks with Iran, with Asia rallying again this morning. American inflation lands at half past one UK time, with UK growth on Thursday. In regulation, the FCA&#x27;s proposals on redemption terms for funds holding illiquid assets, the wider fund rulebook reform and the crypto consultation closing on the eighteenth of November, plus new active ETF launches, three COO action points and the diary for the week.</itunes:summary>
+      <enclosure url="https://adcc228.github.io/6AD-morning-update/episodes/2026-11-10/episode.mp3" length="13957101" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-update-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:19:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mon 09 Nov 2026: AI rout pauses but Europe slips, strong US jobs lift Fed hike bets, crypto consultations close soon, fund services consolidate</title>
       <description>Chip stocks bounce on Friday but London and Europe close lower, while Asia rebounds this morning. A strong American jobs report lifts bets on a December Federal Reserve rise ahead of inflation data on Tuesday and UK growth on Thursday. In regulation, the crypto and DeFi consultations close on the eighteenth of November and the Senior Managers regime is up for reform. Plus fund services consolidation, three COO action points and the diary for the week.</description>
@@ -332,17 +343,6 @@
       <guid isPermaLink="false">morning-update-2026-09-30</guid>
       <pubDate>Wed, 30 Sep 2026 06:30:00 +0000</pubDate>
       <itunes:duration>00:20:05</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tue 29 Sep 2026: Yields hit cycle highs, Hormuz oil shock, FCA CFD crackdown, Apollo gates again</title>
-      <description>US 10-year above 5.25% and gilts near two-decade highs; Brent at $107 after the US rejects Iran&#x27;s Hormuz plan; BoE&#x27;s 6-3 hold and November hike pricing; Lagarde on measured hikes before Friday&#x27;s flash HICP. Regulation: FCA CFD crackdown, FOS changes from 1 October, Form PF delayed to July 2027, SEC pay-to-play rescission, frontier AI and operational resilience. Funds: Apollo Debt Solutions caps redemptions, AllianceBernstein names Onur Erzan CEO, active ETF hires and launches. Plus three COO action points.</description>
-      <itunes:summary>US 10-year above 5.25% and gilts near two-decade highs; Brent at $107 after the US rejects Iran&#x27;s Hormuz plan; BoE&#x27;s 6-3 hold and November hike pricing; Lagarde on measured hikes before Friday&#x27;s flash HICP. Regulation: FCA CFD crackdown, FOS changes from 1 October, Form PF delayed to July 2027, SEC pay-to-play rescission, frontier AI and operational resilience. Funds: Apollo Debt Solutions caps redemptions, AllianceBernstein names Onur Erzan CEO, active ETF hires and launches. Plus three COO action points.</itunes:summary>
-      <enclosure url="https://adcc228.github.io/6AD-morning-update/episodes/2026-09-29/episode.mp3" length="8865429" type="audio/mpeg"/>
-      <guid isPermaLink="false">morning-update-2026-09-29</guid>
-      <pubDate>Tue, 29 Sep 2026 06:30:00 +0000</pubDate>
-      <itunes:duration>00:21:06</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
