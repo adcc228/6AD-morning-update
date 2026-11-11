@@ -15,7 +15,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 10 Nov 2026 05:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:53:07 +0000</lastBuildDate>
+    <item>
+      <title>Wed 11 Nov 2026: Hot US inflation lifts Fed hike bets, Treasury yields jump, Brent dips below $90, FCA plans to scrap the Certification Regime</title>
+      <description>A hotter than expected American inflation report ends Wall Street&#x27;s rebound and sends Treasury yields sharply higher, while Brent briefly falls below ninety dollars on Iran hopes. We look at the Fed, Bank of England and ECB all leaning towards higher rates, the FCA&#x27;s proposal to remove the Certification Regime under its Senior Managers reforms, the Bank of England&#x27;s warning on AI and cyber risk, RBC&#x27;s deal for Yarra Capital, State Street and Van Lanschot Kempen&#x27;s active ETFs, and easing pressure on private credit withdrawals. Plus three COO action points, including today&#x27;s US Veterans Day bond market closure, and the diary.</description>
+      <itunes:summary>A hotter than expected American inflation report ends Wall Street&#x27;s rebound and sends Treasury yields sharply higher, while Brent briefly falls below ninety dollars on Iran hopes. We look at the Fed, Bank of England and ECB all leaning towards higher rates, the FCA&#x27;s proposal to remove the Certification Regime under its Senior Managers reforms, the Bank of England&#x27;s warning on AI and cyber risk, RBC&#x27;s deal for Yarra Capital, State Street and Van Lanschot Kempen&#x27;s active ETFs, and easing pressure on private credit withdrawals. Plus three COO action points, including today&#x27;s US Veterans Day bond market closure, and the diary.</itunes:summary>
+      <enclosure url="https://adcc228.github.io/6AD-morning-update/episodes/2026-11-11/episode.mp3" length="14818797" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-update-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:20:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tue 10 Nov 2026: Dow surges over a thousand points, oil slides on Iran hopes, US inflation due today, FCA illiquid fund redemption proposals</title>
       <description>Wall Street and Europe rebound sharply as oil falls on hopes of calmer talks with Iran, with Asia rallying again this morning. American inflation lands at half past one UK time, with UK growth on Thursday. In regulation, the FCA&#x27;s proposals on redemption terms for funds holding illiquid assets, the wider fund rulebook reform and the crypto consultation closing on the eighteenth of November, plus new active ETF launches, three COO action points and the diary for the week.</description>
@@ -332,17 +343,6 @@
       <guid isPermaLink="false">morning-update-2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 06:30:00 +0000</pubDate>
       <itunes:duration>00:19:38</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wed 30 Sep 2026: Long yields at 24-year highs, BoE pauses gilt sales, FCA crypto gateway opens, fund M&amp;A wave</title>
-      <description>Wall Street slips for a second day as the 30-year Treasury yield hits its highest since 2002 and US consumer confidence falls to a 12-year low; the Bank of England is reported to pause gilt sales ahead of the 28 October budget. Regulation: the FCA cryptoasset application window opens, the UK AIFM regime consultation runs to 22 October, and Ombudsman changes start on 1 October. Funds: T. Rowe Price, Victory Capital and Vanguard deals point to a consolidation wave, plus three COO action points.</description>
-      <itunes:summary>Wall Street slips for a second day as the 30-year Treasury yield hits its highest since 2002 and US consumer confidence falls to a 12-year low; the Bank of England is reported to pause gilt sales ahead of the 28 October budget. Regulation: the FCA cryptoasset application window opens, the UK AIFM regime consultation runs to 22 October, and Ombudsman changes start on 1 October. Funds: T. Rowe Price, Victory Capital and Vanguard deals point to a consolidation wave, plus three COO action points.</itunes:summary>
-      <enclosure url="https://adcc228.github.io/6AD-morning-update/episodes/2026-09-30/episode.mp3" length="14462541" type="audio/mpeg"/>
-      <guid isPermaLink="false">morning-update-2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 06:30:00 +0000</pubDate>
-      <itunes:duration>00:20:05</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

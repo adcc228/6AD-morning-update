@@ -1,0 +1,125 @@
+A: Good morning, and welcome to the Morning Update! Your daily briefing on markets, macro, regulation and the fund industry, for the people who run the operating side of an investment firm. It's Wednesday the eleventh of November, twenty twenty six, Armistice Day, and I'm Emma.
+B: And I'm George! Good morning, Emma. Yesterday's rally lasted exactly one day. Then American inflation came in hot, and the mood changed in an instant!
+A: It certainly did, George. Let's run the headlines, and then we'll dig in.
+B: In markets, Wall Street slipped after the inflation report, American bond yields jumped, with the ten year briefly above five percent, and Brent crude dipped below ninety dollars for the first time since August.
+A: In macro, the Federal Reserve now looks very likely to raise rates again in December, the Bank of England's balance sheet limit has been cut, and UK growth figures land tomorrow morning.
+B: In regulation, we follow up on the Senior Managers reforms, where the headline proposal is to scrap the Certification Regime altogether, plus the Bank of England's warning on AI and cyber risk.
+A: And in funds, a Canadian bank buys an Australian asset manager, State Street teams up with a Dutch boutique on active ETFs, and an update on private credit withdrawals. Then three things a COO should do today, and the diary. Right, George, markets!
+[PAUSE]
+B: Markets, Emma, and the story in one line: a hot inflation number took the shine off Monday's rebound.
+A: Give us the closing levels, George.
+B: The Dow Jones Industrial Average fell one hundred and fifty eight points, or zero point three percent, to fifty two thousand, two hundred and thirty two. The S&P five hundred lost zero point three eight percent, to seven thousand, five hundred and twenty one. And the Nasdaq Composite dropped zero point seven four percent, to twenty five thousand and sixty six.
+A: So not a rout. But a clear change in tone.
+B: Exactly. Technology took the brunt of it, and Nvidia was again the main drag, with the board's independent investigation into its chief executive still hanging over the shares.
+A: Now the real action was in bonds, wasn't it?
+B: It was, and this is the bit to watch! The two year Treasury yield, the one most sensitive to the Fed, jumped about seventeen basis points, to around four point seven three percent. A basis point, remember, is a hundredth of a percentage point.
+A: That's a big move for a single day.
+B: Huge! The ten year rose about ten basis points to around four point nine eight percent, after briefly trading above five percent. And the thirty year was up about nine, at roughly five point three five percent. A weak auction of forty two billion dollars of Treasury notes added to the pressure.
+A: And here's a useful detail for anyone with American operations. Today is Veterans Day in the United States. American stock markets are open as normal, but the bond market is closed, and so are most banks.
+B: Which matters for settlement and cash, Emma. If you have dollar payments or bond trades settling today, check them with your custodian now, not at four o'clock.
+A: Good shout. Over to London. The FTSE one hundred spent most of the day higher, then faded, closing down zero point two nine percent at ten thousand, seven hundred and fifty two. The FTSE two fifty did a bit better, up zero point one six percent.
+B: Any standout names?
+A: Marks and Spencer was the top riser after its capital markets day, where it reportedly pledged to double the dividend. Energy producers weighed on the index as oil slipped. In Europe, the STOXX six hundred traded within one percent of its record high during the morning, helped by cheaper oil, though I couldn't verify the final closing levels.
+B: Oil, then. Brent crude settled at ninety one dollars forty nine cents, down about one point two percent, but during the day it fell as low as eighty nine dollars sixteen. That's the first time below ninety dollars since August!
+A: What drove it?
+B: President Trump saying that Iran, quote, militarily is effectively over, and a rebound in oil shipments from the region. But there's still no formal agreement with Tehran. Brent is now roughly twenty three percent below its peak at the end of October.
+A: And gold had a bad day, George.
+B: It did. Gold fell about two percent, to around four thousand and fifty five dollars an ounce, as yields and the dollar rose. Silver lost nearly three percent.
+A: Sterling slipped below one dollar thirty four, its lowest since late October. That's really a dollar story rather than a pound story. The dollar index rose to around one hundred and two.
+B: And Asia this morning?
+A: Mixed. Japan's Nikkei is up about one percent, around sixty one thousand, for a third straight gain. Korea's Kospi is up nearly two percent, led by chip makers. But Hong Kong's Hang Seng is down a little under one percent, and SoftBank fell as much as ten percent after reporting a quarterly loss. These are intraday numbers.
+B: Busy night! Right, Emma, let's get into macro.
+[PAUSE]
+B: Macro, Emma, and that inflation report deserves a proper look.
+A: It does! American consumer prices rose zero point four percent in October, against forecasts of zero point three. That's down from zero point six percent in September, but still hotter than expected.
+B: And core inflation, which strips out food and energy?
+A: Up zero point three percent on the month, against expectations of zero point two. And economists were most worried by services, which tend to be stickier than goods.
+B: Here's an oddity, though. There's no annual inflation rate for October this time, is there?
+A: That's right, George! The Bureau of Labor Statistics isn't publishing a year on year figure for October, because no price data were collected in October last year, during the government shutdown. So if someone quotes you an annual number for October, ask where it came from.
+B: Now, what did the Fed make of it?
+A: The reaction was sharp. Chicago Fed President Austan Goolsbee called it, quote, another distressing report, borderline disturbing. And Governor Christopher Waller had signalled he'd back more forceful action if inflation came in higher than expected.
+B: So what are markets pricing?
+A: One widely quoted measure put the chance of a quarter point rise in December at about eighty four percent. And some traders have started talking about a half point move. The Fed's range is currently three point seven five to four percent, and it meets on the ninth of December.
+B: A year ago everyone was talking about cuts! What about the Bank of England?
+A: As we've covered, the Bank raised Bank Rate to four percent last Thursday. Since then, Governor Andrew Bailey has said a second rise is more likely than not if high energy costs return. So the oil price is doing a lot of work in the UK rate outlook.
+B: And there was balance sheet news yesterday, too.
+A: There was. The Chancellor lowered the maximum size of the Bank's gilt holdings, in what's called the Asset Purchase Facility, by forty two and a half billion pounds, to four hundred and eighty two point four billion. The Treasury said that simply matches the Bank's actual holdings as of the fourth of November.
+B: So more housekeeping than a policy change?
+A: Mostly, yes. But the Bank is shrinking its balance sheet while the government is still issuing heavily, which matters for gilt yields. Sources conflicted on yesterday's gilt levels, so I won't quote one.
+B: And the big UK data this week?
+A: Tomorrow, Thursday the twelfth, at seven in the morning, the Office for National Statistics publishes its first estimate of third quarter growth, along with the September monthly figure. For context, growth was zero point four percent in the second quarter and zero point six percent in the first. I couldn't find a reliable consensus for the third quarter, so I won't guess.
+B: Then the jobs data next week?
+A: Yes, Tuesday the seventeenth at seven o'clock. Those two releases, plus inflation, will shape the Bank's meeting on the seventeenth of December.
+B: And the European Central Bank, Emma?
+A: The ECB held its deposit rate at two and a half percent at the end of October. But euro area inflation hit four percent in October, on the flash estimate, a three year high and double the target. Core was steady at two and a half percent.
+B: So the ECB is leaning towards a rise too?
+A: It is. President Lagarde said it would take significant changes to stop a December rise, and Bundesbank President Joachim Nagel sees a strong case for one.
+B: So three major central banks, all leaning the same way!
+A: Exactly, George. And the thread running through all of it is oil and Iran. Cheaper oil helps. A collapse in talks would undo it quickly.
+B: Practical points for a COO?
+A: Two. If your credit lines are priced off benchmark rates, ask treasury to model another rise from all three banks. And with the dollar firmer, check the cost of rolling currency hedges this quarter.
+B: Sensible. Right, let's get into regulation!
+[PAUSE]
+B: Regulation, Emma, and we're going to follow up on something we touched on on Monday, because the detail turns out to be big.
+A: The Senior Managers and Certification Regime, or SM&CR. This is the set of rules that makes named individuals accountable for parts of a firm, and for many firms the COO is one of them.
+B: Right. On the twenty second of October, the Financial Conduct Authority published consultation paper twenty six slash thirty seven, phase two of its review. The Prudential Regulation Authority published a parallel paper the same day. And according to several law firm summaries, the headline proposal is to remove the Certification Regime altogether!
+A: That's a big one, George. Remind us what the Certification Regime is.
+B: It's the annual process where firms assess and certify that certain staff, who aren't senior managers but can still cause significant harm, are fit and proper. Think traders, portfolio managers, people who give advice. Every year, HR and compliance run assessments, collect evidence and sign certificates.
+A: And that would go?
+B: That's the proposal. The FCA would rely on other parts of its rulebook to deliver similar outcomes on competence and suitability. It would also remove the Directory, which is the public register of certified staff, reduce the number of roles that need FCA approval, simplify the documents that set out each senior manager's responsibilities, and change the approach to conduct rules training and breach reporting.
+A: And I gather there's even talk of a new name?
+B: There is! One law firm says the FCA has floated renaming it the Senior Managers and Conduct Rules regime. But, and this is important, much of this depends on the Government's legislation. The Financial Services and Markets Bill would allow some approvals to be replaced with a simple notification. So these are proposals, not rules.
+A: And when does it close?
+B: The twenty second of January twenty twenty seven.
+A: So what does it mean for a COO?
+B: Quite a lot. Operations: the annual certification cycle is a big piece of work. Don't tear it down yet, but plan for change. Compliance: responsibilities maps and conduct rules training may need redrafting. Technology: if you use a vendor system for certification, check your renewal dates. And people: you still need to show your staff are competent.
+A: Removing a process, not lowering the bar.
+B: Exactly, Emma. Now, the Bank of England. On Monday, Governor Bailey gave a speech in Zurich, and two themes stood out.
+A: Go on.
+B: First, he said frontier AI has increased the risk from cyber attacks, and called for more testing of AI models and better incident reporting. Second, he warned that an asset price bubble in AI could, if it burst, threaten UK financial stability.
+A: So one is an operational risk and one is a market risk.
+B: Spot on. For a COO, the cyber point is the actionable one. If attackers are using more capable AI tools, your phishing defences, access controls and incident response plans need to keep up. And notice the phrase incident reporting. Regulators want to know quickly when things go wrong.
+B: Next, Europe. On Monday, the European Securities and Markets Authority asked for nominations to a new European Tokenisation Standards Group. The deadline for candidates is the twenty seventh of November.
+B: If you're exploring tokenised share classes, meaning fund units on a blockchain style ledger, a seat at that table could be valuable.
+A: And across the Atlantic, George?
+B: Briefly, the Securities and Exchange Commission's proposal on how advisers and funds hold crypto assets is open for comment until the seventh of December. And its pay to play rule, on political donations, remains in force while it considers scrapping it.
+A: Then the deadlines. This is your project plan, so let's run through them crisply.
+B: One week today, the eighteenth of November, the FCA's cryptoasset consultations close. The eleventh of December, its consultation on redemption terms for funds holding illiquid assets. The twenty second of January, the Senior Managers consultation.
+A: Then the big ones. The FCA's fund liquidity rules, policy statement twenty six slash seventeen, apply from the first of February twenty twenty seven. That's less than three months away!
+B: The American private fund reporting form, Form PF, is now delayed to the first of July twenty twenty seven. UK settlement moves to one day after the trade, T plus one, on the eleventh of October twenty twenty seven. And new transaction reporting formats apply from the third of April twenty twenty eight.
+A: We found no new Dear CEO letters or FCA enforcement notices in the last day that we could verify. If you've seen one, check the FCA website.
+A: So the short version: plan for change, keep this year's cycle running, and put AI enabled cyber attacks on your next risk committee agenda. Right, over to funds!
+[PAUSE]
+A: Funds and industry, George, and we start with a deal.
+B: We do! On Monday, Royal Bank of Canada announced an agreement to buy Yarra Capital Management, an Australian active manager focused on Australian bonds, Australian equities and alternatives.
+A: How big is Yarra?
+B: About eighteen billion Australian dollars of assets under management, and around seventy five staff. RBC didn't disclose a price. It needs regulatory approval, and one report says completion is expected in the first quarter of next year.
+A: What's the bigger picture?
+B: RBC's asset management arm wants to grow outside North America, and buying a boutique gets you local teams, clients and a track record in one go. It's also part of a wave of consolidation in Australian asset management.
+A: And for a COO, a deal like that is mostly an integration story.
+B: Exactly. Systems, data, outsourcing contracts, regulatory permissions and people. Whether you're the buyer or the bought, the operating model decides whether the deal works. And if one of your service providers is being acquired, check change of control clauses and your outsourcing register.
+A: Next, ETFs. Investment Week reported yesterday that State Street and the Dutch firm Van Lanschot Kempen have launched a pair of active small cap ETFs.
+B: Tell us more, Emma.
+A: According to State Street's fund documents, there's a US Small Cap Active Equity UCITS ETF, with an ongoing charge of zero point five five percent, and a Europe ex UK Small Cap Active UCITS ETF, at around zero point six percent. They're domiciled in Ireland, on State Street's ETF platform, with Van Lanschot Kempen appointed as sub investment manager.
+B: So the boutique brings the investment skill, and the big platform brings the plumbing.
+A: That's exactly the model, George. Rather than build its own ETF infrastructure, with market makers, listings and daily portfolio disclosure, Kempen plugs into State Street's.
+A: And it's a real choice for mid sized managers. Build, buy or partner. Partnering gets you to market faster, but you give up some control and margin, and take on a key third party dependency. That's an outsourcing decision as much as a product one.
+A: And there's the private credit story, George. A genuine update this time.
+B: There is. A tracker published at the end of last week found that seven of the ten big American private credit funds it follows, the semi liquid ones sold to wealthy individuals, limited their latest round of withdrawals. Some paid out less than half of what investors asked for.
+A: Apollo's flagship fund again?
+B: Yes. It received requests for about fifteen percent of shares this quarter and paid out five percent, the third quarter in a row of limits. But here's the interesting bit: requests were down from almost seventeen percent the quarter before. Redemption pressure has started to ease across several of the big funds.
+A: So easing, but not over.
+B: Exactly. And it ties directly to the FCA's proposals on redemption terms and the liquidity rules from February. Promise more liquidity than the assets can deliver, and investors find out at the worst moment.
+A: Wise words. And any gating, suspensions or senior hires in the UK?
+B: Nothing we could verify in the last day, so we won't speculate.
+A: Fair enough. Right, time for the main event, George. Three things a COO should do something about today!
+B: Number one! Check today's American settlements. It's Veterans Day, so the American bond market and most banks are closed. Ask operations and treasury to confirm that any dollar payments, bond settlements or margin calls due today have been moved or covered.
+A: Number two. Run a rate shock check. American two year yields jumped seventeen basis points in an afternoon, and all three big central banks are leaning towards rises. Ask treasury and risk how another quarter point, or even half a point, would affect funding lines, hedging costs and collateral.
+B: Number three. Start a Senior Managers impact note. Ask compliance and HR to set out, on one page, what would change if the Certification Regime goes, which systems and contracts are affected, and whether you'll respond by the twenty second of January.
+A: Now the diary for the rest of this week and next. Today, Wednesday the eleventh, Armistice Day. A two minute silence at eleven o'clock, and American bond markets are closed for Veterans Day.
+B: Tomorrow, Thursday the twelfth, UK third quarter growth and September monthly figures at seven in the morning, plus American weekly jobless claims.
+A: Tuesday the seventeenth of November, UK labour market figures at seven. Wednesday the eighteenth, the FCA's cryptoasset consultations close.
+B: Friday the twenty seventh, ESMA's deadline for nominations to its tokenisation standards group. Then the SEC's crypto custody comments on the seventh of December, the Fed on the ninth, the redemption terms consultation on the eleventh, and the Bank of England on the seventeenth.
+A: Before we go, here's what we couldn't verify this morning: gilt yields, the euro and the yen, credit spreads, final European closing levels, and a consensus for tomorrow's UK growth figure. Please check your own screens.
+B: Thanks for listening, everyone. Have a brilliant Wednesday!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.
