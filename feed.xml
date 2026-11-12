@@ -15,7 +15,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 11 Nov 2026 05:53:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:52:48 +0000</lastBuildDate>
+    <item>
+      <title>Thu 12 Nov 2026: AI rally lifts Wall Street, Nvidia slides on CEO ouster report, UK GDP due, Financial Services Bill heads to committee</title>
+      <description>Wall Street and Europe&#x27;s STOXX 600 rally on AI optimism before Nvidia shares tumble after hours on a report its board is preparing to remove Jensen Huang. We preview this morning&#x27;s UK growth figures, a hawkish Bank of England deputy governor and a near-certain Fed rise in December, then look at the Financial Services and Markets Bill entering committee with a call for written evidence, reports the FCA may revisit its retail crypto derivatives ban, and private markets fundraising. Plus three COO action points and the diary.</description>
+      <itunes:summary>Wall Street and Europe&#x27;s STOXX 600 rally on AI optimism before Nvidia shares tumble after hours on a report its board is preparing to remove Jensen Huang. We preview this morning&#x27;s UK growth figures, a hawkish Bank of England deputy governor and a near-certain Fed rise in December, then look at the Financial Services and Markets Bill entering committee with a call for written evidence, reports the FCA may revisit its retail crypto derivatives ban, and private markets fundraising. Plus three COO action points and the diary.</itunes:summary>
+      <enclosure url="https://adcc228.github.io/6AD-morning-update/episodes/2026-11-12/episode.mp3" length="15138765" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-update-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 06:30:00 +0000</pubDate>
+      <itunes:duration>00:21:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Wed 11 Nov 2026: Hot US inflation lifts Fed hike bets, Treasury yields jump, Brent dips below $90, FCA plans to scrap the Certification Regime</title>
       <description>A hotter than expected American inflation report ends Wall Street&#x27;s rebound and sends Treasury yields sharply higher, while Brent briefly falls below ninety dollars on Iran hopes. We look at the Fed, Bank of England and ECB all leaning towards higher rates, the FCA&#x27;s proposal to remove the Certification Regime under its Senior Managers reforms, the Bank of England&#x27;s warning on AI and cyber risk, RBC&#x27;s deal for Yarra Capital, State Street and Van Lanschot Kempen&#x27;s active ETFs, and easing pressure on private credit withdrawals. Plus three COO action points, including today&#x27;s US Veterans Day bond market closure, and the diary.</description>
@@ -332,17 +343,6 @@
       <guid isPermaLink="false">morning-update-2026-10-02</guid>
       <pubDate>Fri, 02 Oct 2026 06:30:00 +0000</pubDate>
       <itunes:duration>00:19:10</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thu 01 Oct 2026: UK growth revised up, Treasury yields at 24-year high, FCA sustainability rules, Australian private credit freeze</title>
-      <description>Wall Street ends September with the 10-year Treasury yield above 5.3 per cent despite cooler US inflation, while UK second-quarter growth is revised up to 0.5 per cent and gilts rally ahead of the 28 October budget. Regulation: the FCA finalises UK sustainability reporting rules for listed issuers (PS26/19) and crypto perimeter guidance (PS26/18), and Ombudsman reforms start today. Funds: Metrics freezes Australian private credit funds after an auditor dispute, plus three COO action points and the week&#x27;s diary.</description>
-      <itunes:summary>Wall Street ends September with the 10-year Treasury yield above 5.3 per cent despite cooler US inflation, while UK second-quarter growth is revised up to 0.5 per cent and gilts rally ahead of the 28 October budget. Regulation: the FCA finalises UK sustainability reporting rules for listed issuers (PS26/19) and crypto perimeter guidance (PS26/18), and Ombudsman reforms start today. Funds: Metrics freezes Australian private credit funds after an auditor dispute, plus three COO action points and the week&#x27;s diary.</itunes:summary>
-      <enclosure url="https://adcc228.github.io/6AD-morning-update/episodes/2026-10-01/episode.mp3" length="14136525" type="audio/mpeg"/>
-      <guid isPermaLink="false">morning-update-2026-10-01</guid>
-      <pubDate>Thu, 01 Oct 2026 06:30:00 +0000</pubDate>
-      <itunes:duration>00:19:38</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

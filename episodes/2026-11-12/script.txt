@@ -1,0 +1,124 @@
+A: Good morning, and welcome to the Morning Update! Your daily briefing on markets, macro, regulation and the fund industry, for the people who run the operating side of an investment firm. It's Thursday the twelfth of November, twenty twenty six, and I'm Emma.
+B: And I'm George! Good morning, Emma. What a turnaround yesterday. Wall Street roared back on an AI rally, and then, after the closing bell, Nvidia fell off a cliff!
+A: It certainly did, George. Let's run the headlines, and then we'll dig in.
+B: In markets, the S&P five hundred rose more than one percent, the FTSE one hundred gained nearly eight tenths of a percent, Europe's STOXX six hundred hit a record close, and then Nvidia shares slid more than eight percent in late trading on reports its board is preparing to remove the chief executive.
+A: In macro, UK third quarter growth figures land at seven o'clock this morning, a Bank of England deputy governor says the conditions for persistent inflation are crystallising, and markets now see a December rate rise from the Fed as all but certain.
+B: In regulation, the Financial Services and Markets Bill moves to its committee stage, Parliament wants written evidence quickly, and there's talk of the FCA revisiting its ban on crypto derivatives for retail customers.
+A: And in funds, what the Nvidia drama means for stewardship and concentration risk, fundraising news from private markets, and Lazard completing a deal. Then three things a COO should do today, and the diary. Right, George, markets!
+[PAUSE]
+B: Markets, Emma, and the story in one line: AI optimism came roaring back during the day, then a governance shock hit after the close.
+A: Give us the closing levels, George.
+B: The S&P five hundred rose one point three one percent, to seven thousand, six hundred and nineteen. The Nasdaq Composite gained one point six percent, to twenty five thousand, four hundred and sixty six. And the Dow Jones Industrial Average added about half a percent, to fifty two thousand, four hundred and eighty six.
+A: So Tuesday's inflation wobble didn't last long! What drove the bounce?
+B: CoreWeave, the AI cloud company. It delivered strong results and a confident outlook, and that calmed worries about how AI infrastructure is being financed. Chip makers flew. Micron jumped nearly twelve percent, and AMD more than seven percent.
+A: And Nvidia itself rose during the session.
+B: It did, by roughly three percent. And then came the twist. After the bell, the Wall Street Journal reported that Nvidia's board is preparing to remove Jensen Huang as chief executive, following a second set of allegations about his private life. Nvidia shares fell more than eight percent in after hours trading, to around one hundred and fifty nine dollars.
+A: That's a big one, George! Has the company said anything?
+B: Not as we record. Reuters reported the board was meeting late on Wednesday to decide, and there's no named successor. So treat everything you hear this morning as reported, not confirmed.
+A: Now, the bond market was shut yesterday for Veterans Day. What happened when it reopened?
+B: Treasuries reopened in Asian trading, and longer dated bonds actually gained a little, as investors looked for safety after the Nvidia news. Bloomberg had the thirty year yield down about two basis points, at around five point three four percent, and the ten year steady at around four point nine nine. The two year closed Tuesday at about four point seven three percent. A basis point, remember, is a hundredth of a percentage point.
+A: Over to London. The FTSE one hundred closed up about zero point eight percent, at ten thousand, eight hundred and thirty five, recovering most of Tuesday's loss. The FTSE two fifty rose about zero point seven percent.
+B: What led the way here?
+A: Energy, mining and technology related shares. Spirax Group, the industrial engineer, climbed more than three and a half percent after sticking to its full year guidance. And in Europe, the STOXX six hundred closed at a record high, around six hundred and sixty three, according to Reuters.
+B: And oil turned round too, Emma.
+A: It did. After touching a two month low on Tuesday, Brent crude settled up about one point four percent, at ninety two dollars seventy six. West Texas Intermediate, the American benchmark, settled at eighty six dollars fifty three.
+B: Why the rebound?
+A: Doubts about a deal with Iran. Iran's security chief said enriched nuclear material would not leave the country, and that's a key American condition for talks. Interestingly, America's Energy Information Administration expects Brent to average around one hundred dollars over November and December.
+B: Gold and currencies?
+A: Gold is a little above four thousand dollars an ounce, after Tuesday's sharp fall. On the European Central Bank's reference rates yesterday, the euro was at around one dollar eleven, sterling around one dollar thirty three, and the dollar was buying about one hundred and fifty nine yen. The dollar remains close to its highs for the year.
+B: And Asia this morning?
+A: Fragile. Japan's Nikkei is roughly flat at around sixty one thousand, Korea's Kospi has given up early gains, and Taiwan, home of so many of Nvidia's suppliers, is down more than one percent. American stock futures are lower. These are intraday numbers.
+B: So a bumpy open likely for tech names in Europe, then. Right, Emma, let's get into macro!
+[PAUSE]
+B: Macro, Emma, and we start right here at home, with a number that's out at seven o'clock this morning.
+A: That's right, George. The Office for National Statistics publishes its first estimate of growth in the third quarter, July to September, plus the monthly figure for September. We recorded this before it landed, so it may already be on your screens.
+B: What are economists expecting?
+A: The consensus is for growth of around zero point seven percent in the quarter, which would be a pick up. Deutsche Bank's chief UK economist, Sanjay Raja, points to business investment in data centres, IT, defence and aircraft. And consumers have kept spending, despite the energy shock from the Iran conflict.
+B: But there's a catch?
+A: There is. Most forecasters expect growth to slow in the final quarter, as higher inflation and higher interest rates start to bite. So a strong third quarter could be the high point, not the start of a trend.
+B: And a strong number makes another rate rise easier to justify, doesn't it?
+A: Exactly. Which brings us to the Bank of England. On Tuesday, Deputy Governor Clare Lombardelli gave a speech, and it was hawkish. Her words: the conditions for persistent inflationary dynamics over the medium term are crystallising.
+B: That's striking language, Emma!
+A: It is. She wouldn't rule a December rise in or out. She said her vote would depend on the Middle East conflict, on prices and on the labour market, which she described as being in a low gear, with less hiring and fewer people changing jobs.
+B: Remind us where we are.
+A: The Bank raised Bank Rate to four percent last week, by a vote of eight to one. The one dissenter, Catherine Mann, wanted a bigger half point rise. And Governor Bailey has said he can see the argument for a further increase, unless news comes along that softens the inflation risks.
+B: And what's expected?
+A: The Bank's own survey of market participants has a median path of four and a quarter percent by February. So one more rise, probably early next year, though December is live.
+B: Across the Atlantic, the Fed. After Tuesday's inflation report, things have moved fast.
+A: Very fast! Markets now see a quarter point rise at the Fed's meeting on the eighth and ninth of December as close to certain, with the odds of a half point move somewhere between ten and fifteen percent.
+B: Who's been talking?
+A: Quite a chorus. Governor Christopher Waller says the Fed ought to raise rates in December. Philadelphia Fed President Anna Paulson backed further gradual tightening, and Dallas Fed President Lorie Logan also signalled more rises. The next big data point is the producer price index for October, out tomorrow afternoon, UK time.
+B: So the debate has shifted from whether to how much! And the European Central Bank?
+A: Still leaning towards a rise in December. A Reuters poll in October found most economists expect the deposit rate to go from two and a half to two and three quarter percent, with euro area inflation running at around double the target.
+B: So all three big central banks pointing the same way, again.
+A: They are. And the common thread is still oil and Iran. Every swing in the peace talks feeds straight into the rate outlook.
+B: What does it mean for a COO, practically?
+A: Two things. If your firm has floating rate borrowing or credit lines, budget for those costs to keep rising into next year. And volatility in rates and oil means bigger, more frequent margin calls on hedges, so check your collateral and cash buffers.
+B: Very sensible. Right, let's get into regulation!
+[PAUSE]
+B: Regulation, Emma, and we start in Parliament, because the big piece of financial services legislation this year has just moved up a gear.
+A: The Financial Services and Markets Bill. Remind us what's in it, George.
+B: It started in the House of Lords in May. On Tuesday, the tenth of November, it had its second reading in the House of Commons, which is the main debate on the principles of the bill.
+A: And what does it actually do?
+B: According to the Commons Library, it covers changes to consumer credit law, reform of the Financial Ombudsman Service, and a range of measures to cut regulatory burdens. And, as we discussed yesterday, it's the legislation that would allow some approvals under the Senior Managers regime to be replaced with a simple notification.
+A: So it's the legal foundation for a lot of the reforms the FCA has been consulting on.
+B: Exactly that. And here's the time sensitive bit. Parliament published a call for evidence yesterday. The Public Bill Committee, which goes through the bill line by line, meets for the first time on Tuesday the twenty fourth of November. And it's expected to finish by the fifteenth of December.
+A: How do people submit evidence?
+B: In writing only. There won't be any oral evidence sessions for this bill. And Parliament's advice is to send submissions as early as possible, because the committee can finish early, and once it's finished, no more evidence is accepted.
+A: So what does it mean for a COO?
+B: Three things. On compliance, if your firm has a view on the Senior Managers changes or the Ombudsman reforms, the window to influence the law itself is now. Most managers will do that through their trade body, so check whether yours is responding. On planning, the final law shapes the FCA's final rules, so don't lock in big process changes yet. And on governance, put it on the board's regulatory horizon for December.
+A: Helpful. Now, crypto, George. And this one comes with a health warning.
+B: It does. The FCA has banned the sale of crypto derivatives to retail customers since January twenty twenty one. That covers contracts for difference, futures and options that reference unregulated cryptoassets. That ban is still in force today.
+A: So what's new?
+B: A trade publication, TradeInformer, reported this week, citing two unnamed sources, that the FCA plans to consult in twenty twenty seven on possible changes, which could include retail access to what are called perpetual futures.
+A: Explain perpetual futures for us.
+B: Futures contracts with no expiry date. A regular funding payment between buyers and sellers keeps the price close to the underlying asset. They're hugely popular on offshore crypto exchanges, often with a lot of borrowed money.
+A: And the FCA hasn't confirmed this?
+B: No, it hasn't, so this is a report, not a policy. But it fits the direction of travel. The FCA has already reopened retail access to crypto exchange traded notes, as long as they trade on a UK recognised exchange. And its wider cryptoasset regime is due to start in October twenty twenty seven.
+A: What's the COO takeaway?
+B: Most traditional managers won't sell crypto derivatives to retail clients. But if you run digital asset strategies, or you're thinking about crypto exposure in funds, the rules are moving. And there's a near deadline: the FCA's consultation on its crypto perimeter guidance closes next Wednesday, the eighteenth of November.
+A: Anything from Europe, George?
+B: The Treasury's website lists a new joint statement from the EU UK Financial Regulatory Forum, dated yesterday, where officials from both sides meet twice a year. We haven't been able to review the contents yet, so we'll come back to it. Trade bodies want the forum to move from sharing information to actually coordinating new rules, which would help firms operating in both places.
+A: And the Americans?
+B: Briefly, the comment period on the Securities and Exchange Commission's proposal to scrap its pay to play rule on political donations closed on Monday. The rule stays in force until the SEC decides.
+A: Then the deadlines, George. Your project plan.
+B: Next Wednesday, the eighteenth of November, the FCA's crypto perimeter consultation closes. Tuesday the twenty fourth, the bill committee starts. The seventh of December, comments on the SEC's crypto custody proposal. The eleventh of December, the FCA's consultation on redemption terms for funds holding illiquid assets. And the twenty second of January, the Senior Managers consultation.
+A: And the big ones.
+B: The FCA's fund liquidity rules, policy statement twenty six slash seventeen, apply from the first of February twenty twenty seven. That's less than twelve weeks away! The American private fund reporting form, Form PF, is delayed to the first of July twenty twenty seven. And UK settlement moves to one day after the trade, T plus one, on the eleventh of October twenty twenty seven.
+A: And we found no new FCA enforcement notices or Dear CEO letters in the past day that we could verify. So the short version: the law behind the Senior Managers reforms is now in committee, evidence is wanted quickly, and crypto rules keep shifting. Right, over to funds!
+[PAUSE]
+A: Funds and industry, George, and we can't avoid Nvidia, can we?
+B: We can't! And there's a real fund industry angle here, beyond the share price.
+A: Go on.
+B: Nvidia is one of the largest companies in the world, and one of the biggest weights in the S&P five hundred and in global equity indices. So almost every index fund and global equity fund owns a lot of it. A leadership crisis at a company that size is a portfolio event, not just a stock story.
+A: What does that mean in practice?
+B: A few things. First, stewardship. Asset managers have voting rights and engagement duties. Expect stewardship teams to be asked how they're engaging with the board on succession and governance. Second, concentration risk. Active managers who are underweight might suddenly look clever, and those who are overweight may face questions from clients.
+A: And for operations?
+B: Volatility at the open means wider spreads and bigger price moves, which matters for ETF market makers, fund dealing and fair value pricing. And if clients ask what you hold, make sure client service and investment teams give the same answer.
+A: Key person risk, in its most dramatic form.
+B: Exactly, Emma. Most firms think about key person risk for their own fund managers. This is a reminder it applies to the companies you own too.
+A: Now, private markets fundraising, George. Some good news for smaller managers.
+B: Yes! Sagard, the alternative asset manager, closed its third private equity fund focused on emerging managers at five hundred and twenty million euros, comfortably above its four hundred million euro target, and roughly three times the size of its previous fund.
+A: What does an emerging manager fund do?
+B: It backs newer buyout firms, often on their first or second fund. Sagard says it's the largest fund ever raised with that specific focus. And in private credit, Churchill Asset Management reported a record close of one point five four billion dollars for its junior capital fund.
+A: Junior capital meaning?
+B: Lending that sits below the senior loans in a company's capital structure. Riskier, so it pays more. And it's notable that money is still flowing into private credit, even after the withdrawal limits we've seen at some of the big semi liquid funds.
+A: That's striking, isn't it? Investors pulling back from the funds with monthly or quarterly liquidity, but still committing to the traditional closed end funds.
+B: Spot on. The lesson for product teams is to match the liquidity you offer to the assets you hold. Which is exactly what the FCA's liquidity rules and redemption terms consultation are all about.
+A: And there's a deal completed, too.
+B: There is. Lazard completed its acquisition of Campbell Lutyens, the private capital advisory firm, at the start of this month. Campbell Lutyens helps private equity firms raise money and arranges sales of fund stakes on the secondary market.
+A: Why does that matter?
+B: Because the secondary market, where investors sell stakes in private funds before they end, has become one of the busiest corners of private markets. Big advisory groups want a bigger piece of that flow.
+A: And any UK gating, suspensions or senior hires in the last day?
+B: Nothing we could verify, so we won't speculate.
+A: Fair enough. Right, time for the main event, George. Three things a COO should do something about today!
+B: Number one! Get ahead of the Nvidia open. Ask your dealing desk and fund accounting teams to be ready for a volatile open in technology names. Check whether any fair value pricing triggers could be hit, and make sure client service has an agreed line on your exposure.
+A: Number two. Decide on the Financial Services and Markets Bill. Ask compliance whether your trade body is submitting written evidence to the committee, and whether you want to add anything, especially on the Senior Managers changes. The committee starts on the twenty fourth, and evidence closes when it finishes.
+B: Number three. Refresh your rate and collateral assumptions. With the Fed close to certain to raise rates in December, the Bank of England sounding hawkish, and oil swinging around, ask treasury to stress test your margin calls and credit line costs, and feed the results into next year's budget.
+A: Now the diary for the rest of this week and next. Today, Thursday the twelfth, UK third quarter growth and September monthly figures at seven in the morning, and American weekly jobless claims this afternoon.
+B: Tomorrow, Friday the thirteenth, the American producer price index for October. Tuesday the seventeenth of November, UK labour market figures at seven in the morning. Wednesday the eighteenth, the FCA's crypto perimeter consultation closes.
+A: Tuesday the twenty fourth, the Public Bill Committee on the Financial Services and Markets Bill meets for the first time. Friday the twenty seventh, ESMA's deadline for nominations to its tokenisation standards group.
+B: Then the SEC's crypto custody comments on the seventh of December, the Fed on the eighth and ninth, the FCA's redemption terms consultation on the eleventh, and the Bank of England on the seventeenth.
+A: Before we go, here's what we couldn't verify this morning: gilt yields, credit spreads, exact closing levels for gold, and the official outcome of Nvidia's board meeting. Please check your own screens.
+B: Thanks for listening, everyone. Have a brilliant Thursday!
+A: That's it for today's Morning Update. This summary is for information only and is not investment advice.

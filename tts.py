@@ -21,6 +21,7 @@ SAY_AS = {
     "BoE": "B O E", "BoJ": "B O J", "HANetf": "Han E T F", "AllianceBernstein": "Alliance Bernstein",
     "BlackRock": "Black Rock", "vs": "versus", "NEOS": "Neos", "LTAF": "L T A F", "e.g.": "for example", "i.e.": "that is", "Q&A": "Q and A",
     "Lanschot": "Lan skot", "Goolsbee": "Gools bee", "SoftBank": "Soft Bank", "Nagel": "Nah gel",
+    "TradeInformer": "Trade Informer", "CoreWeave": "Core Weave", "Lutyens": "Lutchens", "Lombardelli": "Lom bar delly", "Spirax": "Spy racks", "Sagard": "Sah gard",
 }
 # 2) All-caps words read as words rather than letters (anything else in capitals is spelled out).
 AS_WORD = {"NATO", "DORA", "FINRA", "FRAME", "CREST", "SWIFT", "COVID", "NASA", "UNESCO", "PAUSE"}
